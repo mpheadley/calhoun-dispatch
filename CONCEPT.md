@@ -503,7 +503,7 @@ This is a fun project, not a business. Don't add monetization that creates caden
 
 ### Phase 0 — Now (no income, low cost)
 - **Hosting:** Vercel free tier
-- **Domain:** still on `green-tomato.vercel.app`. Buy `thegreentomato.news` ($25/yr) when ready to brand publicly
+- **Domain:** **`thegreentomato.news`** (decided April 26, locked). Currently still on `green-tomato.vercel.app`; buy and point DNS when ready to share publicly. **NOT** `greentomato.news` — the brand is "The Green Tomato" everywhere; URL must match. See `content/research/domain-decision.md`.
 - **Image gen costs:** ~$0.10-0.50/image on Replicate. Maybe $5-15/month at current pace
 - **Total burn:** under $30/yr right now
 

@@ -70,7 +70,7 @@ The entire promotion. Lets the existing audience trickle in if they want.
 - No public social yet
 - Share site privately with 2-3 trusted readers (Heather, one local writer, maybe Donna)
 - Listen for friction in tone before broadcasting
-- Buy `thegreentomato.news` ($25)
+- Buy `thegreentomato.news` ($25) — locked, see domain-decision.md
 
 ### Week 2 — Accounts Live
 - Create `@thegreentomato` on Bluesky **and** Instagram
