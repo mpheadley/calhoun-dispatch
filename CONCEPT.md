@@ -5,13 +5,22 @@
 
 ## The Name
 
-**The Green Tomato.** Onion-mechanics with a Southern accent — vegetable name + self-important "newspaper of record" register. Whistle Stop / Fannie Flagg territory; "green" already carries *unripe, not quite there*, which is exactly Dale's coverage. Dale Brewer as "Bureau Chief, The Green Tomato" is funnier than Bureau Chief of any plausible-sounding paper before he opens his mouth.
+**The Green Tomato.** Decision locked April 26, 2026. Briefly considered switching to *The Calhoun Gazette* — rejected. See "Why Green Tomato Wins" below.
 
-Why it's better than "The Calhoun Dispatch":
-- Lower defamation surface — nobody confuses *The Green Tomato* with the Calhoun Journal
-- More memorable, easier to own visually
-- Self-tagline writes itself: *"Calhoun County's Most Trusted News Source Since Recently"* / *"The Vegetable of Record"*
-- Frees Dale's gravity to do more comedic work
+Onion-mechanics with a Southern accent — vegetable name + self-important "newspaper of record" register. Whistle Stop / Fannie Flagg territory; "green" already carries *unripe, not quite there*, which is exactly Dale's coverage. Dale Brewer as "Bureau Chief, The Green Tomato" is funnier than Bureau Chief of any plausible-sounding paper before he opens his mouth.
+
+### Why Green Tomato wins (vs. Calhoun Gazette and other plausible-sounding names)
+
+1. **Lower defamation / brand-collision surface.** *Gazette* and *Dispatch* are real-paper names — there are real Gazettes and Dispatches across Alabama and the South, and at least one Calhoun-area outlet uses each form. A name that sounds like a real paper invites confusion that a satire site cannot afford. *The Green Tomato* could not be mistaken for a real publication.
+2. **Pre-installed humor.** Plausible-sounding names make Dale do all the comedic work; the masthead is straight. *Green Tomato* is half-funny before Dale opens his mouth — every byline reads "Dale Brewer, Bureau Chief, The Green Tomato" and is already operating at 60%.
+3. **Pre-installed metaphor.** "Green tomato" = unripe, not-quite-there. That is Dale's beat. The county thinks it's about to bloom; Dale covers each not-yet as if it's a moonshot. The name *carries* the joke; *Gazette* carries nothing.
+4. **Southern literary anchor.** Whistle Stop Cafe / Fannie Flagg / *Fried Green Tomatoes* — adjacent without infringing. Reads as "of this place" rather than "from anywhere small."
+5. **Tagline writes itself.** *Calhoun County's Most Trusted News Source Since Recently. The Vegetable of Record.* These don't work for *The Calhoun Gazette*.
+6. **Visual ownability.** A green tomato is a logo. A gazette is a font choice. Easier to own a wordmark, a favicon, social cards.
+7. **Calhoun Journal protection.** A name that sounds like a real Calhoun-area paper increases the likelihood that residents read the satire as targeting the Calhoun Journal specifically. *Green Tomato* sits clearly outside that frame.
+8. **Pseudonym hygiene.** When the project leaks, *Green Tomato* reads as "obvious satire project." *Calhoun Gazette* reads as "competitor outlet" — much messier.
+
+The only argument for *Calhoun Gazette* is that it sounds more "real local paper." That is exactly the argument against it.
 
 ---
 
