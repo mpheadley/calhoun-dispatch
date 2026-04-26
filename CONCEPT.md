@@ -1,5 +1,17 @@
-# The Calhoun Dispatch — Concept Doc
-*Working title. Sister project to Southern Legends.*
+# The Green Tomato — Concept Doc
+*(formerly working title "The Calhoun Dispatch." Sister project to Southern Legends.)*
+
+---
+
+## The Name
+
+**The Green Tomato.** Onion-mechanics with a Southern accent — vegetable name + self-important "newspaper of record" register. Whistle Stop / Fannie Flagg territory; "green" already carries *unripe, not quite there*, which is exactly Dale's coverage. Dale Brewer as "Bureau Chief, The Green Tomato" is funnier than Bureau Chief of any plausible-sounding paper before he opens his mouth.
+
+Why it's better than "The Calhoun Dispatch":
+- Lower defamation surface — nobody confuses *The Green Tomato* with the Calhoun Journal
+- More memorable, easier to own visually
+- Self-tagline writes itself: *"Calhoun County's Most Trusted News Source Since Recently"* / *"The Vegetable of Record"*
+- Frees Dale's gravity to do more comedic work
 
 ---
 
@@ -16,7 +28,7 @@ Secondary: eventually public, if it gets good enough.
 ## The Character
 
 **Dale Brewer** *(working name)*
-- Calhoun County Bureau Chief, The Piedmont Dispatch
+- Calhoun County Bureau Chief, The Green Tomato
 - JSU broadcast journalism grad, never quite made it out of the county
 - Three LinkedIn connections
 - Genuinely believes the Oxford West Industrial Park expansion is the most important story of our time
@@ -28,7 +40,7 @@ Dale is not in on the joke. That's the whole thing.
 
 ## The Cast
 
-Dale anchors the masthead, but the Dispatch is a **world** — Springfield, not just Kent Brockman. Each recurring character carries a different comic register. Use them rotationally; let the reader build equity in them so "Mayor Henley announced today" lands before the verb.
+Dale anchors the masthead, but The Green Tomato is a **world** — Springfield, not just Kent Brockman. Each recurring character carries a different comic register. Use them rotationally; let the reader build equity in them so "Mayor Henley announced today" lands before the verb.
 
 - **Dale Brewer** — Bureau Chief. Earnest gravity. The straight man. Files everything as the Pulitzer story he never won.
 - **Mayor Lyle Henley** *(Oxford)* — Ribbon-cutter laureate. Every Dollar General is a milestone. Speaks exclusively in groundbreaking-ceremony cadence.
@@ -54,6 +66,42 @@ Short-form video is the natural home:
 - Bad blazer. Slightly wrong lighting. Complete sincerity.
 
 Secondary: fake headlines and 200-word "articles" in the style of the Calhoun Journal. For when video isn't worth the effort but the joke needs to exist.
+
+---
+
+## Aesthetic Direction
+
+**The Green Tomato is a website that has not been updated since approximately 1998.**
+
+This is the visual register and it's load-bearing. It does three things at once:
+- Funny on first load — no setup required
+- True parody of how Calhoun County institutions actually present online (county sites, school sites, half the Star's pages)
+- Solves brand separation from Southern Legends visually, not just verbally
+
+### The look
+- Tiled background (small repeating pattern — green gingham, marble, or "stationery")
+- Times New Roman everywhere, Comic Sans for "important" notices
+- Marquee tags ("BREAKING: SCROLL TO READ")
+- Animated GIFs: under-construction, mailbox, spinning newspaper, dancing baby for "Sports"
+- Tables-for-layout aesthetic (modern code, period-correct UI)
+- `<hr noshade size="3" color="#000080">` between sections
+- Visitor counter ("You are visitor #4,217,330")
+- "Last Updated: April 24, 2003" at the bottom of every page
+- "Best Viewed in Netscape Navigator 4.0 at 800x600"
+- Webring at the bottom linking to other fake Calhoun-area sites
+- A "Sign My Guestbook" link that 404s
+- One element on every page that is just permanently broken (red X for missing image)
+- Email-the-Webmaster link goes to dale@thegreentomato.com
+
+### What it rules out
+Modern animations (GSAP, Lenis smooth scroll, scroll-triggered reveals), parallax, scrollytelling, photo carousels, profile cards, featured tilts — anything that looks designed after 2001. See **Build Notes** below for the component triage.
+
+### What it enables
+- Cheaper to produce — no design system to maintain
+- Stronger comic identity from the URL bar to the footer
+- Period-correct banner ads belong here — and they're a load-bearing part of the joke (see **Ad Inventory** below)
+
+The visual joke is the front; the back stays Next.js 16 + MDX + RSC. The whole gag is modern engineering doing 1998 cosplay.
 
 ---
 
@@ -110,24 +158,70 @@ Best silly-lane premises follow the **raptor-run formula**: real institution + o
 
 ---
 
+## Ad Inventory
+
+Period-correct banner ads are a load-bearing visual joke — they pair with the 1998 aesthetic and reproduce the actual experience of reading a local Alabama news site, where most of the page real estate is spam. Two flavors of inventory:
+
+### 1. Internet spam ads (the texture — primary)
+
+The garbage that infests every local news site: weight-loss pills, "one weird trick," celebrity gossip, fake medical breakthroughs, AI-generated miracle cures, *"Local Mom Discovers"* content-farm bait. Generic enough to feel like the real local-news experience. Occasionally Calhoun-twisted to fold the lore in.
+
+**Generic register:**
+- *"Doctors Don't Want You to Know This 1 Weird Trick"*
+- *"She Lost 47 Pounds With This One Vegetable"* — *(the vegetable: the green tomato. Recurring.)*
+- *"Top Cardiologist: Throw Out Your Pillow Tonight"*
+- *"Diabetes Breakthrough Has Big Pharma Furious"*
+- *"AI Says These 3 Stocks Will Make You Rich by Friday"*
+- *"This $19 Gadget Is Replacing Cable in Anniston"*
+- Banners with terrible AI images (seven fingers, melted faces)
+- Auto-play video that cannot be paused
+- Pop-up that reappears every fifth page-load
+
+**Calhoun-twisted register (rarer, funnier):**
+- *"Anniston Mom Loses 47 Pounds With This Goat"* — Noccalula goat photo
+- *"Local Man Sheds Belly Fat By Avoiding This One Calhoun County Vegetable"*
+- *"JSU Researcher Discovers Trick Big Education Hates"* — Dr. Edmondson photo, uncredited
+- *"Cheaha Hiker Discovers Strange New Method"* — fade-to-blurry-photo
+
+### 2. Recurring fictional local advertisers (secondary — character work)
+
+Same name in the same slot every issue. Lower-rent than the spam, more affectionate. They become world-building.
+
+- **HURT? CALL BERT.** — Bert Whitlock, Attorney at Law. Concerning headshot. *"I FIGHT FOR YOU"* in red Impact font.
+- **Wendell Hightower's Truck Accessories** — *"He Has a Theory."* Always pictured next to a Silverado.
+- **The Bridge at Oxford** — Pastor Brad in a v-neck. *Untethered: A Five-Week Journey* banner.
+- **Quintard Vape Vault** — *"Calhoun's Premier Vape Destination (Eleventh Location)."*
+- **Tubb for Sheriff** — *"Re-Elect. He's Aware of It."* Same campaign sign for sixteen years.
+- **Ammo Bonanza Outlet** — going out of business since 2014.
+- **Cheaha Funeral Services** — *"At the Top of Our Game."* Slogan unchanged since 1976.
+- **Calhoun County EDC** — *"Investment-Ready Since 1987."* Wendell Moss thumbs-up.
+
+### Slot rules
+- Mostly spam, peppered with the recurring locals — that's the real local-news experience
+- One slot per page is permanently broken (red X, "image.gif could not be found")
+- Period-correct chrome — gradients, exclamation points, "CLICK HERE!!!", animated GIFs
+- **Fake-only.** Real local ads = legal headache and pulls the Calhoun Journal back into frame.
+
+---
+
 ## Brand Architecture
 
 **Sister project to Southern Legends** — not a competitor, a complement.
 
 - SL profiles the people doing real work
-- The Dispatch skewers the institutions making their work harder
+- The Green Tomato skewers the institutions making their work harder
 - Same love for the place, opposite register
 
 Keeps them separate:
 - Different domain, different brand, different voice
-- SL = earnest, serious, embedded. The Dispatch = sincerely absurd.
+- SL = earnest, serious, embedded. The Green Tomato = sincerely absurd.
 - The Bitter Southerner model: one sensibility, multiple registers
 
 ---
 
 ## The Pseudonym
 
-Dale Brewer (or whoever) runs The Dispatch. Matt Headley does not.
+Dale Brewer (or whoever) runs The Green Tomato. Matt Headley does not.
 
 **What the pseudonym buys:**
 - Calhoun Journal relationship stays clean
@@ -190,3 +284,35 @@ First test: can you write five headlines that make you actually laugh out loud? 
 8. *DeSoto Caverns Laser Show Strikes Stalactite; Something Has Awakened*
 9. *Helen, GA Tour Returns Full of Calhoun Residents Convinced They Have Been to Germany*
 10. *Coldwater Mountain Trail Association Reports Record Year, Despite or Because of Cyclist Disappearances*
+
+---
+
+## Build Notes — Component Triage
+
+The Next.js + MDX + Tailwind backbone stays. The visible UI is a 1998 cosplay; the engineering is modern. Most existing components were built for a modern editorial publication and don't survive the pivot.
+
+### Keeps (with rework)
+- `src/lib/articles.ts`, MDX rendering pipeline, routing
+- `Nav.tsx`, `Footer.tsx` — restyled (table-based, period-correct)
+- `search/` — re-skinned as a busted FrontPage-era form
+- `Comments.tsx` — re-skinned as a "Guestbook"
+- `SubscribeCTA.tsx` — re-skinned as "Join Our Mailing List!" with one email field and an animated mailbox
+
+### Cuts
+- `ParallaxHero.tsx`, `LenisProvider.tsx`, `ScrollReveal.tsx`, `ReadingProgressBar.tsx` — wrong era
+- `ScrollytellingProfile.tsx`, `ProfileCardHero.tsx`, `ProfileCard.tsx`, `FeaturedTilt.tsx` — SL components, not Tomato
+- `PhotoStrip.tsx`, `PhotoCarousel.tsx`, `PhotoCarouselLoader.tsx`, `HeroCarousel.tsx` — too modern
+- `SermonCard.tsx`, `SongCard.tsx`, `JournalCard.tsx`, `JournalNav.tsx` — leftovers from SL
+- `MusicEmbed.tsx`, `AudioPlayer.tsx` — unless reskinned as a RealAudio embed gag
+- `StripeBuyButton.tsx`, `StripePricingTable.tsx` — no commerce on the Tomato
+- `TimelineBlock.tsx`, `PullQuote.tsx`, `InlineImage.tsx`, `ArticleImage.tsx` — replace with period-correct versions
+
+### New components
+- `<Marquee>` — for the BREAKING bar
+- `<HitCounter>` — always lying upward
+- `<UnderConstruction>` — drop-in GIF wrapper
+- `<Webring>` — footer with five fake sister sites
+- `<AdSlot>` — rotates through the spam + local inventory
+- `<BrokenImage>` — one per page, deliberately
+- `<Guestbook>` — replaces Comments
+- `<DateStamp>` — "Last Updated: April 24, 2003"
