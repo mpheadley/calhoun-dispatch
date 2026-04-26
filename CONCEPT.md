@@ -392,3 +392,70 @@ The museum has an actual Egyptian mummy on permanent display. Dale covers it wit
 ### The Mummy + The Raptors (crossover)
 - "Museum Officials Confirm Mummy and Raptors Have Never Been in the Same Room; Offer No Further Context"
 - "Mummy Exhibit Relocated Following 'Routine Maintenance' to Raptor Wing; Staff Declines Questions"
+
+### Knox Concert Series rebrand
+
+**Premise:** The JSU Knox Concert Series (real — classical music, performing arts) reboots in a wildly incongruous new direction. Heavy metal. Hip-hop dancing. Bar band tribute night. Elvis impersonators. Series director gives press conference framing it as evolution.
+
+**Assessment:** B-tier. The structure is "thing X becomes incongruous thing Y" — funny once, but a thin mechanic. Stronger as a brief news item ("Knox Concert Series Announces New Direction; First Performance Features Local Bar Band 'Wet Concrete'") than as a full feature. **Save for a slow week.**
+
+### Oxford Middle School robotics → existential threat
+
+**Premise:** Real kid wins science fair with invention that has unintended catastrophic implications. AI singularity / time travel paradox / robot apocalypse / Terminator scenario. Dale reports it as a feel-good community story. Press release praises the seventh-grader's "creativity" and "STEM aptitude." School superintendent quoted. Ethics professor quoted at end with brief, ignored warning.
+
+**Assessment:** A-tier. This is rich. Multiple turns of phrase available — the institutional apparatus around science fairs (judges, ribbons, parents) applied to a student who has accidentally ended history. "Award-winner Ms. Tilley's invention has been reproduced in three additional classrooms; concerns from the U.S. Department of Defense are described by district officials as 'mostly procedural.'" **Strong. Write next.**
+
+### Concert center managers' grocery-store fistfight
+
+**Premise:** Managers of the Anniston Performing Arts Center and the Oxford Performing Arts Center get into a physical altercation in the produce section over a long-running rivalry. Use composite/fictional names — never real people in named conflict.
+
+**Assessment:** B+ tier. The premise has physical-comedy potential, but:
+- Risk of being mistaken for real people in real institutions
+- Specific cause-of-fight matters and isn't obvious
+- Best version: the cause is something absurdly small (booking the same Christian comedian on overlapping dates; competing bid for the same regional jazz festival; they were both reaching for the last Roma tomato).
+- Use cast: maybe Coach Pickens witnesses it.
+
+**Hold until cause is locked.** Once you know the *what*, the piece writes itself.
+
+### The 2010 Spain–Robinson incident — backstory, not satire
+
+**Real:** Anniston Councilor John Spain physically attacked Mayor Gene Robinson after a council meeting on September 13. Spain was charged with third-degree assault. Multiple police testimony.
+
+**Rule: don't satirize this directly.** Real named people, real criminal proceedings. Cruel and legally risky.
+
+**But Dale references it implicitly:** It becomes the silent "incident" that prompted whatever the current council is doing badly. Rich for these uses:
+- *"Anniston City Council Concludes Civility Training Refresher; Trainer Notes Most Members 'Engaged Throughout'"*
+- *"City Council Adopts New Conflict De-Escalation Protocol Following Council Member's Email; Protocol Has Been Adopted Three Previous Times"*
+- *"Anniston City Council Reaffirms Commitment to Respectful Dialogue, Citing 'Lessons Learned' Without Specifying Lessons or When"*
+
+The rule: the incident is the *reason* for the comedy without ever being the *subject* of it.
+
+---
+
+## Multi-City Identity Protection — Should The Green Tomato Cover Birmingham / Gadsden / Fort Payne / Tuscaloosa?
+
+**Question:** Does covering NE Alabama / North Alabama broadly (rather than Calhoun-only) protect Matt's identity?
+
+**Answer: No. Stay hyperlocal.**
+
+**Pros (the case for diluting):**
+- More material
+- "Regional" outlet sounds more legitimate
+- Could obscure that the writer is Calhoun-based
+
+**Cons (much heavier):**
+- **Specificity is the engine.** The pieces that work — Monsanto fish, Dollar General/country club, Mummy wellness check, Freedom Riders connection — only land because the reader recognizes the *exact* place. Dilution kills the joke.
+- **Identity is not protected by geography — it's protected by voice.** Matt's Calhoun knowledge is the tell. Adding Tuscaloosa coverage doesn't disguise it; it just means the Tuscaloosa coverage is shallow.
+- **Dale is a Calhoun County Bureau Chief.** Sending Dale to Birmingham breaks the character. Dale doesn't know Birmingham. He's never been to Tuscaloosa.
+- **Research load multiplies.** Each new city requires the same level of source-material work. Quality drops.
+- **Pseudonym still leaks.** A Birmingham reader who recognizes Calhoun-specific knowledge in a Birmingham-coverage piece will identify the writer just as quickly as a Calhoun reader.
+
+**Better identity protection:**
+- The pseudonym (Dale Brewer) — already in place
+- No cross-links to SL or HW — already the rule
+- No first-person, no Matt voice ever — already the rule
+- Don't promote from personal accounts (FB, Twitter, LinkedIn)
+- Use a separate email for any future correspondence (`dale@thegreentomato.news`)
+- Don't deploy from networks that geolocate to Matt's known locations (low priority unless someone's actively investigating)
+
+**Verdict:** Better to be a sharp Calhoun-only voice than a diluted Alabama voice. The hyperlocal frame *is* the brand. Don't trade specificity for cover — the cover doesn't actually work, and you lose the engine.
