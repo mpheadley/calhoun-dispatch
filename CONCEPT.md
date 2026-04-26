@@ -494,3 +494,76 @@ These two combine into the strongest piece because they share a common spine: **
 **After Jerrod's SL profile publishes,** Called Coffee can be referenced *with affection* the way local papers reference local landmarks (Big Sam the Balloon Man, the Sinclair Social, etc.). That's not satire — that's world-building via real beloved details.
 
 **Genre coffee satire is fine** without naming any specific shop. Examples: pour-over / iced confusion, single-origin Ethiopian ordered like a latte, regional barista championship dominated by Birmingham finalists. These ride the third-wave-coffee-in-Alabama category without targeting Jerrod.
+
+---
+
+## Income Plan — Phased
+
+This is a fun project, not a business. Don't add monetization that creates cadence pressure. But if voluntary income covers domain + tools + image-gen costs and leaves a small surplus, that's a win. Plan in three phases, gated by reader traction.
+
+### Phase 0 — Now (no income, low cost)
+- **Hosting:** Vercel free tier
+- **Domain:** still on `green-tomato.vercel.app`. Buy `thegreentomato.news` ($25/yr) when ready to brand publicly
+- **Image gen costs:** ~$0.10-0.50/image on Replicate. Maybe $5-15/month at current pace
+- **Total burn:** under $30/yr right now
+
+### Phase 1 — First income trigger (5-6 strong articles, ~500 unique visitors)
+Two adds, both on-brand:
+
+1. **Satirical "Support Dale" page**
+   - Buy Me a Coffee link (`buymeacoffee.com/dalebrewer`) styled as a Patreon-era support page
+   - Reward tiers (presented as already-active):
+     - **$1/mo:** "Dale will continue working"
+     - **$5/mo:** "Hand-typed thank you postcard, signed *Yours in Coverage, Dale*"
+     - **$25/mo:** "Your name appears in the Webring (subject to availability)"
+     - **$100/mo:** "One-time mention in a future article as 'a concerned local resident'"
+   - Public patron list shows three names: a Calhoun County PO Box, "Anonymous," and "Anonymous (Same One)."
+   - Realistic income: **$10-50/mo** if 100 readers see it and 1% give
+
+2. **Print-on-demand merch via Fourthwall** (same platform as Matt's bipolar brand — already set up, no new vendor)
+   - Initial 3-4 SKUs:
+     - "I Survived the Raptor Run" t-shirt
+     - "The Vegetable of Record" tote
+     - "Dale Brewer / Bureau Chief" mug
+     - "Investment-Ready Since 1987" Calhoun County EDC parody t-shirt
+   - Realistic income: **$50-200/mo** with regular release cadence
+   - Cost of entry: zero (POD, no inventory)
+
+**Phase 1 ceiling:** $60-250/mo. Pays the domain, image gen, and a HeyGen subscription with margin to spare.
+
+### Phase 2 — Video gen (when Phase 1 income clears $50/mo for 2+ months)
+Don't pay for video tools out of pocket. Wait for the satire donation page + merch to clear the threshold. Then:
+
+- **HeyGen Pro** ($30/mo) for AI news anchor avatar — Dale Brewer as a slightly-too-corporate news anchor
+- **ElevenLabs Starter** ($5/mo) for voiceover — clone or generate Dale's voice
+- **Replicate** for B-roll / scene clips when needed (Kling 2.0, Sync.so for lip-sync) — pay per generation, ~$0.50-2/clip
+
+**Pipeline:**
+1. Imagen still of Dale Brewer (one-time, ~$0.30)
+2. Write 60-90 second script
+3. ElevenLabs voiceover (~$0.10/min)
+4. Sync.so or HeyGen for talking-head animation
+5. Imagen/Kling for cutaway B-roll (the Anniston skyline, the museum, the country club)
+6. Post in 1080×1920 vertical for TikTok/Reels + 16:9 for YouTube
+
+**Phase 2 launch criterion:** at least one piece per week of consistent text article cadence. Don't add video until the writing rhythm is sustainable.
+
+### Phase 3 — Reader threshold (~2,000-5,000 unique monthly visitors, if it ever happens)
+Optional adds, gated by audience size:
+- **Substack/Ghost paid newsletter** ($5/mo) — only if readers ask for it, not before. Adds cadence pressure; only worth it if you're already shipping weekly.
+- **Limited-edition zines** — print 100 copies of "The Best of The Green Tomato" via Lulu or local print shop, sell at $15-25 each
+- **Live event** — a "Dale Brewer Reads The News" night at a local venue (Peerless Saloon, Sinclair Social), $10 cover
+
+### What not to do (ever)
+- **No display ads from real ad networks.** Real ads next to fake ads breaks the satire. Outbrain/Taboola would also be ironic in the wrong way (real version of the joke).
+- **No sponsored content.** Even if a real local business asks. Collapses the bit.
+- **No real ad sales.** Same reason.
+- **No Patreon at scale.** Substack handles paid content better. Patreon's UI doesn't fit the 1998 aesthetic — Buy Me a Coffee is closer.
+- **No newsletter required to read articles.** The site stays free to read; Buy Me a Coffee + merch are the only asks, both voluntary.
+
+### Realistic 12-month outlook
+- **Months 1-3:** Build to 5-6 articles, no income, ~$10-30 in tooling costs
+- **Months 4-6:** Phase 1 launch (donation + merch), income $20-100/mo
+- **Months 7-12:** If audience grows, video starts + merch matures, income $100-300/mo
+
+This isn't a business, but it could pay for itself plus a small monthly surplus if it finds a small but loyal audience. Anything beyond that is bonus.
