@@ -319,6 +319,21 @@ The Next.js + MDX + Tailwind backbone stays. The visible UI is a 1998 cosplay; t
 
 ---
 
+## Open Questions
+
+Pending Matt's call before any code work begins:
+
+1. **Confirm the rename.** Doc currently assumes *The Green Tomato* is final. If it's still a maybe, flag before code references downstream multiply.
+2. **Headlines 4 and 5.** First Seed List has three locked. Two more needed before the "five make me laugh" test from **Status** is satisfied.
+3. **Domain.** `thegreentomato.com`? `thegreentomato.news`? Something more Calhoun-specific (`calhoungreentomato.com`)? Affects the email-the-webmaster gag and overall brand frame.
+4. **Dale's last name.** "Dale Brewer" is a working name. Locking it lets him recur cleanly across articles, ads, the webmaster email, the byline, and (eventually) video.
+5. **Pseudonym posture.** Aggressive — separate everything, no Matt connection — vs. casual, let it leak when it leaks. Current doc assumes aggressive for 6–12 months; revisit if priorities shift.
+6. **Pastor Brad's church name.** "The Bridge at Oxford" is plausible but generic. Worth swapping to something more specifically Calhoun if the bit is going to recur in ads + articles.
+7. **Real-or-fake source material in ads.** Doc says fake-only. If the Calhoun-twisted spam uses real photos of real landmarks (Cheaha, Noccalula goat, JSU), confirm — line between "public-domain location image" and "implies endorsement" is thin in a market this small.
+8. **First video target.** Format section calls short-form video the natural home, but the publication is currently text + ads only. Decide whether the launch shape is text-first (cheaper, faster) or video-first (the original pitch) before any work starts.
+
+---
+
 ## Next Steps
 
 When work resumes (no urgency — see **Status**):
