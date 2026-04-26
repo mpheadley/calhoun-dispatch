@@ -1,10 +1,18 @@
 import type { Metadata } from "next";
+import { UnifrakturMaguntia } from "next/font/google";
 import { ViewTransitions } from "next-view-transitions";
 import Nav from "./components/Nav";
 import Footer from "./components/Footer";
 import Marquee from "./components/Marquee";
 import { siteConfig } from "@/lib/site-config";
 import "./globals.css";
+
+const blackletter = UnifrakturMaguntia({
+  variable: "--font-blackletter",
+  subsets: ["latin"],
+  display: "swap",
+  weight: "400",
+});
 
 export const metadata: Metadata = {
   title: {
@@ -32,7 +40,7 @@ export default function RootLayout({
 }>) {
   return (
     <ViewTransitions>
-      <html lang="en">
+      <html lang="en" className={blackletter.variable}>
         <body>
           <a href="#main-content" className="skip-link">Skip to content</a>
           <div className="gt-page">

@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>The Green Tomato — Drop #1 Design Preview</title>
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&family=Source+Sans+3:wght@400;700&display=swap" rel="stylesheet">
+<title>The Green Tomato — Drop #1 Design Preview (Direction A: Newspaper Masthead)</title>
+<link href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Source+Sans+3:wght@400;700&display=swap" rel="stylesheet">
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body {
@@ -13,24 +13,36 @@
     padding: 40px 20px 80px;
     min-height: 100vh;
   }
-  h1 {
+
+  /* Header */
+  .page-header {
     text-align: center;
+    margin-bottom: 12px;
+  }
+  .page-header h1 {
+    font-family: "UnifrakturMaguntia", "Times New Roman", serif;
+    font-weight: 400;
+    font-size: 56px;
     color: #fff;
-    font-family: "Oswald", sans-serif;
-    font-weight: 700;
-    font-size: 36px;
-    letter-spacing: 0.05em;
-    text-transform: uppercase;
-    margin-bottom: 8px;
-    text-shadow: 3px 3px 0 #C41E3A;
+    line-height: 1;
+    letter-spacing: 0.01em;
   }
   .subtitle {
     text-align: center;
     color: #999;
-    font-size: 14px;
+    font-size: 13px;
     font-style: italic;
     margin-bottom: 60px;
   }
+
+  /* Brand mark — wordmark used across all SKUs */
+  .gt-wordmark {
+    font-family: "UnifrakturMaguntia", "Times New Roman", serif;
+    font-weight: 400;
+    line-height: 1;
+    letter-spacing: 0.01em;
+  }
+
   .grid {
     display: flex;
     gap: 60px;
@@ -70,11 +82,11 @@
     line-height: 1.4;
   }
 
-  /* ───── SHIRT (Times New Roman headlines, vintage news look) ───── */
+  /* ───── SHIRT — heather gray, single-color print ───── */
   .shirt {
     width: 360px;
     height: 400px;
-    background: #1A2B5F; /* navy "developing news" colorway */
+    background: #C9C5BC; /* heather gray */
     clip-path: polygon(
       15% 0%, 85% 0%,
       100% 10%, 95% 16%, 88% 10%,
@@ -84,67 +96,69 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    position: relative;
     box-shadow: 0 10px 30px rgba(0,0,0,0.5);
   }
   .shirt-design {
     text-align: center;
-    color: #FFFF00;
-    padding: 20px 24px;
+    color: #1A2B5F; /* navy print */
+    padding: 30px 30px;
     width: 100%;
   }
+  .shirt-mast {
+    font-size: 26px;
+    color: #1A2B5F;
+    margin-bottom: 16px;
+  }
+  .shirt-rule-top {
+    width: 50%;
+    height: 2px;
+    background: #1A2B5F;
+    margin: 0 auto 14px;
+  }
   .shirt-eyebrow {
-    font-family: "Oswald", sans-serif;
+    font-family: "Playfair Display", serif;
     font-size: 11px;
-    letter-spacing: 0.3em;
-    color: #FFFF00;
-    margin-bottom: 14px;
-    font-weight: 500;
+    font-style: italic;
+    letter-spacing: 0.15em;
+    color: #1A2B5F;
+    margin-bottom: 12px;
+    text-transform: uppercase;
   }
   .shirt-headline {
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Playfair Display", serif;
     font-weight: 900;
-    font-size: 32px;
-    line-height: 0.95;
-    color: #FFFF00;
+    font-size: 40px;
+    line-height: 0.9;
+    color: #1A2B5F;
     margin-bottom: 6px;
-    text-shadow: 2px 2px 0 #C41E3A;
-    letter-spacing: -0.01em;
+    letter-spacing: -0.02em;
   }
-  .shirt-headline-small {
-    font-family: "Times New Roman", Times, serif;
-    font-weight: 700;
+  .shirt-headline-sub {
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
     font-style: italic;
-    font-size: 18px;
-    color: #FFFF00;
-    margin-bottom: 14px;
+    font-size: 22px;
+    color: #1A2B5F;
+    margin-bottom: 18px;
   }
-  .shirt-rule {
-    width: 60%;
-    height: 2px;
-    background: #C41E3A;
-    margin: 8px auto;
+  .shirt-rule-bot {
+    width: 40%;
+    height: 1px;
+    background: #1A2B5F;
+    margin: 0 auto 10px;
   }
   .shirt-credit {
-    font-family: "Times New Roman", serif;
+    font-family: "Playfair Display", serif;
     font-style: italic;
     font-size: 11px;
-    color: #FFFF00;
-    opacity: 0.85;
-    margin-top: 10px;
-  }
-  .shirt-bird {
-    font-size: 14px;
-    color: #FFFF00;
-    opacity: 0.7;
-    margin: 4px 0;
+    color: #1A2B5F;
   }
 
-  /* ───── TOTE ───── */
+  /* ───── TOTE — natural canvas, navy print ───── */
   .tote {
     width: 320px;
     height: 340px;
-    background: #1A2B5F; /* navy canvas */
+    background: #E5DCC3; /* natural canvas — single color print reads cleaner here */
     border-radius: 4px 4px 8px 8px;
     display: flex;
     align-items: center;
@@ -166,41 +180,48 @@
   .tote::after { right: 80px; }
   .tote-design {
     text-align: center;
-    color: #FFFF00;
+    color: #1A2B5F;
     padding: 0 30px;
   }
-  .tote-masthead {
-    font-family: "Times New Roman", Times, serif;
-    font-weight: 900;
-    font-size: 30px;
-    line-height: 1;
-    color: #FFFF00;
-    text-shadow: 2px 2px 0 #C41E3A;
-    margin-bottom: 8px;
+  .tote-mast {
+    font-size: 36px;
+    color: #1A2B5F;
+    margin-bottom: 10px;
+    line-height: 0.95;
+  }
+  .tote-divider {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 8px 0 10px;
+  }
+  .tote-divider-line {
+    flex: 1;
+    height: 1.5px;
+    background: #1A2B5F;
+  }
+  .tote-divider-star {
+    color: #1A2B5F;
+    font-size: 11px;
   }
   .tote-tagline {
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Playfair Display", serif;
     font-style: italic;
     font-size: 13px;
-    color: #FFFF00;
-    margin-bottom: 6px;
     line-height: 1.3;
-  }
-  .tote-rule {
-    width: 70%;
-    height: 2px;
-    background: #C41E3A;
-    margin: 12px auto;
+    color: #1A2B5F;
+    margin-bottom: 12px;
   }
   .tote-stamp {
-    font-family: "Oswald", sans-serif;
-    font-size: 10px;
-    letter-spacing: 0.25em;
-    color: #FFFF00;
+    font-family: "Playfair Display", serif;
+    font-weight: 900;
+    font-size: 11px;
+    letter-spacing: 0.2em;
+    color: #1A2B5F;
     text-transform: uppercase;
   }
 
-  /* ───── MUG ───── */
+  /* ───── MUG — white ceramic, single black print ───── */
   .mug-wrap {
     width: 360px;
     height: 360px;
@@ -221,7 +242,6 @@
     box-shadow: 0 10px 30px rgba(0,0,0,0.5), inset 0 -10px 20px rgba(0,0,0,0.05);
   }
   .mug::after {
-    /* handle */
     content: '';
     position: absolute;
     right: -56px;
@@ -235,60 +255,93 @@
   .mug-design {
     text-align: center;
     color: #111;
-    padding: 0 20px;
+    padding: 0 18px;
   }
-  .mug-star {
-    font-size: 14px;
-    color: #C41E3A;
-    margin-bottom: 4px;
+  .mug-cartouche {
+    border: 2px solid #111;
+    padding: 10px 14px;
+    display: inline-block;
+    background: transparent;
   }
-  .mug-name {
-    font-family: "Times New Roman", Times, serif;
-    font-weight: 900;
-    font-size: 28px;
+  .mug-mast {
+    font-size: 16px;
     color: #111;
-    letter-spacing: 0.02em;
+    margin-bottom: 8px;
     line-height: 1;
   }
-  .mug-title {
-    font-family: "Times New Roman", Times, serif;
-    font-style: italic;
-    font-size: 14px;
-    color: #111;
-    margin: 4px 0 14px;
-  }
-  .mug-rule {
-    width: 50%;
+  .mug-rule-thin {
+    width: 90%;
     height: 1px;
     background: #111;
-    margin: 6px auto;
+    margin: 4px auto 6px;
   }
-  .mug-pub {
-    font-family: "Times New Roman", Times, serif;
-    font-variant: small-caps;
-    font-weight: 700;
-    font-size: 12px;
+  .mug-name {
+    font-family: "Playfair Display", serif;
+    font-weight: 900;
+    font-size: 22px;
     color: #111;
-    margin-top: 8px;
-    letter-spacing: 0.05em;
+    line-height: 1;
+    letter-spacing: 0.02em;
   }
-  .mug-loc {
-    font-family: "Times New Roman", Times, serif;
+  .mug-title {
+    font-family: "Playfair Display", serif;
     font-style: italic;
-    font-size: 11px;
-    color: #555;
-    margin-top: 2px;
+    font-size: 13px;
+    color: #111;
+    margin-top: 4px;
   }
 
-  /* labels under each item */
   .item-label {
-    font-family: "Oswald", sans-serif;
+    font-family: "Playfair Display", serif;
     font-weight: 700;
-    text-transform: uppercase;
     color: #fff;
-    font-size: 14px;
-    letter-spacing: 0.1em;
+    font-size: 16px;
+    letter-spacing: 0.02em;
     margin-top: 18px;
+  }
+
+  /* Direction A logo lockups (top of page) */
+  .lockup-row {
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    margin: 30px auto 60px;
+    padding: 30px 20px;
+    background: #FAFAF6;
+    color: #1A2B5F;
+    border-radius: 4px;
+    max-width: 900px;
+    flex-wrap: wrap;
+  }
+  .lockup {
+    text-align: center;
+    color: #1A2B5F;
+  }
+  .lockup-label {
+    font-family: monospace;
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    color: #999;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  .lockup .gt-wordmark { color: #1A2B5F; }
+  .lockup-lg .gt-wordmark { font-size: 60px; }
+  .lockup-md .gt-wordmark { font-size: 36px; }
+  .lockup-sm .gt-wordmark { font-size: 22px; }
+  .lockup-tagline {
+    font-family: "Playfair Display", serif;
+    font-style: italic;
+    font-size: 12px;
+    margin-top: 6px;
+    color: #1A2B5F;
+    opacity: 0.8;
+  }
+  .lockup-rule {
+    width: 80%;
+    height: 1.5px;
+    background: #1A2B5F;
+    margin: 8px auto;
   }
 
   footer {
@@ -303,63 +356,90 @@
 </head>
 <body>
 
-<h1>The Green Tomato</h1>
-<p class="subtitle">Drop #1 — Design Preview · Print-on-Demand via Fourthwall</p>
+<div class="page-header">
+  <h1>The Green Tomato</h1>
+</div>
+<p class="subtitle">Direction A · Newspaper Masthead · Drop #1 Preview</p>
+
+<!-- Logo / wordmark lockups -->
+<div class="lockup-row">
+  <div class="lockup lockup-lg">
+    <div class="lockup-label">Primary Wordmark</div>
+    <div class="gt-wordmark">The Green Tomato</div>
+    <div class="lockup-rule"></div>
+    <div class="lockup-tagline">Calhoun County's Most Trusted News Source Since Recently</div>
+  </div>
+  <div class="lockup lockup-md">
+    <div class="lockup-label">Standard Lockup</div>
+    <div class="gt-wordmark">The Green Tomato</div>
+    <div class="lockup-rule"></div>
+    <div class="lockup-tagline">The Vegetable of Record</div>
+  </div>
+  <div class="lockup lockup-sm">
+    <div class="lockup-label">Compact / Footer</div>
+    <div class="gt-wordmark">The Green Tomato</div>
+  </div>
+</div>
 
 <div class="grid">
 
   <!-- SHIRT -->
   <div class="item">
-    <p class="mockup-label">SKU 1 · Apparel · Navy "Developing"</p>
+    <p class="mockup-label">SKU 1 · Apparel · Heather Gray · Single-color Navy Print</p>
     <div class="shirt">
       <div class="shirt-design">
-        <div class="shirt-eyebrow">★ THE GREEN TOMATO ★</div>
+        <div class="shirt-mast gt-wordmark">The Green Tomato</div>
+        <div class="shirt-rule-top"></div>
+        <div class="shirt-eyebrow">Calhoun County, Alabama</div>
         <div class="shirt-headline">I SURVIVED</div>
-        <div class="shirt-headline-small">the Raptor Run</div>
-        <div class="shirt-bird">︾</div>
-        <div class="shirt-rule"></div>
-        <div class="shirt-credit">Anniston Museum of Natural History<br>April 25, 2026</div>
+        <div class="shirt-headline-sub">the Raptor Run</div>
+        <div class="shirt-rule-bot"></div>
+        <div class="shirt-credit">Anniston Museum of Natural History · April 25, 2026</div>
       </div>
     </div>
     <div class="item-label">"I Survived the Raptor Run" Tee</div>
     <div class="price">$25 · ~$15 margin</div>
-    <p class="desc">Front print · navy heather, charcoal, or black colorways · 100% cotton</p>
+    <p class="desc">Heather gray · single-color navy print · 100% cotton</p>
   </div>
 
   <!-- TOTE -->
   <div class="item">
-    <p class="mockup-label">SKU 2 · Bag · Navy 12oz Canvas</p>
+    <p class="mockup-label">SKU 2 · Bag · Natural Canvas · Single-color Navy Print</p>
     <div class="tote">
       <div class="tote-design">
-        <div class="tote-masthead">The Green Tomato</div>
-        <div class="tote-tagline">Calhoun County's<br>Most Trusted News Source<br>Since Recently</div>
-        <div class="tote-rule"></div>
-        <div class="tote-stamp">★ The Vegetable of Record ★</div>
+        <div class="tote-mast gt-wordmark">The Green Tomato</div>
+        <div class="tote-divider">
+          <div class="tote-divider-line"></div>
+          <div class="tote-divider-star">✦</div>
+          <div class="tote-divider-line"></div>
+        </div>
+        <div class="tote-tagline">Most Trusted News Source<br>Since Recently</div>
+        <div class="tote-stamp">The Vegetable of Record</div>
       </div>
     </div>
     <div class="item-label">"Vegetable of Record" Tote</div>
     <div class="price">$22 · ~$11 margin</div>
-    <p class="desc">14"×16" with 3" gusset · yellow + red ink on navy canvas</p>
+    <p class="desc">14"×16" with 3" gusset · single-color print on natural canvas</p>
   </div>
 
   <!-- MUG -->
   <div class="item">
-    <p class="mockup-label">SKU 3 · Drinkware · 11oz White Ceramic</p>
+    <p class="mockup-label">SKU 3 · Drinkware · 11oz White · Single-color Black</p>
     <div class="mug-wrap">
       <div class="mug">
         <div class="mug-design">
-          <div class="mug-star">★</div>
-          <div class="mug-name">DALE BREWER</div>
-          <div class="mug-title">Bureau Chief</div>
-          <div class="mug-rule"></div>
-          <div class="mug-pub">The Green Tomato</div>
-          <div class="mug-loc">Calhoun County, Alabama</div>
+          <div class="mug-mast gt-wordmark">The Green Tomato</div>
+          <div class="mug-rule-thin"></div>
+          <div class="mug-cartouche">
+            <div class="mug-name">DALE BREWER</div>
+            <div class="mug-title">Bureau Chief</div>
+          </div>
         </div>
       </div>
     </div>
     <div class="item-label">"Bureau Chief" Mug</div>
     <div class="price">$18 · ~$10 margin</div>
-    <p class="desc">Single-color black on white ceramic · dishwasher safe</p>
+    <p class="desc">11oz white ceramic · single-color black print · dishwasher safe</p>
   </div>
 
 </div>

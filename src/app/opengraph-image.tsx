@@ -49,7 +49,7 @@ export default async function OG() {
                 letterSpacing: "0.02em",
                 lineHeight: 1,
                 color: "#FFFF00",
-                textShadow: "5px 5px 0 #FF0000",
+                textShadow: "none",
                 whiteSpace: "nowrap",
               }}
             >
