@@ -1,0 +1,107 @@
+import fs from "fs";
+import path from "path";
+import matter from "gray-matter";
+import readingTime from "reading-time";
+
+const contentDir = path.join(process.cwd(), "content/journal");
+
+export interface JournalFrontmatter {
+  title: string;
+  subtitle?: string;
+  slug: string;
+  date: string;
+  excerpt: string;
+  published: boolean;
+  image?: string;
+  imageAlt?: string;
+  imageCaption?: string;
+  cardImage?: string;
+  cardImageAlt?: string;
+  featured?: boolean;
+  unlisted?: boolean;
+  related?: string[];
+  merchImage?: string;
+  merchUrl?: string;
+  originalPublication?: {
+    name: string;
+    url: string;
+    date: string;
+  };
+}
+
+export interface JournalPost {
+  slug: string;
+  frontmatter: JournalFrontmatter;
+  content: string;
+  readingTime: string;
+}
+
+export function getJournalSlugs(): string[] {
+  if (!fs.existsSync(contentDir)) return [];
+  return fs
+    .readdirSync(contentDir)
+    .filter((file) => file.endsWith(".mdx"))
+    .map((file) => file.replace(/\.mdx$/, ""));
+}
+
+export function getJournalPostBySlug(slug: string): JournalPost | null {
+  const filePath = path.join(contentDir, `${slug}.mdx`);
+  if (!fs.existsSync(filePath)) return null;
+  const fileContents = fs.readFileSync(filePath, "utf8");
+  const { data, content } = matter(fileContents);
+  const stats = readingTime(content);
+
+  return {
+    slug,
+    frontmatter: data as JournalFrontmatter,
+    content,
+    readingTime: stats.text,
+  };
+}
+
+export function getAdjacentJournalPosts(slug: string): {
+  prev: JournalPost | null;
+  next: JournalPost | null;
+} {
+  const all = getAllJournalPosts();
+  const idx = all.findIndex((p) => p.slug === slug);
+  let prev: JournalPost | null = idx < all.length - 1 ? all[idx + 1] : null;
+  let next: JournalPost | null = idx > 0 ? all[idx - 1] : null;
+
+  if (!prev || !next) {
+    const others = all.filter(
+      (p) => p.slug !== slug && p.slug !== prev?.slug && p.slug !== next?.slug
+    );
+    if (!next && others.length > 0) next = others[0];
+    else if (!prev && others.length > 0) prev = others[others.length - 1];
+  }
+
+  return { prev, next };
+}
+
+export function getOtherJournalPosts(slug: string, count = 2): JournalPost[] {
+  const current = getJournalPostBySlug(slug);
+  const related = current?.frontmatter.related ?? [];
+  const all = getAllJournalPosts().filter((p) => p.slug !== slug);
+  const relatedPosts = related
+    .map((r) => all.find((p) => p.slug === r))
+    .filter((p): p is JournalPost => p !== undefined);
+  const rest = all.filter((p) => !related.includes(p.slug));
+  return [...relatedPosts, ...rest].slice(0, count);
+}
+
+export function getFeaturedJournalPost(): JournalPost | null {
+  const all = getAllJournalPosts();
+  return all.find((p) => p.frontmatter.featured) ?? all[0] ?? null;
+}
+
+export function getAllJournalPosts(): JournalPost[] {
+  return getJournalSlugs()
+    .map(getJournalPostBySlug)
+    .filter((p): p is JournalPost => p !== null && p.frontmatter.published && !p.frontmatter.unlisted)
+    .sort(
+      (a, b) =>
+        new Date(b.frontmatter.date).getTime() -
+        new Date(a.frontmatter.date).getTime()
+    );
+}
