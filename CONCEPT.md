@@ -7,13 +7,13 @@
 
 **The Green Tomato.** Decision locked April 26, 2026. Briefly considered switching to *The Calhoun Gazette* — rejected. See "Why Green Tomato Wins" below.
 
-Onion-mechanics with a Southern accent — vegetable name + self-important "newspaper of record" register. Whistle Stop / Fannie Flagg territory; "green" already carries *unripe, not quite there*, which is exactly Dale's coverage. Dale Brewer as "Bureau Chief, The Green Tomato" is funnier than Bureau Chief of any plausible-sounding paper before he opens his mouth.
+Onion-mechanics with a Southern accent — vegetable name + self-important "newspaper of record" register. Whistle Stop / Fannie Flagg territory; "green" already carries *unripe, not quite there*, which is exactly Buford's coverage. Buford Tatum as "Bureau Chief, The Green Tomato" is funnier than Bureau Chief of any plausible-sounding paper before he opens his mouth.
 
 ### Why Green Tomato wins (vs. Calhoun Gazette and other plausible-sounding names)
 
 1. **Lower defamation / brand-collision surface.** *Gazette* and *Dispatch* are real-paper names — there are real Gazettes and Dispatches across Alabama and the South, and at least one Calhoun-area outlet uses each form. A name that sounds like a real paper invites confusion that a satire site cannot afford. *The Green Tomato* could not be mistaken for a real publication.
-2. **Pre-installed humor.** Plausible-sounding names make Dale do all the comedic work; the masthead is straight. *Green Tomato* is half-funny before Dale opens his mouth — every byline reads "Dale Brewer, Bureau Chief, The Green Tomato" and is already operating at 60%.
-3. **Pre-installed metaphor.** "Green tomato" = unripe, not-quite-there. That is Dale's beat. The county thinks it's about to bloom; Dale covers each not-yet as if it's a moonshot. The name *carries* the joke; *Gazette* carries nothing.
+2. **Pre-installed humor.** Plausible-sounding names make Buford do all the comedic work; the masthead is straight. *Green Tomato* is half-funny before Buford opens his mouth — every byline reads "Buford Tatum, Bureau Chief, The Green Tomato" and is already operating at 60%.
+3. **Pre-installed metaphor.** "Green tomato" = unripe, not-quite-there. That is Buford's beat. The county thinks it's about to bloom; Buford covers each not-yet as if it's a moonshot. The name *carries* the joke; *Gazette* carries nothing.
 4. **Southern literary anchor.** Whistle Stop Cafe / Fannie Flagg / *Fried Green Tomatoes* — adjacent without infringing. Reads as "of this place" rather than "from anywhere small."
 5. **Tagline writes itself.** *Calhoun County's Most Trusted News Source Since Recently. The Vegetable of Record.* These don't work for *The Calhoun Gazette*.
 6. **Visual ownability.** A green tomato is a logo. A gazette is a font choice. Easier to own a wordmark, a favicon, social cards.
@@ -36,34 +36,34 @@ Secondary: eventually public, if it gets good enough.
 
 ## The Character
 
-**Dale Brewer** *(working name)*
+**Buford Tatum**
 - Calhoun County Bureau Chief, The Green Tomato
 - JSU broadcast journalism grad, never quite made it out of the county
 - Three LinkedIn connections
 - Genuinely believes the Oxford West Industrial Park expansion is the most important story of our time
 - Covers the county commission agenda with the gravity of a war correspondent
 
-Dale is not in on the joke. That's the whole thing.
+Buford is not in on the joke. That's the whole thing.
 
 ---
 
 ## The Cast
 
-*Bureau Chief name "Dale Brewer" is a Claude-suggested placeholder. **Lane 3 selected** — real-Alabama-coded with a hint of off; final name TBD. See **Open Questions** for shortlist. The role and voice are locked. Other character names are also working drafts.*
+*Bureau Chief name "Buford Tatum" is a Claude-suggested placeholder. **Lane 3 selected** — real-Alabama-coded with a hint of off; final name TBD. See **Open Questions** for shortlist. The role and voice are locked. Other character names are also working drafts.*
 
-Dale anchors the masthead, but The Green Tomato is a **world** — Springfield, not just Kent Brockman. Each recurring character carries a different comic register. Use them rotationally; let the reader build equity in them so "Mayor Henley announced today" lands before the verb.
+Buford anchors the masthead, but The Green Tomato is a **world** — Springfield, not just Kent Brockman. Each recurring character carries a different comic register. Use them rotationally; let the reader build equity in them so "Mayor Henley announced today" lands before the verb.
 
-- **Dale Brewer** — Bureau Chief. Earnest gravity. The straight man. Files everything as the Pulitzer story he never won.
+- **Buford Tatum** — Bureau Chief. Earnest gravity. The straight man. Files everything as the Pulitzer story he never won.
 - **Mayor Lyle Henley** *(Oxford)* — Ribbon-cutter laureate. Every Dollar General is a milestone. Speaks exclusively in groundbreaking-ceremony cadence.
 - **Commissioner Buford Latham** — Forty years in office. Folksy non-sequiturs. Has feelings about the courthouse generator.
 - **Pastor Brad Ellison** — Megachurch (The Bridge at Oxford). Coffee bar, fog machine, sermon series with names like *Untethered* and *Recalibrate*.
 - **Coach Reggie Pickens** *(Piedmont High football)* — Local god. Asked about the offensive line, discusses Christ for eleven minutes. Won't name a starting QB.
 - **Wendell Moss, Calhoun County EDC Director** — Every SEEDS grant is a moon landing. The county has been "investment-ready" since 1987.
-- **Brenda Cofield** — Dale's go-to "Calhoun resident reached for comment." Always at the Saks Walmart. Has heard things.
+- **Brenda Cofield** — Buford's go-to "Calhoun resident reached for comment." Always at the Saks Walmart. Has heard things.
 - **Mrs. Caroline Hearst-Vance** — Old-Quintard-Avenue widow. Knows everyone's business going back four generations. Does not recognize the Oxford mayor.
 - **Sheriff Earl Tubb** — Terse press conferences. *"We're aware of it."* Refuses follow-ups. Has not blinked since 2009.
-- **Dr. Phillip Edmondson, JSU Department of Communications** — Dale's "expert source." Wrong with full academic confidence.
-- **Trent Wickliffe, The Anniston Star** — Dale's nemesis. Has a Substack. Wears a vest.
+- **Dr. Phillip Edmondson, JSU Department of Communications** — Buford's "expert source." Wrong with full academic confidence.
+- **Trent Wickliffe, The Anniston Star** — Buford's nemesis. Has a Substack. Wears a vest.
 - **Wendell Hightower** — Perpetual public-comment guy at commission meetings. Has a theory about the water.
 
 ---
@@ -72,8 +72,8 @@ Dale anchors the masthead, but The Green Tomato is a **world** — Springfield, 
 
 Short-form video is the natural home:
 - 60-second "news reports"
-- Dale on location — standing in front of the Oxford Walmart announcing a major retail development
-- Dale at a podium covering ribbon-cuttings like they're moon landings
+- Buford on location — standing in front of the Oxford Walmart announcing a major retail development
+- Buford at a podium covering ribbon-cuttings like they're moon landings
 - Bad blazer. Slightly wrong lighting. Complete sincerity.
 
 Secondary: fake headlines and 200-word "articles" in the style of the Calhoun Journal. For when video isn't worth the effort but the joke needs to exist.
@@ -102,7 +102,7 @@ This is the visual register and it's load-bearing. It does three things at once:
 - Webring at the bottom linking to other fake Calhoun-area sites
 - A "Sign My Guestbook" link that 404s
 - One element on every page that is just permanently broken (red X for missing image)
-- Email-the-Webmaster link goes to dale@thegreentomato.com
+- Email-the-Webmaster link goes to buford@thegreentomato.com
 
 ### What it rules out
 Modern animations (GSAP, Lenis smooth scroll, scroll-triggered reveals), parallax, scrollytelling, photo carousels, profile cards, featured tilts — anything that looks designed after 2001. See **Build Notes** below for the component triage.
@@ -118,14 +118,14 @@ The visual joke is the front; the back stays Next.js 16 + MDX + RSC. The whole g
 
 ## Writing Principles
 
-Three craft rules. They apply specifically to Dale's voice (the Tomato) — not to Matt-voice spoken or stand-up material, which runs on different muscles.
+Three craft rules. They apply specifically to Buford's voice (the Tomato) — not to Matt-voice spoken or stand-up material, which runs on different muscles.
 
 ### Satire vs. stand-up — different formats, different jobs
 
 - **Satire (the Tomato)** reports straight, in deadpan institutional voice. The reader knows it's fake; the joke is the gap between the bureaucratic register and the chaos being described.
 - **Stand-up (Matt-voice)** reports honestly, with the bewildered narrator carrying the weight. The audience knows it's true; the joke is the gap between the speaker's incredulity and the institution's calm.
 
-Same raw observations can fuel both, but the formats are not interchangeable. **The failure mode:** if reality has already escalated past plausible (the church *did* launch a third service after the survey; the city council *did* fistfight), satire loses force — the exaggeration move has nowhere to go and reads as straight reporting. In that case either (a) report it dead-straight in Dale's voice and let the realness do the work, or (b) leave it to stand-up where deadpan-bewildered is the engine.
+Same raw observations can fuel both, but the formats are not interchangeable. **The failure mode:** if reality has already escalated past plausible (the church *did* launch a third service after the survey; the city council *did* fistfight), satire loses force — the exaggeration move has nowhere to go and reads as straight reporting. In that case either (a) report it dead-straight in Buford's voice and let the realness do the work, or (b) leave it to stand-up where deadpan-bewildered is the engine.
 
 ### One step past reality, never two
 
@@ -145,7 +145,7 @@ From reading local coverage and SL research:
 - **Commission meetings** — same seven agenda items, forever. *"Commission Clears Full Agenda: Property Actions, Equipment Purchases, and Approving Last Month's Minutes of Approving the Previous Month's Minutes."*
 - **Oxford vs. Anniston** — Oxford thinks it's a city now (Chick-fil-A, Applebee's). Anniston thinks it's a comeback story. Both have been right for 30 years and somehow still aren't.
 - **High school football** — covered with more resources and passion than any actual civic issue
-- **The Facebook comment section** — the same 12 people, every story, every time. Dale interviews them as experts.
+- **The Facebook comment section** — the same 12 people, every story, every time. Buford interviews them as experts.
 - **Dollar General as economic development** — *"Third Dollar General Opens on Same Block as Two Dollar Generals, Bringing 12 Jobs to Oxford Economy."*
 - **The perpetual downtown revitalization** — Anniston has been "on the verge of a renaissance" since approximately 1987.
 - **Worship-music wars** — survey-the-congregation cycles, traditional vs. contemporary feuds, the *let's hire a worship consultant* reflex, three-service splits, hymn-vs-Hillsong-vs-trap arguments. The institutional response to an unsolvable human problem is always a second survey. Pastor Brad's beat. Matt's lived material from ministry — handle per **Writing Principles** (much of it is already absurd in real life and may belong in stand-up, not satire).
@@ -155,9 +155,9 @@ From reading local coverage and SL research:
 
 ## Institutional Targets
 
-Best silly-lane premises follow the **raptor-run formula**: real institution + one of its actual specific assets, weaponized. Reader recognizes the place; the absurd is one degree off true. Three concentric rings, calibrated by Dale's geographic believability.
+Best silly-lane premises follow the **raptor-run formula**: real institution + one of its actual specific assets, weaponized. Reader recognizes the place; the absurd is one degree off true. Three concentric rings, calibrated by Buford's geographic believability.
 
-### Ring 1 — Calhoun core (Dale's actual beat)
+### Ring 1 — Calhoun core (Buford's actual beat)
 - **Anniston Museum of Natural History** — raptor rehab program *(see: Raptor Run 2026)*
 - **Berman Museum** — actually owns Hitler's silver tea set, Napoleon's pistol, Jeff Davis's traveling case
 - **Anniston Army Depot** — chemical weapons incinerator history
@@ -169,7 +169,7 @@ Best silly-lane premises follow the **raptor-run formula**: real institution + o
 - **The Bridge at Oxford / area megachurches** — sermon series titles, worship-music feuds, building campaigns, "vision casting" weekends. Pastor Brad's institutional home.
 - **Calhoun County Farmers Market** — vendor turf wars, the "buy local" hymn vs. the actual booth politics, the new director (potentially Matt) as recurring quotable source
 
-### Ring 2 — Drive-time NE Alabama (Dale dispatched out of his depth)
+### Ring 2 — Drive-time NE Alabama (Buford dispatched out of his depth)
 - **Talladega Superspeedway** — the Talladega Curse, infield RV culture
 - **Noccalula Falls** *(Gadsden)* — the legend, the ghost tours, the resident goats
 - **DeSoto / Sequoyah Caverns** — laser shows in caves
@@ -177,7 +177,7 @@ Best silly-lane premises follow the **raptor-run formula**: real institution + o
 - **Mentone** — Ren-faire energy, summer camps
 - **Fort Payne** — hometown of Alabama (the band)
 
-### Ring 3 — Wider Alabama / SE region (the rare road trip — Dale's parochial frame becomes the joke)
+### Ring 3 — Wider Alabama / SE region (the rare road trip — Buford's parochial frame becomes the joke)
 - **Vulcan statue** *(Birmingham)* — giant naked iron man mooning Homewood
 - **U.S. Space & Rocket Center** *(Huntsville)* — Saturn V, Space Camp
 - **UAB hospital** — robotic surgery, transplants
@@ -257,7 +257,7 @@ Keeps them separate:
 
 ## The Pseudonym
 
-Dale Brewer (or whoever) runs The Green Tomato. Matt Headley does not.
+Buford Tatum (or whoever) runs The Green Tomato. Matt Headley does not.
 
 **What the pseudonym buys:**
 - Calhoun Journal relationship stays clean
@@ -268,7 +268,7 @@ Dale Brewer (or whoever) runs The Green Tomato. Matt Headley does not.
 **What it costs:**
 - Can't promote it as Matt Headley
 - Doesn't directly build personal brand
-- Requires maintaining Dale's identity separately
+- Requires maintaining Buford's identity separately
 
 The pseudonym will last maybe 6–12 months in a market this small. Plan for the reveal being a feature, not a failure.
 
@@ -285,7 +285,7 @@ Stand-up bits, farmers-market mic time (welcome announcements, dry-host one-line
 Boundary rules:
 - The Tomato byline never references Matt
 - Matt-voice work never references the Tomato as his
-- Material that's already too-real-for-satire (worship surveys that actually happened, city-council fistfights that actually happened) lives in this lane, not in Dale's
+- Material that's already too-real-for-satire (worship surveys that actually happened, city-council fistfights that actually happened) lives in this lane, not in Buford's
 - If Matt-voice work goes public, it stays attached to Matt — possibly through Southern Legends or a personal channel, never the Tomato
 
 The grief-processing dimension noted in **Status** runs through both, but resolves in different formats.
@@ -382,14 +382,7 @@ Pending Matt's call before any code work begins:
 1. **Confirm the rename.** Doc currently assumes *The Green Tomato* is final. If it's still a maybe, flag before code references downstream multiply.
 2. **Headlines 4 and 5.** First Seed List has three locked. Two more needed before the "five make me laugh" test from **Status** is satisfied.
 3. **Domain.** `thegreentomato.com`? `thegreentomato.news`? Something more Calhoun-specific (`calhoungreentomato.com`)? Affects the email-the-webmaster gag and overall brand frame.
-4. **Bureau Chief's name.** Placeholder "Dale Brewer" was a Claude suggestion. **Lane 3 selected** — real-Alabama-coded with a hint of off. Specific name still open. Shortlist for Matt to pick from (or replace):
-   - *Buford Tatum* — best Alabama-rural gravity; "Buford" alone signals he's been here forever
-   - *Hap Featheringill* — strongest balance of plausible + slightly off; "Hap" is a real Southern nickname
-   - *Beauregard "Bo" Crowder* — formal-Southern with folksy nickname; works dual-register (formal byline, "Bo" in interviews)
-   - *Earl Wadsworth* — pure 1970s local-anchor lineage; instantly grandfatherly
-   - *Lyle Pemberton*, *Tate Stovall*, *Mack Quarles*, *Skeet Hollingsworth* — alternates if none above land
-
-   Lock before code, byline, webmaster email, and ad-copy references multiply. Avoid surnames already in use in **The Cast** (Tubb, Henley, Hightower, Moss).
+4. ~~Bureau Chief's name.~~ **Locked: Buford Tatum.** (April 29, 2026)
 5. **Pseudonym posture.** Aggressive — separate everything, no Matt connection — vs. casual, let it leak when it leaks. Current doc assumes aggressive for 6–12 months; revisit if priorities shift.
 6. **Pastor Brad's church name.** "The Bridge at Oxford" is plausible but generic. Worth swapping to something more specifically Calhoun if the bit is going to recur in ads + articles.
 7. **Real-or-fake source material in ads.** Doc says fake-only. If the Calhoun-twisted spam uses real photos of real landmarks (Cheaha, Noccalula goat, JSU), confirm — line between "public-domain location image" and "implies endorsement" is thin in a market this small.
@@ -414,7 +407,7 @@ The first headline test from **Status** still applies: don't ship anything until
 ## Story Ideas Bank
 
 ### The Anniston Museum Mummy
-The museum has an actual Egyptian mummy on permanent display. Dale covers it with complete sincerity.
+The museum has an actual Egyptian mummy on permanent display. Buford covers it with complete sincerity.
 
 **Headlines:**
 - "Anniston Museum Mummy Described as 'Stable' Following Annual Wellness Check"
@@ -426,12 +419,12 @@ The museum has an actual Egyptian mummy on permanent display. Dale covers it wit
 - "Annual Mummy Inspection Completed; Findings Sealed"
 
 **Article angles:**
-- Dale does a wellness check interview — museum PR person answers every question with "stable" and "no change"
+- Buford does a wellness check interview — museum PR person answers every question with "stable" and "no change"
 - A visitor complaint filed after the mummy "seemed different" — museum investigation finds no evidence of movement
 - The mummy is named in a grant application as a "community stakeholder"
 - Museum installs new lighting near mummy "for visitor experience" — three staff members request transfers the same week
 
-**Connection to raptor run:** The museum houses both the mummy AND live raptors. Dale covers both beats. The Anniston Museum of Natural History is the richest single institution on the beat.
+**Connection to raptor run:** The museum houses both the mummy AND live raptors. Buford covers both beats. The Anniston Museum of Natural History is the richest single institution on the beat.
 
 ### The Raptor Run
 - Real event: Raptor Run 5K + Dino Dash 1K, held April 4 at the museum, through Lagarde Park
@@ -455,7 +448,7 @@ The museum has an actual Egyptian mummy on permanent display. Dale covers it wit
 
 ### Oxford Middle School robotics → existential threat
 
-**Premise:** Real kid wins science fair with invention that has unintended catastrophic implications. AI singularity / time travel paradox / robot apocalypse / Terminator scenario. Dale reports it as a feel-good community story. Press release praises the seventh-grader's "creativity" and "STEM aptitude." School superintendent quoted. Ethics professor quoted at end with brief, ignored warning.
+**Premise:** Real kid wins science fair with invention that has unintended catastrophic implications. AI singularity / time travel paradox / robot apocalypse / Terminator scenario. Buford reports it as a feel-good community story. Press release praises the seventh-grader's "creativity" and "STEM aptitude." School superintendent quoted. Ethics professor quoted at end with brief, ignored warning.
 
 **Assessment:** A-tier. This is rich. Multiple turns of phrase available — the institutional apparatus around science fairs (judges, ribbons, parents) applied to a student who has accidentally ended history. "Award-winner Ms. Tilley's invention has been reproduced in three additional classrooms; concerns from the U.S. Department of Defense are described by district officials as 'mostly procedural.'" **Strong. Write next.**
 
@@ -477,7 +470,7 @@ The museum has an actual Egyptian mummy on permanent display. Dale covers it wit
 
 **Rule: don't satirize this directly.** Real named people, real criminal proceedings. Cruel and legally risky.
 
-**But Dale references it implicitly:** It becomes the silent "incident" that prompted whatever the current council is doing badly. Rich for these uses:
+**But Buford references it implicitly:** It becomes the silent "incident" that prompted whatever the current council is doing badly. Rich for these uses:
 - *"Anniston City Council Concludes Civility Training Refresher; Trainer Notes Most Members 'Engaged Throughout'"*
 - *"City Council Adopts New Conflict De-Escalation Protocol Following Council Member's Email; Protocol Has Been Adopted Three Previous Times"*
 - *"Anniston City Council Reaffirms Commitment to Respectful Dialogue, Citing 'Lessons Learned' Without Specifying Lessons or When"*
@@ -500,16 +493,16 @@ The rule: the incident is the *reason* for the comedy without ever being the *su
 **Cons (much heavier):**
 - **Specificity is the engine.** The pieces that work — Monsanto fish, Dollar General/country club, Mummy wellness check, Freedom Riders connection — only land because the reader recognizes the *exact* place. Dilution kills the joke.
 - **Identity is not protected by geography — it's protected by voice.** Matt's Calhoun knowledge is the tell. Adding Tuscaloosa coverage doesn't disguise it; it just means the Tuscaloosa coverage is shallow.
-- **Dale is a Calhoun County Bureau Chief.** Sending Dale to Birmingham breaks the character. Dale doesn't know Birmingham. He's never been to Tuscaloosa.
+- **Buford is a Calhoun County Bureau Chief.** Sending Buford to Birmingham breaks the character. Buford doesn't know Birmingham. He's never been to Tuscaloosa.
 - **Research load multiplies.** Each new city requires the same level of source-material work. Quality drops.
 - **Pseudonym still leaks.** A Birmingham reader who recognizes Calhoun-specific knowledge in a Birmingham-coverage piece will identify the writer just as quickly as a Calhoun reader.
 
 **Better identity protection:**
-- The pseudonym (Dale Brewer) — already in place
+- The pseudonym (Buford Tatum) — already in place
 - No cross-links to SL or HW — already the rule
 - No first-person, no Matt voice ever — already the rule
 - Don't promote from personal accounts (FB, Twitter, LinkedIn)
-- Use a separate email for any future correspondence (`dale@thegreentomato.news`)
+- Use a separate email for any future correspondence (`buford@thegreentomato.news`)
 - Don't deploy from networks that geolocate to Matt's known locations (low priority unless someone's actively investigating)
 
 **Verdict:** Better to be a sharp Calhoun-only voice than a diluted Alabama voice. The hyperlocal frame *is* the brand. Don't trade specificity for cover — the cover doesn't actually work, and you lose the engine.
@@ -563,14 +556,14 @@ This is a fun project, not a business. Don't add monetization that creates caden
 
 ### Phase 1 — First income trigger (5-6 strong articles, ~500 unique visitors)
 
-**Decision (April 26):** Lead with merch. Demote the Support Dale page to satire-only. Reasoning: a real money button under a fake-newspaper site collapses Dale's universe; merch is in-character (a Raptor Run survivor tee *is* a Dale Brewer artifact); shirts are walking marketing in NE Alabama; per-transaction value is higher; Fourthwall is already set up via Matt's bipolar brand (zero new vendor friction).
+**Decision (April 26):** Lead with merch. Demote the Support Buford page to satire-only. Reasoning: a real money button under a fake-newspaper site collapses Buford's universe; merch is in-character (a Raptor Run survivor tee *is* a Buford Tatum artifact); shirts are walking marketing in NE Alabama; per-transaction value is higher; Fourthwall is already set up via Matt's bipolar brand (zero new vendor friction).
 
 #### 1. Merch via Fourthwall (the actual revenue engine)
 **Initial 3-SKU drop:**
 
 - **"I Survived the Raptor Run" tee** — A-tier; ties to the signature article. Probably the lead seller.
 - **"The Vegetable of Record" tote** — brand-level, broader appeal, lower commitment for the buyer.
-- **"Dale Brewer / Bureau Chief" mug** — character merch, gift-able, low-cost-of-entry SKU.
+- **"Buford Tatum / Bureau Chief" mug** — character merch, gift-able, low-cost-of-entry SKU.
 
 **Listing copy lives in:** `content/merch/` (separate folder so Fourthwall paste-in is easy).
 
@@ -582,14 +575,14 @@ This is a fun project, not a business. Don't add monetization that creates caden
 
 **Realistic income:** $50-200/mo with regular release cadence. POD = zero inventory cost.
 
-#### 2. Satirical "Support Dale" page (no real button, no real money)
+#### 2. Satirical "Support Buford" page (no real button, no real money)
 The page is **a content piece, not a sales channel.** It exists. The reward tiers are listed. The "Become a Patron" button leads to a 404 styled to read:
 
-> *Thank you for your support. Dale will be in touch where applicable.*
+> *Thank you for your support. Buford will be in touch where applicable.*
 
 Why no real button:
 - Real money on a fake-newspaper site is *meta-weird* — collapses the bit
-- Forces an awkward question of who the money is going to (Matt? Dale? "Dale's coffee fund"?)
+- Forces an awkward question of who the money is going to (Matt? Buford? "Buford's coffee fund"?)
 - Better to keep the page as pure performance — the reward tiers and the patron list (three "Anonymous" entries) are the joke
 
 The page acts as content (pulls in readers who screenshot it / share it) without crossing the satire/income membrane.
@@ -599,12 +592,12 @@ The page acts as content (pulls in readers who screenshot it / share it) without
 ### Phase 2 — Video gen (when Phase 1 income clears $50/mo for 2+ months)
 Don't pay for video tools out of pocket. Wait for the satire donation page + merch to clear the threshold. Then:
 
-- **HeyGen Pro** ($30/mo) for AI news anchor avatar — Dale Brewer as a slightly-too-corporate news anchor
-- **ElevenLabs Starter** ($5/mo) for voiceover — clone or generate Dale's voice
+- **HeyGen Pro** ($30/mo) for AI news anchor avatar — Buford Tatum as a slightly-too-corporate news anchor
+- **ElevenLabs Starter** ($5/mo) for voiceover — clone or generate Buford's voice
 - **Replicate** for B-roll / scene clips when needed (Kling 2.0, Sync.so for lip-sync) — pay per generation, ~$0.50-2/clip
 
 **Pipeline:**
-1. Imagen still of Dale Brewer (one-time, ~$0.30)
+1. Imagen still of Buford Tatum (one-time, ~$0.30)
 2. Write 60-90 second script
 3. ElevenLabs voiceover (~$0.10/min)
 4. Sync.so or HeyGen for talking-head animation
@@ -617,7 +610,7 @@ Don't pay for video tools out of pocket. Wait for the satire donation page + mer
 Optional adds, gated by audience size:
 - **Substack/Ghost paid newsletter** ($5/mo) — only if readers ask for it, not before. Adds cadence pressure; only worth it if you're already shipping weekly.
 - **Limited-edition zines** — print 100 copies of "The Best of The Green Tomato" via Lulu or local print shop, sell at $15-25 each
-- **Live event** — a "Dale Brewer Reads The News" night at a local venue (Peerless Saloon, Sinclair Social), $10 cover
+- **Live event** — a "Buford Tatum Reads The News" night at a local venue (Peerless Saloon, Sinclair Social), $10 cover
 
 ### What not to do (ever)
 - **No display ads from real ad networks.** Real ads next to fake ads breaks the satire. Outbrain/Taboola would also be ironic in the wrong way (real version of the joke).
