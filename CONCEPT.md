@@ -65,6 +65,7 @@ Buford anchors the masthead, but The Green Tomato is a **world** — Springfield
 - **Dr. Phillip Edmondson, JSU Department of Communications** — Buford's "expert source." Wrong with full academic confidence.
 - **Trent Wickliffe, The Anniston Star** — Buford's nemesis. Has a Substack. Wears a vest.
 - **Wendell Hightower** — Perpetual public-comment guy at commission meetings. Has a theory about the water.
+- **Belvedere** — Buford's dog. Accompanies Buford on assignment. Credentialed by proximity. *"Belvedere, who was present at the ribbon cutting, did not comment."* Named after Colonel Shuffle's bloodhound in the 1950 Merrie Melodies short *Dog Gone South* — the dog who ultimately outsmarts everyone. Cal Worthington called every exotic animal "my dog Spot." Buford calls Belvedere his dog. Belvedere is a dog. This has never been questioned.
 
 ---
 
@@ -172,6 +173,11 @@ From reading local coverage and SL research:
 - **The Facebook comment section** — the same 12 people, every story, every time. Buford interviews them as experts.
 - **Dollar General as economic development** — *"Third Dollar General Opens on Same Block as Two Dollar Generals, Bringing 12 Jobs to Oxford Economy."*
 - **The perpetual downtown revitalization** — Anniston has been "on the verge of a renaissance" since approximately 1987.
+- **Bible Belt commerce** — the full theology of Southern Christian retail. Chick-fil-A is a Southern Baptist church that sells chicken: "my pleasure" as liturgy, the Closed Sunday as sabbatarianism, the drive-through line as pilgrimage, the sauce selection as theology. Hobby Lobby is a ministry with a craft section: Christian music in the aisles, the framing department as a spiritual journey, seasonal displays that change three months early, closed Sundays. Buford covers both as civic infrastructure.
+- **Jack's Family Restaurants** — Alabama's fast food, not a chain, a sacrament. The breakfast biscuit reviewed with full wine-critic register: terroir (Anniston location vs. Oxford corridor), tasting notes, finish, pairing recommendations. A Jack's groundbreaking covered with more resources than a hospital opening. See **Story Ideas Bank** for the draft wine review.
+- **Christian morning radio as journalism** — local AM/FM morning shows as expert sources. Buford quotes "area morning radio personalities" without naming them. Their takes become the vox pop of record.
+- **Church marquee arms race** — two or three churches on the same road, escalating theological marquee volleys. Buford covers the escalation neutrally, quotes both pastors, notes the traffic implications.
+- **Farmers market vendor diversity** — the booth lineup: tomatoes, honey, kettle corn, AR-15 accessories, CBD gummies, tattoo artist. Buford covers the ammo table and the honey table with identical institutional solemnity. *"Calhoun County Farmers Market Welcomes Eleventh Vendor; Seven Sell Produce, Four Sell Ammunition."*
 - **Worship-music wars** — survey-the-congregation cycles, traditional vs. contemporary feuds, the *let's hire a worship consultant* reflex, three-service splits, hymn-vs-Hillsong-vs-trap arguments. The institutional response to an unsolvable human problem is always a second survey. Pastor Brad's beat. Matt's lived material from ministry — handle per **Writing Principles** (much of it is already absurd in real life and may belong in stand-up, not satire).
 - **Farmers market politics** — vendor disputes over booth placement, simmering produce-territory feuds, the inevitable city-council intervention, the gap between "buy local" cheerfulness and the actual vendor-vs-vendor knife fight. Especially fertile if Matt takes the director role — he becomes a quotable recurring source.
 
@@ -406,7 +412,14 @@ Pending Matt's call before any code work begins:
 1. **Confirm the rename.** Doc currently assumes *The Green Tomato* is final. If it's still a maybe, flag before code references downstream multiply.
 2. **Headlines 4 and 5.** First Seed List has three locked. Two more needed before the "five make me laugh" test from **Status** is satisfied.
 3. **Domain.** `thegreentomato.com`? `thegreentomato.news`? Something more Calhoun-specific (`calhoungreentomato.com`)? Affects the email-the-webmaster gag and overall brand frame.
-4. ~~Bureau Chief's name.~~ **Locked: Buford Tatum.** (April 29, 2026)
+4. **Bureau Chief's name.** "Buford Tatum" propagated everywhere but Matt not fully sold. Case for Buford: working-class Alabama trying to be a professional journalist — the pomposity comes from self-seriousness, not the name. "Belvedere" pushes him toward old-money pomposity, which is a different and arguably less funny register. Belvedere works better as the dog (now in cast). Alternatives in the same lane if Buford doesn't land:
+   - *Denton Pruitt* — solid, slightly off, plausible
+   - *Lavon Grimes* — very specific Alabama energy
+   - *Corbett Stuckey* — sounds like a man who has covered seventeen groundbreakings
+   - *Clyde Peavy* — plausible + slightly wrong
+   - *Grady Turnbow* — working press, never left the county
+
+   Name is propagated throughout codebase — lock before any public share.
 5. **Pseudonym posture.** Aggressive — separate everything, no Matt connection — vs. casual, let it leak when it leaks. Current doc assumes aggressive for 6–12 months; revisit if priorities shift.
 6. **Pastor Brad's church name.** "The Bridge at Oxford" is plausible but generic. Worth swapping to something more specifically Calhoun if the bit is going to recur in ads + articles.
 7. **Real-or-fake source material in ads.** Doc says fake-only. If the Calhoun-twisted spam uses real photos of real landmarks (Cheaha, Noccalula goat, JSU), confirm — line between "public-domain location image" and "implies endorsement" is thin in a market this small.
@@ -487,6 +500,65 @@ The museum has an actual Egyptian mummy on permanent display. Buford covers it w
 - Use cast: maybe Coach Pickens witnesses it.
 
 **Hold until cause is locked.** Once you know the *what*, the piece writes itself.
+
+### Chick-fil-A theology
+
+**Premise:** Buford covers a new Chick-fil-A opening as religion journalism. The institutional language of the church applied to the institutional language of fast food — they are, structurally, the same thing.
+
+**Angles:**
+- The opening covered as a congregation gathering
+- "My pleasure" analyzed as liturgical response
+- The Closed Sunday reported as sabbatarian policy, reactions solicited from area clergy
+- The drive-through line mapped as pilgrimage route
+- The sauce selection covered as denominational theology (Polynesian = prosperity gospel; Sriracha = charismatic; plain mayo = mainline Protestant)
+- Oxford's second location announced: *"Chick-fil-A Oxford Announces Second Location; City Describes Itself as 'Chosen'"*
+
+**Assessment:** A-tier, multiple articles. Each angle sustains its own piece.
+
+---
+
+### Hobby Lobby seasonal transition
+
+**Premise:** The changeover from Halloween to Christmas inventory covered as a civic event. Buford files from the seasonal aisle with the gravity of a war correspondent.
+
+**Headline:** *Hobby Lobby Anniston Transitions to Christmas; Community Invited to Process Grief Over Halloween Section's Removal*
+
+**Extension:** The framing department as a spiritual journey. The Christian music in the aisles covered as ambient policy. The Closed Sunday as institutional theology consistent with Chick-fil-A's.
+
+**Assessment:** B+ tier. Strongest as a brief dispatch, not a full feature.
+
+---
+
+### Farmers market vendor diversity
+
+**Headlines ready to file:**
+- *Calhoun County Farmers Market Welcomes Eleventh Vendor; Seven Sell Produce, Four Sell Ammunition*
+- *CBD Vendor at Farmers Market Assures Commissioner Product Is "Basically Aspirin"*
+- *Tattoo Artist Joins Farmers Market Vendor Roster; Cited as "Value-Add for the Community"*
+- *Vape Booth at Farmers Market Described by Director as "Complementary to the Wellness Vendors"*
+
+**Note:** Especially fertile if Matt becomes market director — Buford quotes the director (Matt, unnamed) throughout with complete neutrality.
+
+---
+
+### Jack's Family Restaurants — Biscuit Wine Review
+
+**Premise:** Buford reviews the Jack's breakfast biscuit menu with full wine-critic register. Terroir, tasting notes, vintage comparisons, pairing recommendations, finish. The Anniston location vs. the Oxford corridor treated as appellations. A groundbreaking covered with more solemnity than a hospital opening.
+
+**Assessment:** A-tier. The register does all the work — Buford doesn't need to signal the joke. The biscuit review is earnest start to finish.
+
+**Draft opening:**
+> *The Anniston location's sausage biscuit presents with a confident, almost declarative crust — forward, unapologetic, without the hesitation one sometimes encounters in the Oxford corridor. On the palate: pork fat, black pepper, something the kitchen describes only as "seasoning." The finish is long and evangelical. Pairs well with a 32-ounce sweet tea and a developing situation on the commission agenda. Recommended.*
+
+**Extension angles:**
+- The seasonal biscuit (limited run) covered as a cultural event
+- Comparative tasting across locations — Anniston, Oxford, Heflin, Pell City as distinct appellations
+- Buford's conversation with the Jack's GM, who is confused but polite throughout
+- A formal rating system: stars, or "biscuits" out of five
+
+**Headline:** *Jack's Family Restaurants Anniston Earns High Marks in Annual Biscuit Assessment; Oxford Location Described as "Technically Competent"*
+
+---
 
 ### The 2010 Spain–Robinson incident — backstory, not satire
 
