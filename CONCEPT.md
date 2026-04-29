@@ -321,8 +321,8 @@ First test: can you write five headlines that make you actually laugh out loud? 
 1. *Quintard Mall Welcomes Eleventh Vape Shop, Cementing Status as Region's Premier Vape Destination*
 2. *JSU Marching Southerners Asked to Tone It Down for Fifth Consecutive Funeral*
 3. *RMC Waiting Room Enters Its Fourteenth Hour, Forms Its Own Government*
-4.
-5.
+4. *Anniston Museum Mummy Described as "Stable" Following Annual Wellness Check*
+5. *Oxford Seventh-Grader's Science Fair Project Referred to Department of Defense; Teacher Notes "Strong STEM Aptitude"*
 
 ---
 
@@ -400,7 +400,7 @@ When work resumes (no urgency — see **Status**):
 4. **Stub the ad inventory.** Five spam ads + three recurring local ads is enough to feel populated. AI-generate the bad images on purpose (seven fingers is the goal, not the bug).
 5. **Cut the SL-leftover components** once the new look is verified end-to-end. See **Build Notes — Cuts**.
 
-The first headline test from **Status** still applies: don't ship anything until five headlines make Matt actually laugh out loud. Currently sitting at three confirmed.
+The first headline test from **Status** still applies: don't ship anything until five headlines make Matt actually laugh out loud. **Five confirmed as of April 29, 2026. Test passed.**
 
 ---
 
