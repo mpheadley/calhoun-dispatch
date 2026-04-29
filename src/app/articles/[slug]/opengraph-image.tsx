@@ -15,7 +15,7 @@ export default async function OG({ params }: { params: Promise<{ slug: string }>
   const { slug } = await params;
   const article = getArticleBySlug(slug);
   const title = article?.frontmatter.title ?? "The Green Tomato";
-  const byline = article?.frontmatter.byline ?? "Dale Brewer, Bureau Chief";
+  const byline = article?.frontmatter.byline ?? "Buford Tatum, Bureau Chief";
   const breaking = article?.frontmatter.breaking ?? false;
   const developing = article?.frontmatter.developing ?? false;
   const tags = article?.frontmatter.tags?.filter(t => t !== "breaking" && t !== "developing") ?? [];

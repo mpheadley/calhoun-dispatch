@@ -3,7 +3,7 @@
 **Last updated:** April 26, 2026
 **Posture:** Dale runs the accounts; Matt occasionally cameos.
 
-The cleanest approach: **Dale Brewer is the public-facing voice of The Green Tomato across all platforms.** Matt remains the publicly-credited founder/editor on the About page, but social content stays in-character. This keeps the world intact while leaving Matt's real accounts available for occasional cameos and authentic ownership without compromising the bit.
+The cleanest approach: **Buford Tatum is the public-facing voice of The Green Tomato across all platforms.** Matt remains the publicly-credited founder/editor on the About page, but social content stays in-character. This keeps the world intact while leaving Matt's real accounts available for occasional cameos and authentic ownership without compromising the bit.
 
 ---
 
@@ -95,7 +95,7 @@ The entire promotion. Lets the existing audience trickle in if they want.
 
 ## Three Rules to Live By
 
-1. **Dale never breaks character.** No "thanks for the follow!" No "shop our merch!" Dale would say *"The Green Tomato has acknowledged its readership. Subscriptions are unavailable."*
+1. **Buford never breaks character.** No "thanks for the follow!" No "shop our merch!" Dale would say *"The Green Tomato has acknowledged its readership. Subscriptions are unavailable."*
 
 2. **Don't post in any Anniston-area Facebook group.** Even pseudonymously, even once. Fastest way to get ratioed by the people you sit next to at church.
 
@@ -109,12 +109,12 @@ The entire promotion. Lets the existing audience trickle in if they want.
 - Display name: **The Green Tomato**
 - Avatar: tomato silhouette (use `public/images/brand/tomato.png`)
 - Banner: 1200×400 navy bar with masthead wordmark in Blackletter
-- Bio: *"The vegetable of record. Calhoun County, Alabama. Dale Brewer, Bureau Chief."*
+- Bio: *"The vegetable of record. Calhoun County, Alabama. Buford Tatum, Bureau Chief."*
 - Pinned post: link to homepage with the line *"Most Trusted News Source Since Recently."*
 
 ### Instagram `@thegreentomatonews`
 - Profile photo: tomato silhouette
-- Bio: *"Calhoun County's Most Trusted News Source Since Recently · Dale Brewer, Bureau Chief"*
+- Bio: *"Calhoun County's Most Trusted News Source Since Recently · Buford Tatum, Bureau Chief"*
 - Link: thegreentomato.news
 - First 9 posts: a 3×3 grid of OG cards from the strongest articles. Establishes the visual identity in one screen.
 

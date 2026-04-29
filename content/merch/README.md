@@ -8,7 +8,7 @@ Three SKUs to launch. Print-on-demand via Fourthwall (same vendor Matt already u
 |---|---|---|---|
 | `01-raptor-run-survivor-tee.md` | "I Survived the Raptor Run" Tee | $25 | $15 |
 | `02-vegetable-of-record-tote.md` | "The Vegetable of Record" Tote | $22 | $11 |
-| `03-bureau-chief-mug.md` | "Dale Brewer / Bureau Chief" Mug | $18 | $10 |
+| `03-bureau-chief-mug.md` | "Buford Tatum / Bureau Chief" Mug | $18 | $10 |
 
 **Combined potential at conservative volume:**
 - 5 tees + 5 totes + 5 mugs / month = $325 gross, ~$180 margin
@@ -26,7 +26,7 @@ Release after watching what moves and listening to comment / share patterns.
 - "The Mummy Is Stable" tee
 - "Best Viewed in Netscape Navigator 4.0" tee (the website footer line as a shirt)
 - "HURT? CALL BERT." novelty tee (homage to the recurring fake ad)
-- "Dale Brewer / Bureau Chief" stickers — low-cost SKU for impulse buyers
+- "Buford Tatum / Bureau Chief" stickers — low-cost SKU for impulse buyers
 
 ## Workflow when launching
 

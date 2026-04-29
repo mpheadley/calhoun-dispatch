@@ -1,4 +1,4 @@
-# SKU 3: "Dale Brewer / Bureau Chief" Mug
+# SKU 3: "Buford Tatum / Bureau Chief" Mug
 
 **Status:** Drop #1 — gift-able, lowest cost of entry, character merch
 
@@ -7,25 +7,25 @@
 ## Product Title (Fourthwall field)
 
 ```
-Dale Brewer, Bureau Chief — Official Mug of The Green Tomato
+Buford Tatum, Bureau Chief — Official Mug of The Green Tomato
 ```
 
 ## Short Description (product card)
 
 ```
-Dale Brewer's working mug. Bureau Chief, Calhoun County. He uses it every morning. So can you.
+Buford Tatum's working mug. Bureau Chief, Calhoun County. He uses it every morning. So can you.
 ```
 
 ## Long Description (full product page)
 
 ```
-Dale Brewer has served as Bureau Chief of The Green Tomato since recently. He is a graduate of the Jacksonville State University broadcast journalism program, and he covers Calhoun County from a desk in his home office, which his wife Karen has politely described as "in the sun room."
+Buford Tatum has served as Bureau Chief of The Green Tomato since recently. He is a graduate of the Jacksonville State University broadcast journalism program, and he covers Calhoun County from a desk in his home office, which his wife Karen has politely described as "in the sun room."
 
-This is the mug Dale uses.
+This is the mug Buford uses.
 
-It holds 11 ounces of coffee, which is the amount Dale prefers. The handle accommodates an adult finger and partial second finger, which Dale considers sufficient. The interior is white, which Dale has not personally evaluated against alternatives.
+It holds 11 ounces of coffee, which is the amount Buford prefers. The handle accommodates an adult finger and partial second finger, which Buford considers sufficient. The interior is white, which Buford has not personally evaluated against alternatives.
 
-Wear it. Drink from it. Place it on your desk during a video conference and observe whether anyone comments. Dale will be in touch, where applicable.
+Wear it. Drink from it. Place it on your desk during a video conference and observe whether anyone comments. Buford will be in touch, where applicable.
 
 Ceramic. Dishwasher and microwave safe. Printed by Fourthwall.
 
@@ -64,10 +64,10 @@ Optional second-side detail (handle-left side, small):
 - A tiny address-stamp-style imprint:
   ```
   ★ "Dispatched Daily" ★
-  Webmaster: dale@thegreentomato.news
+  Webmaster: buford@thegreentomato.news
   ```
 
-**Avoid:** color photos of "Dale," cartoon characters, large logos. The mug should look like office supply, not merch.
+**Avoid:** color photos of "Buford," cartoon characters, large logos. The mug should look like office supply, not merch.
 
 ## Search keywords
 

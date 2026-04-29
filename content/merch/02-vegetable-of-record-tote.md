@@ -54,7 +54,7 @@ Slogan unchanged since slogan was selected. We do not anticipate changes.
 
 **Side 2 (back):**
 - Empty, OR a small bottom-right credit:
-  - `Webmaster: dale@thegreentomato.news`
+  - `Webmaster: buford@thegreentomato.news`
 
 **Colorway (start with one only):**
 - Navy canvas, yellow + red ink

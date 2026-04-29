@@ -15,7 +15,7 @@ export default function AboutPage() {
 
       <article className="gt-article-body" style={{ marginTop: 12 }}>
         <p>
-          The Green Tomato is a satirical news outlet by Matt Headley, who lives in Anniston and takes this place seriously across multiple registers. Dale Brewer is fictional. The mummy is real.
+          The Green Tomato is a satirical news outlet by Matt Headley, who lives in Anniston and takes this place seriously across multiple registers. Buford Tatum is fictional. The mummy is real.
         </p>
 
         <h2>What it is</h2>
@@ -38,14 +38,14 @@ export default function AboutPage() {
           The Green Tomato is none of those things. It&apos;s the part of my voice the other outlets have no use for — the dry, the absurd, the parts of local life that ribbon cuttings cannot accommodate. I started it because, after years of writing earnest profiles of business owners I genuinely admire, I needed somewhere to also write the truth that the same place that builds you sometimes treats every Dollar General groundbreaking like a moon landing. Both things are true. I cover both.
         </p>
 
-        <h2>Who Dale Brewer is</h2>
+        <h2>Who Buford Tatum is</h2>
 
         <p>
-          Dale Brewer is a fictional character who serves as the Bureau Chief of The Green Tomato. He is a graduate of the Jacksonville State University broadcast journalism program. He covers the county with the gravity of a war correspondent and the credulity of a chamber of commerce intern. He does not know he is in a satire site. That is part of why the satire works.
+          Buford Tatum is a fictional character who serves as the Bureau Chief of The Green Tomato. He is a graduate of the Jacksonville State University broadcast journalism program. He covers the county with the gravity of a war correspondent and the credulity of a chamber of commerce intern. He does not know he is in a satire site. That is part of why the satire works.
         </p>
 
         <p>
-          Dale&apos;s recurring cast — Mayor Lyle Henley, Pastor Brad Ellison, Sheriff Earl Tubb, Brenda Cofield outside the Saks Walmart, Wendell Moss at the EDC, and others — are also fictional. Any resemblance to real people or organizations is coincidental, occasionally uncanny, and never the point.
+          Buford&apos;s recurring cast — Mayor Lyle Henley, Pastor Brad Ellison, Sheriff Earl Tubb, Brenda Cofield outside the Saks Walmart, Wendell Moss at the EDC, and others — are also fictional. Any resemblance to real people or organizations is coincidental, occasionally uncanny, and never the point.
         </p>
 
         <h2>What is real and what is not</h2>
@@ -71,7 +71,7 @@ export default function AboutPage() {
         <h2>Reach out</h2>
 
         <p>
-          You can write to me at <a href="mailto:matt@headleyweb.com">matt@headleyweb.com</a> for anything not addressed to Dale, and at <a href="mailto:dale@thegreentomato.news">dale@thegreentomato.news</a> for anything that is. Dale will be in touch where applicable.
+          You can write to me at <a href="mailto:matt@headleyweb.com">matt@headleyweb.com</a> for anything not addressed to Buford, and at <a href="mailto:buford@thegreentomato.news">buford@thegreentomato.news</a> for anything that is. Buford will be in touch where applicable.
         </p>
 
         <hr />

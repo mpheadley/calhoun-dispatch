@@ -126,7 +126,7 @@ export default async function OG() {
                 display: "flex",
               }}
             >
-              Dale Brewer, Bureau Chief
+              Buford Tatum, Bureau Chief
             </div>
             <div
               style={{
