@@ -104,6 +104,16 @@ This is the visual register and it's load-bearing. It does three things at once:
 - One element on every page that is just permanently broken (red X for missing image)
 - Email-the-Webmaster link goes to buford@thegreentomato.com
 
+### Why these specific choices
+
+**Yellow masthead text on dark green (not white, not black):** White would look cleaner — that's the argument against it. "Cleaner" is wrong here. The yellow reads like a community newsletter printed on a home inkjet in 1997: someone made a choice and committed to it without asking anyone. Black disappears against the dark green nav. White looks designed. Yellow looks like a mistake that became a standard.
+
+**Gingham background tile:** Period-correct, immediately Southern, zero ambiguity about what era this is. It does the 1998 work before the reader reads a word.
+
+**Times New Roman for body, Comic Sans for notices:** TNR is the default-font default — the choice of someone who didn't choose. Comic Sans on "important" notices signals that the editor considers Comic Sans to be an upgrade. Both are correct.
+
+**1998 but on modern infrastructure (Next.js + MDX):** The joke requires the site to actually work. A real broken site isn't funny — it's just broken. The comedy is that modern engineering is cosplaying 1997. The gag collapses if pages 404 or images don't load.
+
 ### What it rules out
 Modern animations (GSAP, Lenis smooth scroll, scroll-triggered reveals), parallax, scrollytelling, photo carousels, profile cards, featured tilts — anything that looks designed after 2001. See **Build Notes** below for the component triage.
 
@@ -130,6 +140,20 @@ Same raw observations can fuel both, but the formats are not interchangeable. **
 ### One step past reality, never two
 
 The satire move is to push *one* logical step further than what happened. Real church survey → fictional consultant hire (one step, lands). Real church survey → consultant + riot + arena tour (three steps) tips into "trying too hard."
+
+### Headline craft
+
+The Onion formula: short, specific subject + long bureaucratic predicate. The subject names the real institution and the real specific thing. The predicate is the institutional response in press-release language.
+
+- **Stop before explaining the joke.** If a semicolon clause explains what the first clause already implies, cut it. *"Oxford Seventh-Grader's Science Fair Project Referred to Department of Defense"* is the full headline. *"; Teacher Notes 'Strong STEM Aptitude'"* explains the joke instead of trusting it.
+- **Tight subject.** "Oxford Seventh-Grader" not "Oxford Middle School Science Fair Winner Who." The predicate is where the length lives.
+- **The bureaucratic register carries the comedy.** "Described as Stable," "Referred to," "Forms Its Own Government" — institutional language applied to absurd facts. The gap between tone and content is the mechanism.
+- **Test:** read the subject alone. Does it name something recognizable and specific? Then read the predicate alone. Does it sound like an actual press release? If both yes, the headline probably works.
+
+What's working in the seed list and why:
+- *RMC Waiting Room Enters Its Fourteenth Hour, Forms Its Own Government* — tight subject (four words), predicate escalates in two beats, second beat is the joke
+- *Quintard Mall Welcomes Eleventh Vape Shop, Cementing Status as Region's Premier Vape Destination* — "cementing status" is pure EDC press-release language; the joke is the EDC voice applied to vape shops
+- *Anniston Museum Mummy Described as "Stable" Following Annual Wellness Check* — "described as stable" and "annual wellness check" are both hospital PR phrases; the absurdity is that they apply to a mummy
 
 ### One or two specific details, not stacked
 
@@ -322,7 +346,7 @@ First test: can you write five headlines that make you actually laugh out loud? 
 2. *JSU Marching Southerners Asked to Tone It Down for Fifth Consecutive Funeral*
 3. *RMC Waiting Room Enters Its Fourteenth Hour, Forms Its Own Government*
 4. *Anniston Museum Mummy Described as "Stable" Following Annual Wellness Check*
-5. *Oxford Seventh-Grader's Science Fair Project Referred to Department of Defense; Teacher Notes "Strong STEM Aptitude"*
+5. *Oxford Seventh-Grader's Science Fair Project Referred to Department of Defense*
 
 ---
 
