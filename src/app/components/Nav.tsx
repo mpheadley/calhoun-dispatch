@@ -1,8 +1,10 @@
 import Image from "next/image";
 import { Link } from "next-view-transitions";
 import { siteConfig } from "@/lib/site-config";
+import { getAllArticles } from "@/lib/articles";
 import EditionDate from "./EditionDate";
 export default function Nav() {
+  const issueNumber = getAllArticles().length;
   return (
     <>
       <div className="gt-masthead">
@@ -21,7 +23,7 @@ export default function Nav() {
         </div>
         <p className="gt-masthead-tagline">{siteConfig.tagline}</p>
         <p className="gt-masthead-edition">
-          Vol. I, No. 1 · Calhoun County, Alabama · <EditionDate />
+          Vol. I, No. {issueNumber} · Calhoun County, Alabama · <EditionDate />
         </p>
       </div>
 
