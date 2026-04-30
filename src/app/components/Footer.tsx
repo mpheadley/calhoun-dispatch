@@ -40,15 +40,20 @@ export default function Footer() {
         </div>
         <div style={{ textAlign: "center" }}>
           <HitCounter />
-          <p style={{ margin: "8px 0 0", fontSize: "0.72rem" }}>
-            <span className="broken-image" aria-hidden="true" />
-            <br />
-            (image: gt_logo.gif)
-          </p>
+          <img 
+            src="/images/site/pixel-tomato.webp"
+            alt="The Green Tomato pixel art logo"
+            width={64}
+            height={64}
+            style={{ imageRendering: 'pixelated', margin: '8px auto 0' }}
+          />
         </div>
       </div>
 
       <hr className="gt-rule" style={{ borderTopColor: "#fff", opacity: 0.5 }} />
+      <p style={{ textAlign: "center", fontStyle: "italic", fontSize: "0.78rem", margin: "0 0 8px" }}>
+        The Green Tomato is a work of satire. All articles, names, and incidents are fictional.
+      </p>
       <p style={{ textAlign: "center", margin: 0, fontSize: "0.74rem" }}>
         &copy; {new Date().getFullYear()} The Green Tomato. All rights reserved.
         All incidents considered developing.

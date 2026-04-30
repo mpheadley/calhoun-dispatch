@@ -49,7 +49,7 @@ Buford is not in on the joke. That's the whole thing.
 
 ## The Cast
 
-*Bureau Chief name "Buford Tatum" is a Claude-suggested placeholder. **Lane 3 selected** — real-Alabama-coded with a hint of off; final name TBD. See **Open Questions** for shortlist. The role and voice are locked. Other character names are also working drafts.*
+*Bureau Chief name: **Buford Tatum** — LOCKED. Real-Alabama-coded, slightly off, plausible. Pomposity comes from self-seriousness, not the name — that's the bit. Role, voice, and name are all locked.*
 
 Buford anchors the masthead, but The Green Tomato is a **world** — Springfield, not just Kent Brockman. Each recurring character carries a different comic register. Use them rotationally; let the reader build equity in them so "Mayor Henley announced today" lands before the verb.
 
@@ -412,14 +412,7 @@ Pending Matt's call before any code work begins:
 1. **Confirm the rename.** Doc currently assumes *The Green Tomato* is final. If it's still a maybe, flag before code references downstream multiply.
 2. **Headlines 4 and 5.** First Seed List has three locked. Two more needed before the "five make me laugh" test from **Status** is satisfied.
 3. **Domain.** `thegreentomato.com`? `thegreentomato.news`? Something more Calhoun-specific (`calhoungreentomato.com`)? Affects the email-the-webmaster gag and overall brand frame.
-4. **Bureau Chief's name.** "Buford Tatum" propagated everywhere but Matt not fully sold. Case for Buford: working-class Alabama trying to be a professional journalist — the pomposity comes from self-seriousness, not the name. "Belvedere" pushes him toward old-money pomposity, which is a different and arguably less funny register. Belvedere works better as the dog (now in cast). Alternatives in the same lane if Buford doesn't land:
-   - *Denton Pruitt* — solid, slightly off, plausible
-   - *Lavon Grimes* — very specific Alabama energy
-   - *Corbett Stuckey* — sounds like a man who has covered seventeen groundbreakings
-   - *Clyde Peavy* — plausible + slightly wrong
-   - *Grady Turnbow* — working press, never left the county
-
-   Name is propagated throughout codebase — lock before any public share.
+4. **Bureau Chief's name.** ~~RESOLVED~~ **Buford Tatum — LOCKED.** Propagated throughout codebase. Do not reopen.
 5. **Pseudonym posture.** Aggressive — separate everything, no Matt connection — vs. casual, let it leak when it leaks. Current doc assumes aggressive for 6–12 months; revisit if priorities shift.
 6. **Pastor Brad's church name.** "The Bridge at Oxford" is plausible but generic. Worth swapping to something more specifically Calhoun if the bit is going to recur in ads + articles.
 7. **Real-or-fake source material in ads.** Doc says fake-only. If the Calhoun-twisted spam uses real photos of real landmarks (Cheaha, Noccalula goat, JSU), confirm — line between "public-domain location image" and "implies endorsement" is thin in a market this small.
@@ -564,14 +557,56 @@ The museum has an actual Egyptian mummy on permanent display. Buford covers it w
 
 **Real:** Anniston Councilor John Spain physically attacked Mayor Gene Robinson after a council meeting on September 13. Spain was charged with third-degree assault. Multiple police testimony.
 
-**Rule: don't satirize this directly.** Real named people, real criminal proceedings. Cruel and legally risky.
+**Rule:** the incident is the *reason* for the comedy without ever being the *subject* of it.
 
-**But Buford references it implicitly:** It becomes the silent "incident" that prompted whatever the current council is doing badly. Rich for these uses:
-- *"Anniston City Council Concludes Civility Training Refresher; Trainer Notes Most Members 'Engaged Throughout'"*
-- *"City Council Adopts New Conflict De-Escalation Protocol Following Council Member's Email; Protocol Has Been Adopted Three Previous Times"*
-- *"Anniston City Council Reaffirms Commitment to Respectful Dialogue, Citing 'Lessons Learned' Without Specifying Lessons or When"*
+---
 
-The rule: the incident is the *reason* for the comedy without ever being the *subject* of it.
+## Humor Analysis & New Concepts (April 30, 2026)
+
+### Comedic Principles (Derived from `CONCEPT.md`)
+
+The humor in The Green Tomato is not arbitrary; it operates on a clear set of rules. The strength of a concept can be judged by its adherence to these principles:
+
+1.  **The Specificity Engine:** The joke must be grounded in a real, recognizable local detail (a place, an institution, a person). Generic satire fails.
+    *   **Strong:** "Anniston Museum Mummy Described as 'Stable' Following Annual Wellness Check." (Real place + real object + absurd action).
+    *   **Weak:** "Local Man Does Something Silly at Museum."
+
+2.  **The Register Gap:** The primary comedic mechanism is the gap between the *bureaucratic, deadpan tone* of the reporting and the *absurd content* being described. The more seriously Buford Tatum reports it, the funnier it is.
+    *   **Strong:** "RMC Waiting Room Enters Its Fourteenth Hour, Forms Its Own Government." (The language of international diplomacy applied to a mundane crisis).
+    *   **Weak:** "The RMC waiting room was super crowded and people were getting mad." (Reports the reality without the satirical frame).
+
+3.  **One Step Past Reality, Never Two:** The satire must be a plausible, logical extension of a real-world absurdity. It should feel like something that *could* happen tomorrow.
+    *   **Strong:** A Dollar General opens next to the Anniston Country Club; the mayor calls it "complementary." (Barely one step past reality).
+    *   **Weak:** A Dollar General opens on the moon. (Too many steps, breaks the world's logic).
+
+### Strongest Existing Concepts (Based on Analysis)
+
+*   **Raptor Run 2026 ("3 Dead, 5K Continues"):** A-tier execution of the formula. Real event, real institutional asset (raptors), one logical step into absurdity.
+*   **The Mummy Wellness Check:** A-tier "Register Gap" execution. Applies the sterile language of healthcare to an ancient artifact.
+*   **Dollar General / Country Club:** A-tier "One Step" execution. The humor comes almost entirely from the perfect, believable absurdity of the mayor's quote.
+
+### New Story Ideas (Derived from "Rich Veins")
+
+1.  **Idea: The Berman Museum Insurance Rider**
+    *   **Source:** The Berman Museum's real collection (Hitler's tea set, Napoleon's pistol).
+    *   **Angle (Register Gap):** Buford obtains a "leaked" copy of the museum's insurance policy. The article is a deadpan report on the mundane, bureaucratic insurance language used to describe priceless, violent artifacts.
+    *   **Headline:** *Berman Museum Insurance Policy Updated; Hitler's Tea Set Now Listed Under "High-Value Kitchenware"*
+    *   **Why it works:** Applies the most boring possible language (insurance terms) to the most inflammatory possible objects.
+    *   **Feedback (April 30, 2026):** Not funny. The premise is too dry and lacks a core absurd action. Shelve.
+
+2.  **Idea: The High School Football Halftime Show Escalation**
+    *   **Source:** High school football obsession; JSU Marching Southerners.
+    *   **Angle (One Step Past Reality):** A local high school (e.g., Piedmont) is so desperate to win the "halftime show arms race" that they take out a loan to hire the JSU Marching Southerners for one game. Buford covers it like a major municipal bond issue.
+    *   **Headline:** *Piedmont High Boosters Announce Third-Quarter Bond Issue to Fund JSU Southerners Halftime Appearance*
+    *   **Why it works:** Connects two real, beloved local institutions in a way that is completely absurd but follows the internal logic of football obsession.
+    *   **Feedback (April 30, 2026):** Also not funny. The financial angle is too much of a stretch and not immediately comedic. Shelve.
+
+3.  **Idea: The Church Marquee Standoff**
+    *   **Source:** The "Church marquee arms race" vein.
+    *   **Angle (Report it Straight):** Don't even exaggerate. Buford reports on a real or slightly fictionalized marquee feud between two churches on the same road, but uses the language of Cold War diplomacy.
+    *   **Headline:** *Highway 21 Church Marquee Tensions Escalate; Pastors Refuse Backchannel Talks*
+    *   **Why it works:** The humor is already present in reality. Buford's serious, geopolitical framing provides the necessary register gap.
+    *   **Feedback (April 30, 2026):** This is the funniest of the three by a wide margin. This concept is strong. Pursue this one.
 
 ---
 

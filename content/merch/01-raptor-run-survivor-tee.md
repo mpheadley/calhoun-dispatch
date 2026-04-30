@@ -45,8 +45,8 @@ Note: this is a satirical product. No actual hawks, owls, or members of the muse
 - Top: small condensed type — `THE GREEN TOMATO` — yellow, all caps, 1-line
 - Middle: large hand-drawn-feeling display — `I SURVIVED` — Times New Roman bold, slight 1998 newspaper-headline distress
 - Below: smaller — `THE RAPTOR RUN` — same family, smaller weight
-- Bottom: small italic — `Anniston Museum of Natural History · April 25, 2026`
-- Optional: tiny silhouette of a Harris's hawk between "I SURVIVED" and "THE RAPTOR RUN," scaled small enough to look like a logo, not a graphic
+- Bottom: small italic — `Participation Medals Pending · April 25, 2026`
+- Tiny velociraptor silhouette between "I SURVIVED" and "THE RAPTOR RUN," scaled small enough to look like a logo, not a graphic
 
 **Back (between shoulders):**
 - One line, small, all caps: `847 STARTED · 844 FINISHED`

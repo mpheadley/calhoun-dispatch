@@ -97,7 +97,6 @@ body {
   height: clamp(32px, 6vw, 56px);
   width: auto;
   flex-shrink: 0;
-  filter: brightness(0) invert(1) sepia(1) saturate(20) hue-rotate(15deg);
 }
 @media (max-width: 480px) {
   .gt-masthead-row { gap: 6px; }
@@ -656,6 +655,101 @@ a:active { color: var(--gt-active); }
   gap: 10px;
 }
 .ad-broken-caption { font-size: 0.74rem; margin: 0; font-style: italic; color: #888; }
+
+/* ─── Guestbook ─── */
+.guestbook-entries {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+.guestbook-entry {
+  background: #fffff0;
+  border: 2px solid var(--gt-navy);
+  padding: 8px 12px;
+}
+.guestbook-message {
+  font-family: "Comic Sans MS", "Chalkboard SE", cursive;
+  font-size: 0.95rem;
+  margin: 0 0 4px;
+}
+.guestbook-meta {
+  font-size: 0.78rem;
+  font-style: italic;
+  text-align: right;
+  border-top: 1px dashed #999;
+  padding-top: 4px;
+  margin: 0;
+}
+.guestbook-form-container {
+  background: #f0f8ff;
+  border: 2px ridge var(--gt-purple);
+  padding: 12px;
+}
+.guestbook-notice {
+  font-size: 0.8rem;
+  font-style: italic;
+  text-align: center;
+  margin: 0 0 10px;
+  color: var(--gt-navy);
+}
+
+/* ─── Classifieds ─── */
+.classifieds-notice {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 0.78rem;
+  font-style: italic;
+  background: #fffff0;
+  border: 1px solid #ccc;
+  padding: 6px 8px;
+  margin-bottom: 14px;
+  text-align: center;
+}
+.classifieds-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+@media (max-width: 600px) {
+  .classifieds-grid { grid-template-columns: 1fr; }
+}
+.classifieds-category {
+  border: 2px solid var(--gt-navy);
+}
+.classifieds-category-title {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  background: var(--gt-navy);
+  color: #fff;
+  padding: 3px 6px;
+  margin: 0;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.classifieds-category-listings {
+  padding: 6px 8px;
+  font-size: 0.82rem;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.classifieds-listing {
+  border-bottom: 1px dashed #999;
+  padding-bottom: 4px;
+}
+.classifieds-listing:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+.classifieds-listing-text {
+  margin: 0;
+}
+.classifieds-listing-phone {
+  margin: 2px 0 0;
+  font-weight: bold;
+  font-family: "Courier New", monospace;
+}
 
 @media (prefers-reduced-motion: reduce) {
   .ad-cta-arrow { animation: none; }

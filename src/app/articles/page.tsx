@@ -6,12 +6,30 @@ export const metadata = {
   description: "Complete coverage of Calhoun County, Alabama.",
 };
 
-export default function ArticlesPage() {
-  const articles = getAllArticles();
+type ArticlesPageProps = {
+  searchParams: {
+    tag?: string;
+  };
+};
+
+function capitalize(s: string) {
+  if (typeof s !== "string" || s.length === 0) return "";
+  return s.charAt(0).toUpperCase() + s.slice(1);
+}
+
+export default function ArticlesPage({ searchParams }: ArticlesPageProps) {
+  const allArticles = getAllArticles();
+  const tag = searchParams.tag;
+
+  const articles = tag
+    ? allArticles.filter((article) => article.frontmatter.tags?.includes(tag))
+    : allArticles;
+  
+  const title = tag ? `★ ${capitalize(tag)} ★` : "★ All News ★";
 
   return (
     <>
-      <div className="gt-section-header">★ All News ★</div>
+      <div className="gt-section-header">{title}</div>
       <p style={{ fontSize: "0.85rem", fontStyle: "italic", marginBottom: 12 }}>
         {articles.length} {articles.length === 1 ? "story" : "stories"} on record. Sorted by recency.
       </p>

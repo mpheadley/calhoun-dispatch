@@ -28,6 +28,17 @@ Release after watching what moves and listening to comment / share patterns.
 - "HURT? CALL BERT." novelty tee (homage to the recurring fake ad)
 - "Buford Tatum / Bureau Chief" stickers — low-cost SKU for impulse buyers
 
+## Design file workflow (GPT mockup → print-ready)
+
+1. Generate concept mockup with `--model gpt` (shirt on white background)
+2. Remove background: remove.bg or Photoshop → isolates the shirt graphic
+3. Vectorize the design: Adobe Illustrator Image Trace or Vectorizer.ai → SVG/EPS
+4. **Check thin serif text after tracing** — small italic lines (e.g. "Manageable" credit line) often degrade. If soft, retype that line in Illustrator over the vector base.
+5. Export as PNG at 300 DPI for Fourthwall upload
+6. Keep the original GPT mockup as the listing preview photo (shows the shirt in context)
+
+The GPT mockup is the concept proof. The vectorized export is the actual upload file. Don't skip step 4 — text quality is where vectorization breaks down.
+
 ## Workflow when launching
 
 1. Open Fourthwall (same dashboard as bipolar brand)

@@ -14,7 +14,7 @@ export const siteConfig = {
     { label: "News", href: "/articles" },
     { label: "Sports", href: "/articles?tag=sports" },
     { label: "Obits", href: "/articles?tag=obits" },
-    { label: "Classifieds", href: "/articles?tag=classifieds" },
+    { label: "Classifieds", href: "/classifieds" },
     { label: "Guestbook", href: "/guestbook" },
   ],
 };

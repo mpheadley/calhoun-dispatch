@@ -41,6 +41,13 @@ export default function RootLayout({
   return (
     <ViewTransitions>
       <html lang="en" className={blackletter.variable}>
+        <head>
+          <script
+            async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5099067013703258"
+            crossOrigin="anonymous"
+          ></script>
+        </head>
         <body>
           <a href="#main-content" className="skip-link">Skip to content</a>
           <div className="gt-page">

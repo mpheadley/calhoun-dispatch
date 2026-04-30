@@ -1,0 +1,109 @@
+/* Print Edition Styles */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+.print-body {
+  background: #EAE8D8; /* Aged paper color */
+  padding: 2rem;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.print-page {
+  background: #FDFCF5;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.print-masthead {
+  text-align: center;
+  border-bottom: 4px double #333;
+  padding-bottom: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.print-masthead-title {
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  font-size: 5.5rem;
+  margin: 0;
+  line-height: 1;
+  letter-spacing: -0.02em;
+}
+
+.print-masthead-meta {
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid #333;
+  border-bottom: 1px solid #333;
+  padding: 0.25rem 0;
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+}
+
+.print-content {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 1.5rem;
+}
+
+.print-article-lead {
+  grid-column: 1 / -1;
+  border-bottom: 2px solid #333;
+  padding-bottom: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.print-headline-lead {
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  font-weight: 900;
+  margin: 0 0 1rem;
+  line-height: 1.1;
+}
+
+.print-hero-image {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.print-byline {
+  font-style: italic;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+.print-body-lead {
+  column-count: 3;
+  column-gap: 1.5rem;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.print-columns {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+}
+
+.print-article-column {
+  border-top: 1px solid #ccc;
+  padding-top: 1rem;
+}
+
+.print-headline-column {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 700;
+  font-size: 1.3rem;
+  margin: 0 0 0.5rem;
+}
+
+.print-body-column {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  margin: 0;
+}

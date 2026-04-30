@@ -45,7 +45,7 @@ Best viewed in Netscape Navigator 4.0 at 800x600.
 Layout:
 ```
               [small star icon]
-            DALE BREWER
+            BUFORD TATUM
             BUREAU CHIEF
 
          The Green Tomato
@@ -53,7 +53,7 @@ Layout:
 ```
 
 Type:
-- "DALE BREWER" — large condensed bold serif (Times New Roman bold, all caps)
+- "BUFORD TATUM" — large condensed bold serif (Times New Roman bold, all caps)
 - "BUREAU CHIEF" — smaller, italic serif
 - "The Green Tomato" — small caps, slightly above
 - "Calhoun County, Alabama" — italic, small
@@ -72,5 +72,5 @@ Optional second-side detail (handle-left side, small):
 ## Search keywords
 
 ```
-dale brewer mug, bureau chief, the green tomato mug, calhoun county satire, anniston, alabama satire mug, journalism mug, gag gift, office mug
+buford tatum mug, bureau chief, the green tomato mug, calhoun county satire, anniston, alabama satire mug, journalism mug, gag gift, office mug
 ```
