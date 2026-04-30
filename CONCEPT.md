@@ -470,11 +470,27 @@ The museum has an actual Egyptian mummy on permanent display. Buford covers it w
 - "Museum Officials Confirm Mummy and Raptors Have Never Been in the Same Room; Offer No Further Context"
 - "Mummy Exhibit Relocated Following 'Routine Maintenance' to Raptor Wing; Staff Declines Questions"
 
-### Knox Concert Series rebrand
+### Knox Concert Series — potential series (3–5 pieces)
 
-**Premise:** The JSU Knox Concert Series (real — classical music, performing arts) reboots in a wildly incongruous new direction. Heavy metal. Hip-hop dancing. Bar band tribute night. Elvis impersonators. Series director gives press conference framing it as evolution.
+**Real history:** The Knox Concert Series was founded in Anniston in 1917 by Carrie McClure Knox. It ran 74 seasons before ending in 2019. The Alabama Ballet's Nutcracker ran at Anniston High School for 46 consecutive years before ending in 2025 (post-COVID volunteer collapse, production costs). The Knox Foundation still exists, focused on educational outreach.
 
-**Assessment:** B-tier. The structure is "thing X becomes incongruous thing Y" — funny once, but a thin mechanic. Stronger as a brief news item ("Knox Concert Series Announces New Direction; First Performance Features Local Bar Band 'Wet Concrete'") than as a full feature. **Save for a slow week.**
+**Drafted article:** `knox-concert-series-rebrand.mdx` — Knox Foundation announces revival with pro wrestling, Just Elvis (Cullman), Wet Concrete (Talladega), and a Christmas wrestling card in the Nutcracker's December slot. "Fourteen subscribers have already renewed." Knox family declines comment. *Status: draft, unpublished.*
+
+**Series potential — strongest unused angles:**
+
+**Option B — One Act, Full Gravity** *(write second)*
+Knox books a single wrestling card as the season opener and defends it entirely in classical arts language: "choreography," "dramatic tension," "the arc of conflict." One JSU music faculty member says "I have nothing to add at this time." Seventeen subscribers have already renewed. Ends on the image of a folding chair — same kind damaged at the farmers market.
+*Note: steel-chair callback to `farmers-market-wrestling.mdx` is a genuine GT universe moment.*
+
+**Option C — The Holiday Slot** *(write third, strongest standalone)*
+With the Nutcracker gone after 46 years, the Foundation announces the December slot will be filled. The replacement: Knox Holiday Spectacular, a Christmas wrestling card. Santa appears in the main event. The Alabama Ballet did not respond. This one is tighter and darker than the revival piece — write it separately as a December article.
+
+**Other banked angles:**
+- The misunderstanding: a new board member booked the full season before the programming committee reviewed the contracts. Season is sold.
+- The tribute band extended universe: the entire season is tribute acts, including "Alabama: The Tribute" from Fort Payne — which the article notes without further comment is geographically proximate to the original band.
+- Subscriber grief piece: 87% of the subscriber base is over 60. Buford interviews three longtime subscribers. No comedy, just Buford reporting it straight. The humor is that he doesn't know it's sad.
+
+**Assessment:** A-tier as a series. The revival article alone is B-tier ("funny once"). The series earns it — each piece deepens the Knox Foundation as a recurring GT institution. Space pieces across issues, not a single week.
 
 ### Oxford Middle School robotics → existential threat
 
