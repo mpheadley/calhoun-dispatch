@@ -1,0 +1,187 @@
+# Liberty News Network — Concept Doc
+
+*(Sister project to The Green Tomato. Captured from brainstorm 2026-05-01. Working concept; not yet built.)*
+
+---
+
+## The Name
+
+**Liberty News Network. LNN.**
+
+Reads as a real conservative Christian news outlet on first contact. That's load-bearing — the satire is delayed-reveal. A reader who clicks through expecting Newsmax-for-church should believe it for the first three sentences and start to suspect it by the fifth.
+
+"Liberty" carries the right freight: Liberty University, "religious liberty," the patriotic-Christian register that already sells. Three-letter network acronym (LNN, like CNN/BBC/PBS) does the institutional work for free. The brand is straight; the writing does the comedy.
+
+**Open:** domain. `libertynewsnetwork.com` likely taken; `lnn.news` / `libertynewsnetwork.news` are options. Decision deferred until concept clears.
+
+---
+
+## What It Is
+
+A progressive-Christian satire outlet that reads as conservative-Christian news at first glance. The Onion's institutional voice, applied from inside the tradition, aimed at Christian nationalism, megachurch culture, prosperity gospel, and the commodification of evangelical identity.
+
+**The gap in the market:** The Babylon Bee owns the conservative-Christian satire register. Nothing comparable exists from the progressive-Christian side. Mockingbird and Holy Post run commentary, not satire. There is no Onion-equivalent for ex-evangelicals, mainline Christians, and people watching evangelical institutions get absorbed into a political movement.
+
+**Who it's for:** progressive Christians, ex-evangelicals, mainline pastors, deconstructing evangelicals, and anyone fluent enough in evangelical culture to catch the references. Not aimed at outsiders looking in — aimed at insiders looking sideways.
+
+**Why Matt:** pastoral background = credibility to satirize from inside the tradition. The voice is recognizable to people inside evangelical and mainline spaces because it is one of theirs. That credibility is the project's primary asset and cannot be faked.
+
+---
+
+## Tone — Delayed Reveal
+
+The Babylon Bee's tone is "we're doing satire, you can tell." That's the easier register and it's already taken. LNN runs a harder register: **looks like a real outlet until the reader notices.**
+
+- Headlines read straight. Press-release predicates. Institutional voice.
+- Bylines look real ("LNN Faith Desk," "LNN Field Correspondent — Dallas").
+- The site's chrome — masthead, nav, ad slots — looks like a real conservative Christian outlet.
+- The comedy lives in the gap between the institutional sincerity and what's being reported.
+
+**Failure modes:**
+- Punching down at individual believers instead of institutions. The target is the institutional behavior, not the person in the pew.
+- Mistaking sneer for satire. If a piece reads as contempt for the people inside the tradition, it's not LNN — it's the wrong outlet entirely.
+- Reading as conservative satire by accident. If a Babylon Bee reader nods through the whole piece, the satire failed.
+
+The test: a thoughtful pastor inside the tradition should read it and laugh ruefully. Not a stranger laughing at strangers.
+
+---
+
+## Inspirations
+
+- **The Onion** — institutional voice, headline craft, the predicate doing the work
+- **The Babylon Bee** — what to do *differently* (their register is conservative-coded sneer; LNN's is insider-coded affection)
+- **Veep** — institutional comedy where everyone is fluent in their own jargon
+- **The Righteous Gemstones** — megachurch satire that loves the people it lampoons
+- **The Simpsons** — Springfield-as-world: recurring cast, recurring institutions, deep equity in returning characters
+- **Phil Vischer / Holy Post** — the progressive-Christian commentary register
+- **Mockingbird** — Episcopal/Presbyterian voice as reference, not template
+
+---
+
+## Content Pillars (from brainstorm)
+
+Banked angles, organized by beat. Treat as a draft seed bank, not a publication schedule. Pace will be 1–2 articles/week once the site exists; lower while building.
+
+### Christian Nationalism (primary beat)
+- Trump elected SBC president; promises "Make Christianity Great Again"
+- WWJD bracelets discontinued; "What Would Trump Do" outsells at youth groups
+- "Roll Tide Baptist Church" reports record attendance after installing stadium seating
+- Bald Eagle Baptist / First Baptist of the American Flag / 'Merica Baptist — church plant arms race
+- Southern Gospel quartet announces all-patriotic album, zero mentions of Jesus
+- "Christian Nationalism" rebranded as "Dominion Theology" for better marketing
+
+### Megachurch / Celebrity Pastor
+- Recurring fictional celebrity pastor — charismatic, podcast empire, merch line, eventual scandal (Lentz/Hillsong arc as template)
+- Hillsong-style exposé doc parody
+- "Prosperity Gospel Funhouse" theme park (see below — full bit)
+- Church consultant discovers "Segregation Is Just Market Segmentation"
+
+### Chick-fil-A as Church (recurring gag)
+- "Chick-fil-A Opens Oxford Location, Immediately Becomes Third Baptist Church"
+- Local CFA manager job title should be "Associate Pastor"
+- Jacksonville church plant fails — congregation already meets at CFA
+- CFA adds Baptism to menu — $4.99 Sinner's Prayer Combo (sandwich, fries, redemption)
+- Upsell: "Upgrade your salvation $1.99 — waffle fries + eternal life"
+- Two plan options: "Once Saved Always Saved Combo" vs. "Arminian Uncertainty Meal"
+
+*Cross-pollinates with GT — Buford has been covering Chick-fil-A as religion already (CONCEPT.md §"Chick-fil-A theology"). Same observation, two outlets, two registers.*
+
+### Competing Denominations as Fast Food
+- Methodist Fried Chicken Franchise — "Prevenient Grace and 15% Off"
+- Presbyterian Chicken Chain — "same quality, better doctrine on universal salvation"
+- Episcopal church opens at Panera, becomes fastest-growing denomination in region
+- Mainline denominations discover salvation through fried chicken, become regional fast food powerhouses
+
+### Fake Church Names (running gag — masthead/sidebar candy)
+Prosperity Gospel Community Chapel · The Anointed Chicken Ministry · First Apostolic Drive-Thru · Grace and Grease Holiness Church · The Eternal Sandwich Tabernacle · First AME Zion Fried Chicken Sanctuary · Mount Zion CME Combo Ministry · Goodwill Independent Baptist Chicken House · Free Will Spiritual Chicken Assembly · Macedonia CME Drive-Thru Temple
+
+### Institutional Racism in the Church
+- Diversity Officer's sole job: writing memos explaining why segregation is actually inclusion
+- "Director of Equitable Worship Experiences (Part-Time, Sundays Only)" job posting
+- Megachurch opens contemporary service, demographics shift predictably, leadership surprised
+
+### Campus Ministry / Neo-Calvinism
+- Gospel Coalition publishes 47-page essay proving everyone else wrong
+- RUF student discovers Reformed theology makes her smarter than her parents, becomes insufferable
+- Campus Crusade announces new strategy: make Christianity cool by making it exactly like high school youth group
+
+### Missionary Culture
+- "Mission team reports successful completion of 50-year poverty crisis during two-week visit"
+- "Local Missionaries Announce Triumphant Return After Solving All Problems in Honduras"
+- Short-term missions org reports zero long-term impact, excellent Instagram content
+
+### Southern Gospel / CCM Industry
+- Recurring fictional satirical Southern Gospel quartet — bios, tour announcements, ridiculous song titles
+- CCM festival discovers entire lineup accidentally became MAGA rally entertainment
+- Southern Gospel cruise: spiritually renewed and financially devastated
+- Christian cruise line reports record profits — captive audience can't escape mandatory worship
+
+### Christian Theme Park ("Prosperity Gospel Funhouse")
+A standalone bit with multiple attractions. Use as a recurring location.
+- The Rapture Coaster — Leaves You Behind in Line
+- Baptism Bay Rapids — Convert or Get Wet
+- The Sanctification Spinning Teacups
+- Serpent's Descent Water Slide
+- The Prosperity Gospel Pirate Ship — Higher You Go, More You Spend
+
+Ride reviews. Safety incidents. Annual pass disputes. Theological messaging baked into queue lines.
+
+### Recurring Columns / Features
+- Fake pastor guest columnist from Black church tradition — **find a real collaborator. Do not write that voice.**
+- Fictional church plant announcements (running format)
+- Southern Gospel quartet updates (running format)
+- LNN Field Correspondent segments — megachurch parking lots, denominational conventions, Christian conference green rooms
+
+---
+
+## Format & Distribution
+
+### Articles
+Same shape as GT — short MDX articles with hero images. Institutional voice. Headlines do most of the work; bodies are 200–500 words. The chrome looks like a real outlet.
+
+### Video
+Repackage articles as deadpan news anchor clips for TikTok / Instagram Reels / Shorts. 15–60 seconds. Fake field correspondents. Bad blazer. Slightly wrong lighting. Complete sincerity.
+
+Local theater friends as actors — already in the brainstorm. The video format is where LNN out-scales GT: a Calhoun County bureau chief is harder to cast than a generic news anchor reading a national story.
+
+### Cast (TBD)
+Anchor and field correspondents need names and locked voices, the way GT locked Buford. Defer until first batch of articles exists — characters emerge from the pieces, not from a casting doc.
+
+---
+
+## Relationship to The Green Tomato
+
+See `content/research/lnn-and-gt-strategy.md` for the operational plan.
+
+Short version:
+- LNN = national focus, national audience, primary scaling target
+- GT = regional Alabama focus, secondary, hyperlocal
+- GT carries a "Faith & Religion" section syndicated from LNN
+- Some bits cross-pollinate (Chick-fil-A theology, megachurch coverage); each is written for its outlet's register
+- Don't merge them. Two brands, two voices, one author. The separation is the point — LNN's voice cannot do Buford's job, and Buford cannot do LNN's.
+
+---
+
+## Open Questions
+
+1. **Domain.** What's available? `lnn.news` would mirror `thegreentomato.news` and reads right.
+2. **Anchor character.** Does LNN have a Buford-equivalent (named anchor whose voice carries the brand), or does it run faceless wire-service style? The Onion is faceless; the Bee has personality. Lean faceless for the delayed-reveal register, then add a recurring anchor for video.
+3. **Black church tradition column.** Who is the real collaborator? This cannot be written from outside. Identify the person before writing the column, not after.
+4. **Pastor network.** Which real pastors across denominations would contribute or boost? Build the list before launch.
+5. **Walton Goggins / Gemstones producers pitch.** Long-term option, not a near-term move. Bank it; don't pursue until LNN has a body of work to point at.
+6. **Legal posture.** GT's `LEGAL_GUIDELINES.md` covers Alabama-scale satire. National-scale satire of named megachurch pastors and political figures has a different risk profile. Needs its own guidelines doc before publishing about real named individuals.
+7. **Aesthetic direction.** GT is committed to 1998-cosplay. LNN should look like a current conservative Christian news outlet — clean, modern, slightly off. Reference set TBD (World Magazine, Christian Post, Newsmax Faith?). Don't decide until concept clears.
+
+---
+
+## Next Steps (when ready to start building)
+
+1. Lock the domain.
+2. Decide aesthetic direction — pick 2–3 real-outlet references and write the visual brief.
+3. Write 5–10 articles in flat Markdown, no site, to pressure-test the voice. If the voice doesn't hold across 10 pieces, the concept needs work before infrastructure does.
+4. Identify the Black-church-tradition collaborator. Do not launch the column without one.
+5. Write `LEGAL_GUIDELINES.md` for LNN — different risk surface than GT.
+6. Stand up the site (Next.js + MDX, same stack as GT — no reason to fork tooling).
+7. Wire syndication: GT pulls LNN's faith content into a "Faith & Religion" section.
+
+The voice test (step 3) is the gate. Everything downstream depends on the voice holding. If it doesn't, the rest is wasted work.
