@@ -6,13 +6,24 @@
 
 ## The Name
 
-**Liberty News Network. LNN.**
+**Working candidates: LNN (Liberty News Network) or LBN (Liberty Broadcasting Network). Pending — Matt thinking on it.**
 
-Reads as a real conservative Christian news outlet on first contact. That's load-bearing — the satire is delayed-reveal. A reader who clicks through expecting Newsmax-for-church should believe it for the first three sentences and start to suspect it by the fifth.
+The brand has to do specific work: a first-time visitor should land thinking "real conservative Christian outlet," not "real conservative outlet generally." Delayed-reveal satire only functions if the Christian-media frame loads on contact — that's the frame the writing then subverts.
 
-"Liberty" carries the right freight: Liberty University, "religious liberty," the patriotic-Christian register that already sells. Three-letter network acronym (LNN, like CNN/BBC/PBS) does the institutional work for free. The brand is straight; the writing does the comedy.
+**LNN — Liberty News Network**
+- Three-letter network shape (CNN/BBC) carries institutional gravity
+- Reads patriotic-first, Christian-second. "Liberty" only loads as Christian for readers who already know Liberty University or "religious liberty" framing
+- A general-audience visitor scans this as Newsmax/OAN — that's a different satirical target (conservative politics) than the actual one (Christian nationalism)
+- Ambiguity is on-theme — Christian nationalism *is* the patriotic-Christian fusion, so a name that embodies the fusion is doing satirical work. But it makes the satire harder to find for the people most likely to enjoy it.
 
-**Open:** domain. `libertynewsnetwork.com` likely taken; `lnn.news` / `libertynewsnetwork.news` are options. Decision deferred until concept clears.
+**LBN — Liberty Broadcasting Network** *(current recommendation)*
+- Slots into the CBN/TBN/INSP naming pattern. For the target audience (progressive Christians, ex-evangelicals, mainline pastors) — who grew up with or adjacent to Christian broadcasting — "LBN" pattern-matches as Christian media instantly
+- Keeps the "Liberty" cargo (Liberty University, religious-liberty register) without forcing it to do all the work
+- Fixes the recognition problem LNN has, at the cost of some ambiguity
+
+**Recommendation:** LBN. Delayed-reveal works better when the audience knows what kind of outlet they're looking at and *then* gets surprised by the content. LNN puts that recognition lift on the writing alone.
+
+**Open:** domain. Decision deferred until name clears. `lbn.news` / `libertybroadcastingnetwork.com` / `libertybroadcasting.news` are candidates.
 
 ---
 
@@ -170,7 +181,7 @@ Short version:
 4. **Pastor network.** Which real pastors across denominations would contribute or boost? Build the list before launch.
 5. **Walton Goggins / Gemstones producers pitch.** Long-term option, not a near-term move. Bank it; don't pursue until LNN has a body of work to point at.
 6. **Legal posture.** GT's `LEGAL_GUIDELINES.md` covers Alabama-scale satire. National-scale satire of named megachurch pastors and political figures has a different risk profile. Needs its own guidelines doc before publishing about real named individuals.
-7. **Aesthetic direction.** GT is committed to 1998-cosplay. LNN should look like a current conservative Christian news outlet — clean, modern, slightly off. Reference set TBD (World Magazine, Christian Post, Newsmax Faith?). Don't decide until concept clears.
+7. **Aesthetic direction.** Three reference poles in play: TBN (gilded televangelist camp), modern megachurch / Kingdom (Hillsong-Bethel polish), and Onion (sober wire-service news). Working recommendation: **modern Christian newsmagazine** — Christian Post / Faithwire register. Newsmagazine layout, evangelical iconography in the chrome (subtle cross watermark, dove favicon), Christian-media ad inventory (financial advisors, Hillsdale, prophecy ministries), inspirational quote in the sidebar. Looks completely real on first contact; the writing does the reveal. TBN gild is too costume-y — gives away the joke before the headline lands. Pure Onion-clean abandons the visual vocabulary of the actual target.
 
 ---
 
