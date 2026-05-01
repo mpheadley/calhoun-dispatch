@@ -71,7 +71,7 @@ export default function AboutPage() {
         <h2>Reach out</h2>
 
         <p>
-          You can write to me at <a href="mailto:matt@headleyweb.com">matt@headleyweb.com</a> for anything not addressed to Buford, and at <a href="mailto:buford@thegreentomato.news">buford@thegreentomato.news</a> for anything that is. Buford will be in touch where applicable.
+          You can write to me at <a href="mailto:matt@headleyweb.com">matt@headleyweb.com</a> for anything not addressed to Buford, and at <a href="mailto:buford_tatum@aol.com">buford_tatum@aol.com</a> for anything that is. Buford will be in touch where applicable.
         </p>
 
         <hr />

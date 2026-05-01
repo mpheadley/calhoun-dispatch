@@ -4,6 +4,36 @@ Reference for regenerating or iterating on GT article images.
 
 ---
 
+## ⚠ MANDATORY PRE-GENERATION CHECKLIST
+
+Run this against every prompt before calling `generate-image.py`. No exceptions.
+
+**1. Aesthetic markers present?**
+Every GT prompt must include all three of these — word for word:
+- `"Wire service photograph"` or `"Small-town newspaper photograph"`
+- `"Photojournalistic grain"`
+- `"Slightly blown-out highlights"`
+If any are missing, add them before generating. This is what makes GT images read as 1998 local news, not generic AI art.
+
+**2. Real brand names?**
+Scan the prompt for: Dollar General, Walmart, McDonald's, NASCAR, Chick-fil-A, Waffle House, or any other real trademark.
+If found → alter it before generating:
+- Dollar General → "Dolla General" or "Dollar Depot"
+- Walmart → "Wal-Mart Supercenter" partially obscured
+- NASCAR → "NASKAR"
+- Chick-fil-A → "Chik-Fil-A"
+Never render a real trademark cleanly. See LEGAL_GUIDELINES.md §2.
+
+**3. Race specified for every visible person?**
+Anniston is ~55% Black, ~40% white. If the prompt has a person — named or anonymous — race must be specified. Do not let the model decide. Do not default to white.
+
+**4. Model specified?**
+Default: `--model gpt`. GPT handles multi-person scenes and period-correct news photography best. Flux is only for simple exterior shots; Imagen for single-person documentary. If you used anything other than GPT, flag it.
+
+Only after all four checks pass → show the finalized prompt to Matt → wait for approval → generate.
+
+---
+
 ## GT Photo Style — Standing Template
 
 Every GT image should read as **wire service / small-town newspaper photography, circa 1998–2004**. Not disposable camera nostalgia. Not cinematic. A local freelance photographer who thinks he's AP.
@@ -135,4 +165,34 @@ Anniston and Calhoun County are racially diverse. The default AI output skews wh
 **Wire-in (post-generation, one commit):**
 1. Swap `src/app/not-found.tsx` `<img src>` from `pixel-tomato.webp` → `pixel-tomato-splat.webp`, drop the `transform: rotate(-8deg)` (splatter has its own asymmetry)
 2. Add to `not-found.tsx` metadata: `icons: { icon: '/images/site/pixel-tomato-splat-favicon.png' }` so the browser tab shows the splat tomato on 404 pages only
+
+---
+
+## Weaver Dollar General Anniversary — NEEDS REGENERATION (April 30, 2026)
+
+**Article:** `content/articles/weaver-dollar-general-anniversary.mdx`
+**Status:** First generation (Flux) used real brand name "Dollar General" — violates trademark rule. Must regenerate.
+**Old file (do not use):** `public/images/articles/weaver-dollar-general/20260430_212135_flux_small-town-newspaper-photograph.-exterio.webp`
+**Target file:** `public/images/articles/weaver-dollar-general/hero.webp`
+**Model:** GPT (`--model gpt`) — Flux was a test; GPT is the GT standard
+
+**What went wrong in the first prompt:**
+1. Used "Dollar General" — real trademark, must be altered
+2. Used Flux — diverges from GT standard (GPT only)
+3. Likely missing "Wire service photograph" / "Photojournalistic grain" / "Slightly blown-out highlights" — the three mandatory aesthetic markers
+
+**Corrected prompt (locked):**
+> Small-town newspaper photograph. Exterior of a small discount store called "Dolla General" — yellow sign, beige cinder-block facade, parking lot with a few cars. A middle-aged Black woman in a store apron stands near the entrance, arms folded, expression neutral. Flat afternoon Alabama sunlight. No ceremony, no balloons — just a normal Tuesday. Photojournalistic grain, slightly blown-out highlights. No text except the altered store sign.
+
+**Corrected prompt (v3 — locked):**
+> Small-town newspaper photograph. Exterior of a small discount store called "Dolla General" — yellow sign, beige cinder-block facade, parking lot. Mid-afternoon Alabama sunlight. Near the entrance, a pale white man in his early twenties wearing all black — store apron over a band shirt — stands holding a bunch of bananas at his side, expression somewhere between bored and mournful. To his left, an older white man in his late sixties in a polo shirt stands in the parking lot facing the store, hands clasped, the quiet reverence of someone visiting a landmark. Background: a Black woman and a middle-aged white woman walking out through the entrance carrying plastic shopping bags; a Black man walking in through the entrance empty-handed. No balloons, no signage, no ceremony. Photojournalistic grain, slightly blown-out highlights. No text except the altered store sign.
+
+**File:** `public/images/articles/weaver-dollar-general/hero.webp`
+**Status:** LIVE — wired into frontmatter 2026-04-30
+
+**Pre-generation checklist:**
+- [x] Wire-service aesthetic markers present (Small-town newspaper photograph, photojournalistic grain, blown-out highlights)
+- [x] Brand name altered: "Dolla General" not "Dollar General"
+- [x] Race specified for all visible persons
+- [x] Model: GPT
 

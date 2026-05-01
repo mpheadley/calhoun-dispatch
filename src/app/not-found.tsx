@@ -20,15 +20,14 @@ export default function NotFound() {
         }}
       >
         <img
-          src="/images/site/pixel-tomato.webp"
-          alt="A green tomato, splattered"
+          src="/images/site/pixel-tomato-splat.webp"
+          alt="The Green Tomato mascot, splattered"
           width={220}
           height={220}
           style={{
             imageRendering: "pixelated",
             display: "block",
             margin: "0 auto 12px",
-            transform: "rotate(-8deg)",
           }}
         />
         <p

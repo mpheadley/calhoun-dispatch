@@ -104,8 +104,8 @@ export default function ShopPage() {
       <div className="shop-footer-note">
         <p>
           <strong>Custom orders?</strong> Contact the Bureau Chief at{" "}
-          <a href="mailto:buford@thegreentomato.news">
-            buford@thegreentomato.news
+          <a href="mailto:buford_tatum@aol.com">
+            buford_tatum@aol.com
           </a>
           . Response time: when we get to it.
         </p>

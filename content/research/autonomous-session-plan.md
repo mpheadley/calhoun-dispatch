@@ -1,6 +1,6 @@
 # GT Autonomous Session Plan
 
-*Last updated: 2026-04-30*
+*Last updated: 2026-04-30 (session 2 complete)*
 *Purpose: What an unattended Claude session can execute on GT without Matt present, in what order, and what requires a human checkpoint.*
 
 ---
@@ -39,27 +39,27 @@ If Matt wants to unlock image generation fully: say "generate images without ask
 
 ### Tier 1: Write immediately (no relationship risk, specific angles locked)
 
-| Article | File to create | Concept source | Est. length |
-|---|---|---|---|
-| Peerless Saloon — Lucinda Talley / Mahogany Bar | `peerless-saloon-history.mdx` | satire-targets.md | 400w |
-| Howard Core / Symphony Way violin factory | `howard-core-symphony-way.mdx` | satire-targets.md | 350w |
-| Anniston Star — Correction of the Correction | `star-correction-of-correction.mdx` | satire-targets.md | 200w (short item) |
-| Anniston Star — APA Award for Parking Lot Photo | `star-apa-award.mdx` | satire-targets.md | 250w |
-| Main Street Anniston — 47th "On the Verge" Statement | `main-street-on-the-verge.mdx` | satire-targets.md | 350w |
-| Coldwater Mountain Leadville qualifier — local response polite | `coldwater-leadville-qualifier.mdx` | satire-targets.md | 400w |
-| Weaver, Alabama — 81st year between Anniston and Jacksonville | `weaver-81st-year.mdx` | satire-targets.md | 250w |
-| UWECA — StoryBrand 4th certification | `uweca-storybrand.mdx` | satire-targets.md | 200w |
-| Alabama the Band — Buford covers as local developing story | `alabama-band-local-story.mdx` | editorial-calendar.md | 350w |
+| Article | File | Status |
+|---|---|---|
+| Peerless Saloon — Lucinda Talley / Mahogany Bar | `_drafts/peerless-saloon-history.mdx` | ✅ DRAFTED + IMAGED (2026-04-30) |
+| Howard Core / Symphony Way violin factory | `_drafts/howard-core-symphony-way.mdx` | ✅ DRAFTED + IMAGED (2026-04-30) |
+| Anniston Star — Correction of the Correction | `_drafts/star-correction-of-correction.mdx` | ✅ DRAFTED, text-only (2026-04-30) |
+| Anniston Star — APA Award for Parking Lot Photo | `_drafts/star-apa-award.mdx` | ✅ DRAFTED + IMAGED (2026-04-30) |
+| Main Street Anniston — 47th "On the Verge" Statement | `_drafts/main-street-on-the-verge.mdx` | ✅ DRAFTED + IMAGED (2026-04-30) — confirm Dorothy Finch name |
+| Coldwater Mountain Leadville qualifier | `_drafts/coldwater-leadville-qualifier.mdx` | ✅ DRAFTED + IMAGED (2026-04-30) |
+| Weaver, Alabama — 81st year | `_drafts/weaver-81st-year.mdx` | ✅ DRAFTED + IMAGED (2026-04-30) |
+| UWECA — StoryBrand 4th certification | `_drafts/uweca-storybrand.mdx` | ✅ DRAFTED + IMAGED (2026-04-30) — swap name before publish |
+| Alabama the Band — Buford covers as local story | `_drafts/alabama-band-local-story.mdx` | ✅ DRAFTED + IMAGED (2026-04-30) |
 
 ### Tier 2: Write next (relationship-adjacent, affectionate only)
 
-| Article | File to create | Note |
+| Article | File | Status |
 |---|---|---|
-| Downing & Sons — $600 building, normal Tuesdays since 1963 | `downing-sons-gurnee.mdx` | Hold until Lewis Downing SL profile closer |
-| Brian Howell — Former judge, now carpet; shows up everywhere | `howell-civic-presence.mdx` | Recurring character intro piece |
-| Pinhoti Pizza — trail hikers describe pizza as unexpected | `pinhoti-pizza-trail-economy.mdx` | Safe, no personal relationship |
-| Anniston Museum — mummy stable since 1250 BC | `museum-mummy-stable.mdx` | Companion to existing mummy piece |
-| 1895 Noble Street Building — grand staircase rediscovered | `noble-street-building.mdx` | Building only, not Justin Hall |
+| Downing & Sons — $600 building, normal Tuesdays since 1963 | `downing-sons-gurnee.mdx` | Not yet drafted — hold until Lewis Downing SL profile |
+| Brian Howell — Former judge, now carpet; shows up everywhere | `howell-civic-presence.mdx` | Not yet drafted |
+| Pinhoti Pizza — trail hikers describe pizza as unexpected | `_drafts/pinhoti-pizza-trail-economy.mdx` | ✅ DRAFTED (2026-04-30) — image pending Replicate credit |
+| Anniston Museum — mummy stable since 1250 BC | `_drafts/museum-mummy-stable.mdx` | ✅ DRAFTED (2026-04-30) — image pending Replicate credit |
+| 1895 Noble Street Building — grand staircase rediscovered | `_drafts/noble-street-building.mdx` | ✅ DRAFTED (2026-04-30) — image pending Replicate credit |
 
 ### Tier 3: Seasonal (hold for correct window)
 
@@ -171,8 +171,8 @@ These must be consistent across all articles. Do not invent new names without Ma
 
 | Real person | Fictional GT name | Status |
 |---|---|---|
-| Jerod Snider (Called Coffee) | TBD — ask Matt | Pending |
-| Shannon Jenkins (UWECA) | Calvin Odom | Placeholder — confirm with Matt |
-| Karla Eden (Main Street Anniston) | Dorothy Finch | Placeholder — confirm with Matt |
+| Jerod Snider (Called Coffee) | TBD — Matt cleared use of real name in drafts 2026-04-30; swap before publish | Pending confirmation |
+| Shannon Jenkins (UWECA) | TBD — Matt cleared use of real name in drafts 2026-04-30; swap before publish | Pending confirmation |
+| Karla Eden (Main Street Anniston) | Dorothy Finch | Already used in live article (anniston-downtown-mural) — effectively locked |
 
 Recurring fictional cast (already confirmed): Mayor Lyle Henley, Sheriff Earl Tubb, Pastor Brad Ellison, Wendell Moss, Brenda Cofield, Buford Tatum. Use these freely.

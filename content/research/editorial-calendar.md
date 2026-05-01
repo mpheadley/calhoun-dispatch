@@ -1,6 +1,6 @@
 # GT Editorial Calendar
 
-*Last updated: 2026-04-30*
+*Last updated: 2026-04-30 (session 2)*
 *Pace: 1–2 articles/month. Never at the expense of SL profiles.*
 
 ---
@@ -33,21 +33,53 @@
 | Anniston Civility Training | 2026-04-26 | evergreen; no image needed |
 | Earl T. Waggoner (obit) | 2026-04-22 | obituary format; no image by design |
 | Mildred Prater (obit) | 2026-04-27 | obituary format; no image by design |
-| Cheaha Challenge Pavement | 2026-04-26 | race is May 16 — seasonally live NOW; generate image soon |
+| Cheaha Challenge Pavement | 2026-04-26 | hero wired ✓ (2026-04-30 session) |
+| Highway 21 Church Marquee Standoff | 2026-04-30 | hero wired ✓ (2026-04-30 session) |
+| Berman Museum Gala | 2026-04-26 | hero wired ✓ (2026-04-30 session) |
+| Quintard Mall Vape Shop | 2026-04-26 | hero wired ✓ (2026-04-30 session) |
+| Cheaha Summit Third Hiker | 2026-04-26 | hero wired ✓ (2026-04-30 session) |
+| Content Transformer Hum | 2026-04-30 | hero wired ✓ (2026-04-30 session) |
+| Weaver Dollar General Anniversary | 2026-04-24 | hero wired ✓ (2026-04-30 session — Dolla General, goth employee, Harold) |
+| JSU Gamecock Spring Practice | 2026-04-22 | no hero — no image needed |
+| Anniston Downtown Mural | 2026-04-28 | no hero — no image needed |
 
 ---
 
-## Unpublished — Needs Hero Image Before Re-Publishing
+## Drafts With Hero Images — Ready for Matt Publish Decision
 
-Moved to `published: false` on 2026-04-30 to clean up the live site:
+Written and imaged this session (2026-04-30). All `published: false`. Matt approves → flip flag.
 
-| Article | File | Image Priority | Image concept |
-|---|---|---|---|
-| Highway 21 Church Marquee Standoff | `highway-21-marquee-standoff.mdx` | HIGH | Two roadside church marquees visible from car, competing messages |
-| Berman Museum Gala (artifacts missing) | `berman-museum-gala.mdx` | HIGH | Museum gala crowd, tuxedos, empty display case visible in bg |
-| Quintard Mall Vape Shop | `quintard-mall-vape-shop.mdx` | MEDIUM | Ribbon cutting, balloons, vape shop storefront inside mall |
-| Content Transformer Hum | `content-transformer-hum.mdx` | LOW | Utility workers around transformer, looks content |
-| Cheaha Summit Third Hiker | `cheaha-summit-third-hiker.mdx` | LOW | Park ranger at summit, casual, third missing person sign |
+| Article | File | Notes |
+|---|---|---|
+| Peerless Saloon History | `_drafts/peerless-saloon-history.mdx` | No relationship risk. Evergreen. |
+| Howard Core / Symphony Way | `_drafts/howard-core-symphony-way.mdx` | No relationship risk. Evergreen. |
+| Anniston Star — APA Award | `_drafts/star-apa-award.mdx` | Public institution. No heads-up needed. |
+| Main Street — On the Verge | `_drafts/main-street-on-the-verge.mdx` | Dorothy Finch = placeholder, confirm name |
+| Coldwater Mountain Leadville | `_drafts/coldwater-leadville-qualifier.mdx` | No relationship risk. |
+| Weaver 81st Year | `_drafts/weaver-81st-year.mdx` | Evergreen. |
+| UWECA — StoryBrand | `_drafts/uweca-storybrand.mdx` | Shannon Jenkins in draft — swap fictional name before publish |
+| Alabama Band / Fort Payne | `_drafts/alabama-band-local-story.mdx` | Evergreen. |
+
+## Drafts Without Hero Images — Need Replicate Credit + Generate
+
+| Article | File | Status |
+|---|---|---|
+| Pinhoti Pizza / Chief Ladiga | `_drafts/pinhoti-pizza-trail-economy.mdx` | Draft complete, image pending (credit ran out) |
+| Museum Mummy Stable (companion) | `_drafts/museum-mummy-stable.mdx` | Draft complete, image pending |
+| Noble Street 1895 Building | `_drafts/noble-street-building.mdx` | Draft complete, image pending |
+| Anniston Star — Correction of Correction | `_drafts/star-correction-of-correction.mdx` | Text-only format — no image needed, ready to publish |
+
+## Drafts — Hold for Name/Timing
+
+| Article | File | Hold reason |
+|---|---|---|
+| Called Coffee — laptop rent | `_drafts/coffee-laptop-rent.mdx` | Text OK. Text Jerod before publish. |
+| Called Coffee — PSL riots | `_drafts/coffee-pumpkin-spice-riots.mdx` | September window + text Jerod |
+| Called Coffee — bean origin | `_drafts/coffee-bean-origin-protocol.mdx` | October window + text Jerod |
+| UWECA — knowledge audit | `_drafts/uweca-knowledge-audit.mdx` | Swap fictional name first |
+| UWECA — cries seventh year | `_drafts/uweca-cries-seventh-year.mdx` | September window + swap name |
+| UWECA — Movie Gallery | `_drafts/uweca-movie-gallery.mdx` | Swap fictional name first |
+| Main Street — on the verge | `_drafts/main-street-on-the-verge.mdx` | Confirm Dorothy Finch name |
 
 ---
 

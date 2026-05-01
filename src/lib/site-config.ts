@@ -5,7 +5,7 @@ export const siteConfig = {
     "The Green Tomato is the vegetable of record for Calhoun County, Alabama. Breaking news, developing stories, and community coverage you can trust.",
   url: "https://thegreentomato.news",
   author: "Buford Tatum, Bureau Chief",
-  webmaster: "buford@thegreentomato.news",
+  webmaster: "buford_tatum@aol.com",
   established: "Recently",
   lastUpdated: "April 24, 2003",
   hitCount: 4217330,
