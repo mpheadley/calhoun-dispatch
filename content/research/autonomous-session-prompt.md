@@ -5,6 +5,52 @@
 
 ---
 
+## QUICK-START VARIANT (shorter — for focused feature sessions)
+
+Paste this for a session focused on articles + specific features:
+
+```
+You are starting a Green Tomato build session.
+
+FIRST: Read /Volumes/Samsung_T5/webdev/green-tomato/CLAUDE.md in full.
+THEN: Read /Volumes/Samsung_T5/webdev/green-tomato/CONCEPT.md in full.
+THEN: Read /Volumes/Samsung_T5/webdev/green-tomato/LEGAL_GUIDELINES.md.
+THEN: Read one published article from content/articles/ to absorb Buford's voice.
+
+The CLAUDE.md tells you everything about the stack, the 1998 aesthetic, the content
+system, and what's already built. Do not build anything before reading it.
+
+Your session goals (in priority order):
+1. Write a new-article generator script at scripts/new-article.ts — scaffolds a new
+   MDX file with correct frontmatter (slug from title, current date, published: false).
+   Usage: npx ts-node scripts/new-article.ts "Oxford Man Cautiously Optimistic"
+
+2. Wire newsletter signup — the POST /api/subscribe route exists but has no email
+   provider connected. Use Resend (RESEND_API_KEY env var). On subscribe: add to a
+   "The Green Tomato" audience in Resend, send a confirmation email in Buford's voice
+   ("You are now a subscriber of The Green Tomato. Buford Tatum thanks you for your
+   continued readership."). Apply the kill list before writing any email copy.
+
+3. Write 3 new published Buford Tatum articles on these topics:
+   - Anniston city council approves downtown mural (Buford covers it like the Louvre
+     unveiling the Mona Lisa)
+   - Weaver Dollar General celebrating 2-year anniversary (sincere, proud, community-minded)
+   - JSU Gamecock football spring practice report (gravity of Super Bowl pre-coverage)
+
+   Each article: 150-250 words, correct frontmatter, published: true, Buford byline.
+   Save as MDX in content/articles/. Run kill list check before delivering.
+
+4. Run npm run build after each feature. Fix any TypeScript errors before reporting done.
+```
+
+**Status as of 2026-04-30:** ALL FOUR TASKS ABOVE ARE COMPLETE.
+- `scripts/new-article.ts` — built and working
+- `/api/subscribe` — Resend wired (audience add + Buford confirmation email)
+- 3 articles published: `anniston-downtown-mural.mdx`, `weaver-dollar-general-anniversary.mdx`, `jsu-gamecock-spring-practice.mdx`
+- Build passes: 65 pages generated
+
+---
+
 ## PRE-READ (do this before writing any code or content)
 
 Read these files in full before proceeding:
