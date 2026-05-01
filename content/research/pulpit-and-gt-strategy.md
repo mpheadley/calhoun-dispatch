@@ -1,24 +1,24 @@
-# LNN + Green Tomato — Two-Site Strategy
+# The Pulpit + Green Tomato — Two-Site Strategy
 
-*Captured 2026-05-01 from brainstorm. Operational plan for running both projects.*
+*Captured 2026-05-01 from brainstorm. Operational plan for running both projects. Note: project name was originally "Liberty News Network / LNN" — landed on **The Pulpit** as the working name. See `THE_PULPIT.md` for the naming reasoning.*
 
 ---
 
 ## The Two-Project Frame
 
-**Liberty News Network (LNN)** — national, primary, larger scaling potential. Progressive-Christian satire. See `LIBERTY_NEWS_NETWORK.md`.
+**The Pulpit** — national, primary, larger scaling potential. Progressive-Christian satire. See `THE_PULPIT.md`.
 
 **The Green Tomato (GT)** — regional Alabama / East Central Alabama. Live, not yet publicly launched. See `CONCEPT.md`.
 
 **Why both, why not one:**
-- The voices don't overlap. Buford is a Calhoun County bureau chief who cannot do national religion satire without breaking character. The LNN anchor cannot do Oxford's third Dollar General without breaking character. Forcing them into one outlet flattens both.
-- The audiences are different. LNN scales to ex-evangelicals nationally. GT scales to Calhoun County and adjacent. There is overlap — but the front doors should be different so each audience finds its outlet.
-- The risk profiles are different. GT names real Anniston-area institutions; LNN would name megachurch pastors and national political figures. Different legal posture, different editorial guardrails.
-- The aesthetics should be different. GT is locked-in 1998 cosplay. LNN should look current. One site cannot do both visual jokes.
+- The voices don't overlap. Buford is a Calhoun County bureau chief who cannot do national religion satire without breaking character. The Pulpit's voice cannot do Oxford's third Dollar General without breaking character. Forcing them into one outlet flattens both.
+- The audiences are different. The Pulpit scales to ex-evangelicals nationally. GT scales to Calhoun County and adjacent. There is overlap — but the front doors should be different so each audience finds its outlet.
+- The risk profiles are different. GT names real Anniston-area institutions; The Pulpit would name megachurch pastors and national political figures. Different legal posture, different editorial guardrails.
+- The aesthetics should be different. GT is locked-in 1998 cosplay. The Pulpit should look current (modern Christian newsmagazine register). One site cannot do both visual jokes.
 
 **Why not pick one and drop the other:**
 - GT is already live with ~30 articles. Sunk-cost is small but real, and the work is good.
-- LNN has a clear gap-in-market thesis. Hard to walk away from.
+- The Pulpit has a clear gap-in-market thesis. Hard to walk away from.
 - They reinforce each other through syndication without competing for attention.
 
 ---
@@ -27,41 +27,41 @@
 
 ### Now → near term (next 1–2 months)
 - **GT continues at current pace** (1–2 articles/month, per `editorial-calendar.md`). Don't accelerate. Don't slow. The site exists; let it accumulate.
-- **LNN voice test.** Write 5–10 LNN articles in flat Markdown, no site. Goal: prove the voice holds. If it doesn't, fix the concept before building anything.
-- **Domain decision for LNN.** Cheap, fast, do it this week.
+- **The Pulpit voice test.** Write 5–10 articles in flat Markdown, no site. Goal: prove the voice holds. If it doesn't, fix the concept before building anything.
+- **Domain decision for The Pulpit.** `thepulpit.news` / `pulpit.news` are candidates. Cheap, fast, do it this week.
 
 ### Mid term (2–6 months out)
-- Stand up LNN site if voice test clears. Same stack as GT (Next.js + MDX). No reason to learn new tools.
-- Build the syndication pipe: GT's "Faith & Religion" section pulls from LNN.
-- Begin video for both. LNN scales easier here — generic anchor desk vs. specific Buford-on-location.
-- Identify Black-church-tradition collaborator for LNN. Do not launch that column without one.
+- Stand up The Pulpit site if voice test clears. Same stack as GT (Next.js + MDX). No reason to learn new tools.
+- Build the syndication pipe: GT's "Faith & Religion" section pulls from The Pulpit.
+- Begin video for both. The Pulpit scales easier here — generic correspondent or sermon-style segment vs. specific Buford-on-location.
+- Identify Black-church-tradition collaborator for The Pulpit. Do not launch that column without one.
 
 ### Long term (6+ months)
 - Public launch GT (still pre-launch — needs the holdback removed when ready).
-- LNN publishes consistently; build pastor network for boosts and guest contributions.
-- Revisit Walton Goggins / Gemstones pitch only after LNN has a body of work to point at.
+- The Pulpit publishes consistently; build pastor network for boosts and guest contributions.
+- Revisit Walton Goggins / Gemstones pitch only after The Pulpit has a body of work to point at.
 
-The order matters: GT is already running, so it doesn't need a sprint. LNN is the new build and should get the focused energy. Don't try to do both new at once.
+The order matters: GT is already running, so it doesn't need a sprint. The Pulpit is the new build and should get the focused energy. Don't try to do both new at once.
 
 ---
 
 ## Syndication Model
 
-**GT → LNN:** GT does not feed LNN. Calhoun-specific bits don't travel.
+**GT → The Pulpit:** GT does not feed The Pulpit. Calhoun-specific bits don't travel.
 
-**LNN → GT:** GT pulls LNN's faith content into a "Faith & Religion" section. This:
+**The Pulpit → GT:** GT pulls The Pulpit's faith content into a "Faith & Religion" section. This:
 - Gives GT a fifth section without writing more
-- Cross-promotes LNN to GT's regional audience (likely overlap on this content)
-- Keeps GT's local voice intact — the LNN content is clearly badged as syndicated, not Buford
+- Cross-promotes The Pulpit to GT's regional audience (likely overlap on this content)
+- Keeps GT's local voice intact — The Pulpit content is clearly badged as syndicated, not Buford
 
-**Implementation note (when we get there):** keep LNN articles as the source of truth. GT's faith section should be a syndicated view, not duplicate MDX files. Probably a content collection or a build-time fetch from a shared content directory. Decide when building, not now.
+**Implementation note (when we get there):** keep The Pulpit articles as the source of truth. GT's faith section should be a syndicated view, not duplicate MDX files. Probably a content collection or a build-time fetch from a shared content directory. Decide when building, not now.
 
 **Cross-pollinating bits (one observation, two pieces):**
-- **Chick-fil-A theology.** GT covers a specific Oxford CFA opening as religion journalism (already drafted: `_drafts/chick-fil-a-oxford-chosen.mdx`). LNN covers the national pattern: "Chick-fil-A Opens Oxford Location, Immediately Becomes Third Baptist Church" works for either, but the GT version names Oxford and Buford writes it; the LNN version is wire-service generic and runs nationally.
-- **Megachurch coverage.** GT has Pastor Brad Ellison at The Bridge at Oxford (CONCEPT.md cast). LNN has a national celebrity-pastor character. Don't merge; let them coexist as local and national versions of the same archetype.
-- **Southern Gospel.** Could go either way. Default to LNN unless the bit is specifically Calhoun-coded.
+- **Chick-fil-A theology.** GT covers a specific Oxford CFA opening as religion journalism (already drafted: `_drafts/chick-fil-a-oxford-chosen.mdx`). The Pulpit covers the national pattern: "Chick-fil-A Opens Oxford Location, Immediately Becomes Third Baptist Church" works for either, but the GT version names Oxford and Buford writes it; The Pulpit version is wire-service generic and runs nationally.
+- **Megachurch coverage.** GT has Pastor Brad Ellison at The Bridge at Oxford (CONCEPT.md cast). The Pulpit has a national celebrity-pastor character. Don't merge; let them coexist as local and national versions of the same archetype.
+- **Southern Gospel.** Could go either way. Default to The Pulpit unless the bit is specifically Calhoun-coded.
 
-Rule of thumb: if it could run in any Bible Belt town, it's LNN. If it requires Calhoun County context to land, it's GT.
+Rule of thumb: if it could run in any Bible Belt town, it's The Pulpit. If it requires Calhoun County context to land, it's GT.
 
 ---
 
@@ -86,7 +86,7 @@ The brainstorm surfaced GT-specific bits not yet in `satire-targets.md` or `edit
 - 2026 gubernatorial race — Ivey term-limited, Tuberville running. Buford covers as wire-service.
 - Auburn's new head coach Alex Golesh — coaching absurdity, plays into existing GT football register.
 - Iron Bowl satire — already implied in CONCEPT.md.
-- **Sabanology as religion** — fans baptized in Saban's name. "Theology of Eternal Domination" connecting football supremacy to Christian nationalism. **This is a hinge bit** — could run on either site. Probably GT first (Alabama-coded), then a national version on LNN.
+- **Sabanology as religion** — fans baptized in Saban's name. "Theology of Eternal Domination" connecting football supremacy to Christian nationalism. **This is a hinge bit** — could run on either site. Probably GT first (Alabama-coded), then a national version on The Pulpit.
 
 ### Food / Retail Culture
 - Jack's as senior center — "Jack's Expands Senior Services After Realizing They're Running De Facto Retirement Community." Fits GT's existing Jack's-as-sacrament register.
@@ -117,35 +117,35 @@ The brainstorm surfaced GT-specific bits not yet in `satire-targets.md` or `edit
 
 Currently GT site structure is flat-ish (articles, drafts). Brainstorm proposed:
 - Politics
-- Faith & Religion (syndicated from LNN)
+- Faith & Religion (syndicated from The Pulpit)
 - Arts & Culture
 - Lifestyle
 - Gardening
 - Sports
 
-**Recommendation:** don't add sections until there's enough content to populate them. A section with two articles in it reads as broken. Re-evaluate when we have ~10 published articles per proposed section. Faith & Religion is the exception — once LNN exists, it can launch with however many LNN articles already exist.
+**Recommendation:** don't add sections until there's enough content to populate them. A section with two articles in it reads as broken. Re-evaluate when we have ~10 published articles per proposed section. Faith & Religion is the exception — once The Pulpit exists, it can launch with however many articles already exist.
 
 ---
 
 ## Collaborators / Inspirations to Research
 
-Track these and follow up. Most are LNN-relevant.
+Track these and follow up. Most are Pulpit-relevant.
 
 - **Phil Vischer (VeggieTales) / Holy Post Podcast** — progressive Christian commentary; reference for tone, possible boost
 - **Mockingbird Media** — Episcopal/Presbyterian progressive Christian outlet; reference, possible cross-pollination
 - **John Wesley graphic/comic strip** — Methodist pastor satire project; possible collaborator
 - **Walton Goggins / Righteous Gemstones producers** — long-term pitch; not a near-term move
-- **Local theater friends** — real actors for LNN video content; line up before video production
-- **Real pastor network across denominations** — guest contributors for LNN; build the list now, ask later
+- **Local theater friends** — real actors for The Pulpit video content; line up before video production
+- **Real pastor network across denominations** — guest contributors for The Pulpit; build the list now, ask later
 - **Black church tradition collaborator** — *required* for the fake-pastor column. Do not launch without one.
 
 ---
 
 ## Strategic Notes (verbatim from brainstorm, kept here so they don't get lost)
 
-- LNN = national focus, primary project
+- The Pulpit = national focus, primary project
 - GT = regional Alabama focus, secondary / syndication receiver
-- Both start from zero audience — LNN has bigger national scaling potential
+- Both start from zero audience — The Pulpit has bigger national scaling potential
 - Matt's pastoral background = credibility to satirize from inside the tradition
 - Video strategy: repackage articles as deadpan news anchor clips for TikTok
 - Find real Black pastor collaborator for Black church tradition column — don't write that voice yourself
