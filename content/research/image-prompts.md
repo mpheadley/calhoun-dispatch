@@ -196,3 +196,155 @@ Anniston and Calhoun County are racially diverse. The default AI output skews wh
 - [x] Race specified for all visible persons
 - [x] Model: GPT
 
+
+---
+
+## Session 3 Prompts (2026-05-01) — PENDING (Replicate credit exhausted)
+
+All prompts below are validated and ready to run when credit is topped up.
+Run with: `python3 scripts/gt-image.py "<prompt>" --model gpt`
+
+---
+
+### RMC Waiting Room Government
+
+**File:** `public/images/articles/rmc-waiting-room-government/hero.webp`
+**Status:** PENDING — credit exhausted
+
+**Prompt:**
+> Wire service photograph. Hospital emergency waiting room, fluorescent overhead lighting, late evening. A Black man in his fifties in a University of Alabama sweatshirt sits in the front row with his arms folded, expression neutral and authoritative. Five other people of mixed race sit scattered in plastic chairs — an older white woman, a young Black man, a middle-aged Latina woman. A hand-lettered sign taped to the cinder-block wall reads something illegible. A wall-mounted television shows something no one is watching. Photojournalistic grain. Slightly blown-out highlights. No text.
+
+**Pre-generation checklist:**
+- [x] Wire service photograph ✓
+- [x] Photojournalistic grain ✓
+- [x] Slightly blown-out highlights ✓
+- [x] No real brands
+- [x] Race specified for all persons
+- [x] Model: GPT
+
+---
+
+### Jack's Biscuit Wine Review
+
+**File:** `public/images/articles/jacks-biscuit-wine-review/hero.webp`
+**Status:** PENDING — credit exhausted
+
+**Prompt:**
+> Wire service photograph. Sausage biscuit on white paper wrapper on a fast food restaurant table, morning. Natural window light, slightly blown-out. One paper coffee cup beside it. A Black man in his fifties is partially visible in soft focus in the background, sitting alone at the window, expression settled. Clean, unfussy fast food interior. Photojournalistic grain. Slightly blown-out highlights. No text.
+
+**Pre-generation checklist:**
+- [x] Wire service photograph ✓
+- [x] Photojournalistic grain ✓
+- [x] Slightly blown-out highlights ✓
+- [x] No real brands
+- [x] Race specified for visible person
+- [x] Model: GPT
+
+---
+
+### Chick-fil-A Oxford Second Location
+
+**File:** `public/images/articles/chick-fil-a-oxford-chosen/hero.webp`
+**Status:** PENDING — credit exhausted
+
+**Prompt:**
+> Wire service photograph. Exterior of a fast food chicken restaurant called "Chik-Fil-A" — red-and-white signage altered, drive-through lane with four cars waiting. Flat Alabama sunlight on a commercial strip. A white city water tower is visible in the background. A Black woman and a white teenager walk toward the entrance. Photojournalistic grain. Slightly blown-out highlights. No text except the altered store sign.
+
+**Pre-generation checklist:**
+- [x] Wire service photograph ✓
+- [x] Photojournalistic grain ✓
+- [x] Slightly blown-out highlights ✓
+- [x] Brand altered: "Chik-Fil-A" not "Chick-fil-A"
+- [x] Race specified for visible persons
+- [x] Model: GPT
+
+---
+
+### OPAC Rivalry Dispatch
+
+**File:** `public/images/articles/opac-rivalry-dispatch/hero.webp`
+**Status:** PENDING — credit exhausted
+
+**Prompt:**
+> Wire service photograph. Modern performing arts center exterior at dusk, clean geometric architecture, two flags on poles in front. In the background at the edge of frame, an older brick building with a vintage theater marquee is partially visible. A diverse crowd of Calhoun County residents — Black and white, various ages — streams toward the entrance in formal attire. Photojournalistic grain. Slightly blown-out highlights. No text on the marquee.
+
+**Pre-generation checklist:**
+- [x] Wire service photograph ✓
+- [x] Photojournalistic grain ✓
+- [x] Slightly blown-out highlights ✓
+- [x] No real brands
+- [x] Race specified (diverse crowd)
+- [x] Model: GPT
+
+---
+
+### County Commission Agenda
+
+**File:** `public/images/articles/county-commission-agenda/hero.webp`
+**Status:** PENDING — credit exhausted
+
+**Prompt:**
+> Wire service photograph. County government meeting room — wooden raised dais with seven chairs, American flag to the right, overhead fluorescent lighting. The room is empty except for one Black man in his sixties in a dress shirt seated at the far end of the dais, looking at a paper in front of him. Name placard visible but text illegible. Photojournalistic grain. Slightly blown-out highlights. No readable text.
+
+**Pre-generation checklist:**
+- [x] Wire service photograph ✓
+- [x] Photojournalistic grain ✓
+- [x] Slightly blown-out highlights ✓
+- [x] No real brands
+- [x] Race specified
+- [x] Model: GPT
+
+---
+
+### Farmers Market Vendor Diversity
+
+**File:** `public/images/articles/farmers-market-vendor-diversity/hero.webp`
+**Status:** PENDING — credit exhausted
+
+**Prompt:**
+> Wire service photograph. Outdoor farmers market, Saturday morning, white pop-up tent canopies. A Black woman in her forties browses a folding table of fresh produce. A white male vendor in his thirties pours coffee from a thermos. In the background, one table is entirely covered with small glass jars — jam in various colors. A hand-painted park sign is partially visible. Flat morning Alabama sunlight. Photojournalistic grain. Slightly blown-out highlights. No readable text on signs.
+
+**Pre-generation checklist:**
+- [x] Wire service photograph ✓
+- [x] Photojournalistic grain ✓
+- [x] Slightly blown-out highlights ✓
+- [x] No real brands
+- [x] Race specified for all persons
+- [x] Model: GPT
+
+---
+
+### JSU Marching Southerners / Funeral
+
+**File:** `public/images/articles/jsu-marching-southerners-funeral/hero.webp`
+**Status:** PENDING — credit exhausted
+
+**Prompt:**
+> Wire service photograph. Marching band in formal navy and gold uniforms standing at rest in a church parking lot, midday Alabama sun. Twenty musicians visible — Black and white, mixed ages — instruments held at their sides, expressions politely neutral. A black hearse is visible at the side entrance of the church in the background. One tuba player is notably absent from the brass section — visible gap in the formation. Photojournalistic grain. Slightly blown-out highlights. No text.
+
+**Pre-generation checklist:**
+- [x] Wire service photograph ✓
+- [x] Photojournalistic grain ✓
+- [x] Slightly blown-out highlights ✓
+- [x] No real brands
+- [x] Race specified (mixed band)
+- [x] Model: GPT
+
+---
+
+### Hobby Lobby Seasonal Transition
+
+**File:** `public/images/articles/hobby-lobby-seasonal-transition/hero.webp`
+**Status:** PENDING — credit exhausted
+
+**Prompt:**
+> Wire service photograph. Craft store interior, seasonal merchandise aisle. Left side of the aisle: Christmas ornaments, garland, and boxed village pieces fully stocked and bright. Right side of the same aisle: a single foam skeleton on a metal endcap, marked with a large orange 75% OFF tag. A white woman in her fifties stands in the aisle looking at the skeleton. She does not appear to have made a decision. Photojournalistic grain. Slightly blown-out highlights. No readable text except the price tag.
+
+**Pre-generation checklist:**
+- [x] Wire service photograph ✓
+- [x] Photojournalistic grain ✓
+- [x] Slightly blown-out highlights ✓
+- [x] No real brands (Hobby Lobby not mentioned in prompt — just "craft store interior")
+- [x] Race specified
+- [x] Model: GPT
+

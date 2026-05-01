@@ -1,6 +1,6 @@
 # GT Editorial Calendar
 
-*Last updated: 2026-04-30 (session 2)*
+*Last updated: 2026-05-01 (session 3)*
 *Pace: 1–2 articles/month. Never at the expense of SL profiles.*
 
 ---
@@ -59,6 +59,19 @@ Written and imaged this session (2026-04-30). All `published: false`. Matt appro
 | Weaver 81st Year | `_drafts/weaver-81st-year.mdx` | Evergreen. |
 | UWECA — StoryBrand | `_drafts/uweca-storybrand.mdx` | Shannon Jenkins in draft — swap fictional name before publish |
 | Alabama Band / Fort Payne | `_drafts/alabama-band-local-story.mdx` | Evergreen. |
+
+## New Drafts (session 3, 2026-05-01) — Need Images + Publish Decision
+
+| Article | File | Notes |
+|---|---|---|
+| RMC Waiting Room Government | `_drafts/rmc-waiting-room-government.mdx` | No relationship risk. Evergreen. |
+| Jack's Biscuit Wine Review | `_drafts/jacks-biscuit-wine-review.mdx` | No relationship risk. |
+| Chick-fil-A Oxford Second Location | `_drafts/chick-fil-a-oxford-chosen.mdx` | No relationship risk. Institutional. |
+| OPAC Rivalry Dispatch | `_drafts/opac-rivalry-dispatch.mdx` | No relationship risk. Institutional. |
+| County Commission Agenda | `_drafts/county-commission-agenda.mdx` | Evergreen. No relationship risk. |
+| Farmers Market Vendor Diversity | `_drafts/farmers-market-vendor-diversity.mdx` | Matt is the unnamed director — confirm before publish |
+| JSU Marching Southerners / Funeral | `_drafts/jsu-marching-southerners-funeral.mdx` | JSU is an institution — no heads-up needed |
+| Hobby Lobby Seasonal Transition | `_drafts/hobby-lobby-seasonal-transition.mdx` | Oxford/seasonal — hold until October 2026 |
 
 ## Drafts Without Hero Images — Need Replicate Credit + Generate
 
