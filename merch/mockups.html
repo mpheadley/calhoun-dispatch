@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Green Tomato — Merch Mockups</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=VT323&family=Times+New+Roman&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: #E5E5E5; /* Classic 90s grey */
+      font-family: 'Times New Roman', serif;
+      padding: 60px 24px;
+      color: #000;
+    }
+    h1 {
+      font-family: 'Times New Roman', serif;
+      font-weight: bold;
+      font-size: 2.5rem;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    h1 span {
+      display: inline-block;
+      padding: 5px 15px;
+      background: blue;
+      color: yellow;
+      border: 2px solid navy;
+      border-radius: 5px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 32px;
+      max-width: 1100px;
+      margin: 60px auto 0;
+    }
+    .card {
+      background: #C0C0C0; /* Silver */
+      border: 2px solid;
+      border-color: #FFF #808080 #808080 #FFF;
+      box-shadow: 5px 5px 0px #808080;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .tee {
+      width: 100%;
+      aspect-ratio: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 40px;
+      position: relative;
+    }
+    .tee-white { background: #FFFFFF; }
+    .print {
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 12px;
+    }
+    .print-dark { color: #000000; }
+    .label {
+      padding: 16px 20px;
+      width: 100%;
+      border-top: 2px solid;
+      border-color: #FFF #808080;
+    }
+    .label-title {
+      font-family: 'Times New Roman', serif;
+      font-weight: bold;
+      font-size: 1.2rem;
+      color: #000;
+      margin-bottom: 4px;
+    }
+    .label-note {
+      font-family: 'Times New Roman', serif;
+      font-size: 0.9rem;
+      color: #000;
+      line-height: 1.4;
+    }
+
+    /* Concept 2: Vegetable of Record */
+    .font-8bit {
+      font-family: 'VT323', monospace;
+    }
+    .pixel-art {
+      width: 100px;
+      height: 100px;
+      background: #3A8C3A; /* Green */
+      box-shadow:
+        /* Stem */
+        0px -10px 0 0 #553311,
+        0px -20px 0 0 #553311,
+        /* Body */
+        10px 0 0 0 #3A8C3A, 20px 0 0 0 #3A8C3A, 30px 0 0 0 #3A8C3A, 40px 0 0 0 #3A8C3A, 50px 0 0 0 #3A8C3A, 60px 0 0 0 #3A8C3A, 70px 0 0 0 #3A8C3A, 80px 0 0 0 #3A8C3A, 90px 0 0 0 #3A8C3A,
+        0 10px 0 0 #3A8C3A, 10px 10px 0 0 #6ABE6A, 20px 10px 0 0 #6ABE6A, 30px 10px 0 0 #6ABE6A, 40px 10px 0 0 #6ABE6A, 50px 10px 0 0 #6ABE6A, 60px 10px 0 0 #6ABE6A, 70px 10px 0 0 #6ABE6A, 80px 10px 0 0 #6ABE6A, 90px 10px 0 0 #3A8C3A,
+        /* ... more pixels to form a tomato shape */
+        0px 20px 0 0 #3A8C3A, 10px 20px 0 0 #6ABE6A, 20px 20px 0 0 #6ABE6A, 30px 20px 0 0 #6ABE6A, 40px 20px 0 0 #6ABE6A, 50px 20px 0 0 #6ABE6A, 60px 20px 0 0 #6ABE6A, 70px 20px 0 0 #6ABE6A, 80px 20px 0 0 #6ABE6A, 90px 20px 0 0 #3A8C3A,
+        0 30px 0 0 #3A8C3A, 10px 30px 0 0 #3A8C3A, 20px 30px 0 0 #3A8C3A, 30px 30px 0 0 #3A8C3A, 40px 30px 0 0 #3A8C3A, 50px 30px 0 0 #3A8C3A, 60px 30px 0 0 #3A8C3A, 70px 30px 0 0 #3A8C3A, 80px 30px 0 0 #3A8C3A, 90px 30px 0 0 #3A8C3A;
+      image-rendering: pixelated;
+    }
+
+    /* Concept 3: Under Construction */
+    .construction-barrier {
+      width: 100%;
+      height: 40px;
+      background-image: repeating-linear-gradient(
+        45deg,
+        #FFD700,
+        #FFD700 20px,
+        #000000 20px,
+        #000000 40px
+      );
+      border: 2px solid #000;
+    }
+  </style>
+</head>
+<body>
+
+<h1><span>The Green Tomato Merch</span></h1>
+
+<div class="grid">
+
+  <!-- 2. "The Vegetable of Record" -->
+  <div class="card">
+    <div class="tee tee-white">
+      <div class="print print-dark">
+        <div class="font-8bit" style="font-size: 2rem;">The Green Tomato</div>
+        <img src="pixel-tomato.webp" alt="A pixelated green tomato" style="width: 128px; height: 128px; image-rendering: pixelated;">
+        <div style="font-size: 1.2rem; font-family: 'Times New Roman', serif;">"The Vegetable of Record"</div>
+      </div>
+    </div>
+    <div class="label">
+      <div class="label-title">The Vegetable of Record</div>
+      <div class="label-note">Pixel art straight from a 1997 clipart CD.</div>
+    </div>
+  </div>
+
+  <!-- 3. The "Under Construction" Look -->
+  <div class="card">
+    <div class="tee tee-white">
+      <div class="print print-dark" style="gap: 20px;">
+        <div class="construction-barrier"></div>
+        <div style="font-family: 'Times New Roman', serif; font-size: 1.5rem; font-weight: bold;">
+          Always Investment-Ready
+        </div>
+        <div class="construction-barrier"></div>
+      </div>
+    </div>
+    <div class="label">
+      <div class="label-title">Under Construction</div>
+      <div class="label-note">GeoCities aesthetic for the perpetual economic development announcement.</div>
+    </div>
+  </div>
+
+</div>
+
+</body>
+</html>

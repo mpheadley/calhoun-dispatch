@@ -1,10 +1,23 @@
-# Image Prompt Archive
+# Image Prompt Archive — The Green Tomato
 
 Reference for regenerating or iterating on GT article images.
 
+**Shared compliance rules** (trademark alteration, race spec, image+headline technique, model reference) live in the canonical guide: `~/Developer/webdev/tools/IMAGE-GEN-GUIDE.md`. Read that first. This file covers GT-specific aesthetic requirements and the prompt archive.
+
 ---
 
-## ⚠ MANDATORY PRE-GENERATION CHECKLIST
+## GT Aesthetic — Required on Every Prompt
+
+Every GT image prompt must include all three of these — word for word:
+- `"Wire service photograph"` or `"Small-town newspaper photograph"`
+- `"Photojournalistic grain"`
+- `"Slightly blown-out highlights"`
+
+These are not optional. They define the 1998 local newspaper aesthetic. Omitting any one of them produces a modern-looking image that breaks the GT register.
+
+---
+
+## ⚠ FULL PRE-GENERATION CHECKLIST
 
 Run this against every prompt before calling `generate-image.py`. No exceptions.
 
@@ -21,16 +34,25 @@ If found → alter it before generating:
 - Dollar General → "Dolla General" or "Dollar Depot"
 - Walmart → "Wal-Mart Supercenter" partially obscured
 - NASCAR → "NASKAR"
-- Chick-fil-A → "Chik-Fil-A"
+- Chick-fil-A → "Chick-fil-B" (preferred — letter swap reads as near-miss, funnier than misspelling)
 Never render a real trademark cleanly. See LEGAL_GUIDELINES.md §2.
 
 **3. Race specified for every visible person?**
 Anniston is ~55% Black, ~40% white. If the prompt has a person — named or anonymous — race must be specified. Do not let the model decide. Do not default to white.
 
-**4. Model specified?**
-Default: `--model gpt`. GPT handles multi-person scenes and period-correct news photography best. Flux is only for simple exterior shots; Imagen for single-person documentary. If you used anything other than GPT, flag it.
+**4. Grounding context present?**
+Every prompt must contain a specific location detail that makes the image feel placed in a real setting, not generated in a void. Examples: "strip mall, suburban Alabama," "church social room, dated carpet, fluorescent lighting," "Oxford, Alabama courthouse square." Generic is wrong. Grounded is right.
 
-Only after all four checks pass → show the finalized prompt to Matt → wait for approval → generate.
+**5. No staging?**
+Wire-service images look accidental. The composition should feel like Buford showed up with a camera, not like the image was designed to be funny. One wrong thing. Everything else looks normal. Avoid prompts that describe obviously composed scenes.
+
+**6. No AI tells?**
+Remove: "cinematic lighting," "hyperrealistic," "detailed," "highly detailed," "beautiful," "stunning." These produce AI-look artifacts that break the 1998 register.
+
+**7. Model specified?**
+**Always GPT for GT. No need to ask.** GPT handles multi-person scenes and period-correct news photography best.
+
+Only after all seven checks pass → generate.
 
 ---
 
@@ -248,13 +270,13 @@ Run with: `python3 scripts/gt-image.py "<prompt>" --model gpt`
 **Status:** PENDING — credit exhausted
 
 **Prompt:**
-> Wire service photograph. Exterior of a fast food chicken restaurant called "Chik-Fil-A" — red-and-white signage altered, drive-through lane with four cars waiting. Flat Alabama sunlight on a commercial strip. A white city water tower is visible in the background. A Black woman and a white teenager walk toward the entrance. Photojournalistic grain. Slightly blown-out highlights. No text except the altered store sign.
+> Wire service photograph. Exterior of a fast food chicken restaurant called "Chick-fil-B" — red-and-white signage with the letter B clearly visible where A would be, drive-through lane with four cars waiting. Flat Alabama sunlight on a commercial strip. A white city water tower is visible in the background. A Black woman and a white teenager walk toward the entrance. Photojournalistic grain. Slightly blown-out highlights. No text except the altered store sign.
 
 **Pre-generation checklist:**
 - [x] Wire service photograph ✓
 - [x] Photojournalistic grain ✓
 - [x] Slightly blown-out highlights ✓
-- [x] Brand altered: "Chik-Fil-A" not "Chick-fil-A"
+- [x] Brand altered: "Chick-fil-B" — B clearly legible, same font/color as original
 - [x] Race specified for visible persons
 - [x] Model: GPT
 
@@ -346,5 +368,45 @@ Run with: `python3 scripts/gt-image.py "<prompt>" --model gpt`
 - [x] Slightly blown-out highlights ✓
 - [x] No real brands (Hobby Lobby not mentioned in prompt — just "craft store interior")
 - [x] Race specified
+- [x] Model: GPT
+
+---
+
+### Chief Ladiga Trail — Ignorance
+
+**File:** `public/images/articles/chief-ladiga-trail-ignorance/hero.webp`
+**Status:** PENDING — credit exhausted
+
+**Image+Headline note:** Headline stays straight. Image carries the visual weight — empty trail, informational sign visible but unreadable. Reader sees trail and sign before reading a word. The piece explains that the sign describes an actual person who was removed from this land.
+
+**Prompt:**
+> Small-town newspaper photograph. Paved trail stretching straight into Alabama pine forest, midday summer light filtering through trees. A green informational sign on a wooden post is visible in the foreground — text not readable, but official-looking with a small symbol at the top. The trail is empty. No people visible. Flat, slightly overexposed light. Photojournalistic grain. Slightly blown-out highlights. No readable text.
+
+**Pre-generation checklist:**
+- [x] Wire service/small-town newspaper photograph ✓
+- [x] Photojournalistic grain ✓
+- [x] Slightly blown-out highlights ✓
+- [x] No real brands
+- [x] No persons in frame — no race spec needed
+- [x] Model: GPT
+
+---
+
+### Anniston Has Culture
+
+**File:** `public/images/articles/anniston-has-culture/hero.webp`
+**Status:** PENDING — credit exhausted
+
+**Image+Headline note:** Sign on the museum reads "Anniston Muzeum of Natrul History" (altered). One car in the lot. Blue sky. Perfectly normal institutional exterior — which is the whole joke. The headline does the rest.
+
+**Prompt:**
+> Wire service photograph. Exterior of a mid-century civic building — brick facade, institutional signage reading "Anniston Muzeum of Natrul History." Blue sky, midday Alabama sun. One car parked in the lot. No people visible. American flag on a pole near the entrance. Clean, slightly flat photojournalism. Photojournalistic grain. Slightly blown-out highlights. No text except the altered museum sign.
+
+**Pre-generation checklist:**
+- [x] Wire service photograph ✓
+- [x] Photojournalistic grain ✓
+- [x] Slightly blown-out highlights ✓
+- [x] Brand/name altered: "Anniston Muzeum of Natrul History"
+- [x] No persons in frame — no race spec needed
 - [x] Model: GPT
 

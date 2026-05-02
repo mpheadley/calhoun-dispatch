@@ -9,7 +9,7 @@
 
 ### Called Coffee
 **Status:** Cleared 2026-04-30. Three drafts banked. See CONCEPT.md.
-**Fictional owner name:** TBD — wire in before publish
+**Owner name:** Jerod Snider — use real name. Confirmed 2026-05-01.
 **Pitching:** Text Jerod before first piece goes live. Not asking permission.
 **Articles:** pumpkin spice riots (Sept), bean origin protocol (Oct), laptop rent (evergreen)
 
@@ -99,7 +99,7 @@ Already referenced. JSU is the prestige institution in the county — everything
 
 | Person | Institution | SL Status | GT Rule |
 |---|---|---|---|
-| Jerod Snider | Called Coffee | Draft in progress | Cleared — fictional name |
+| Jerod Snider | Called Coffee | Draft in progress | Use real name — confirmed 2026-05-01 |
 | Shannon Jenkins | UWECA | Profile live | Cleared — fictional name |
 | Justin Hall | Old Noble | Active candidate | Caution — see above |
 | Will Clay | LaPlante Faulkner | Pre-interview | Low satire surface |

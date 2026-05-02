@@ -1,6 +1,10 @@
 # Satire Craft Guide — The Green Tomato & The Pulpit Truth
 
+**Canonical status:** This is the shared satire craft reference for both GT and The Pulpit Truth. It covers fundamentals that apply to both outlets. The TPT repo has its own thin extension (`SATIRE-VOICE-GUIDE.md`) covering only TPT-specific rules — the institutional Christian newsmagazine register, the Zion Community Church frame, the delayed-reveal mechanics, and the three-step escalation structure. If you're working on TPT content, read this first, then read the TPT extension. Do not duplicate content between them.
+
 *This guide covers the craft mechanics of writing satire in the GT/TPT register. It assumes you already know the voice rules (kill list, Buford persona, etc. — see `CLAUDE.md`). This is the level underneath: how the jokes actually work, why some pieces land and some don't, and what to do when a draft is serviceable but not sharp.*
+
+*See also: `southern-legends/content/AUTHENTIC-VOICE-GUIDE.md` — the parallel craft guide for Southern Legends literary journalism. The voice moves are different registers of the same core discipline: specific detail, flat delivery, no explaining the point.*
 
 ---
 
@@ -113,6 +117,27 @@ The headline treats the absence of news as news.
 The institution has done nothing and said nothing. Buford covers this. The coverage is the joke.
 
 **Test:** Would a real local newspaper never run this story? If yes, Buford running it is the premise. The piece then needs to confirm the non-event with full journalistic rigor.
+
+### Image + Headline as Delayed Reveal
+
+A hero image can carry the visual half of the joke, letting the headline stay straighter.
+
+The mechanic: the headline states the event as fact, the image shows one absurd detail deadpan, and the reader completes the joke before reading a sentence. The body then confirms what the image already told them. Three layers of arrival — visual, verbal, confirmation — instead of two.
+
+> **Headline:** "Chick-fil-A Oxford Announces Second Location; City Officials Comment"
+> **Image:** Exterior of a Chick-fil-B restaurant, drive-through line extending to the highway, Oxford water tower visible in background. No caption commentary.
+
+The headline is entirely straight — no "Chosen," no wink. The image has already done that work. The reader arrives at the piece already carrying the visual joke; the text confirms it formally.
+
+**Why this helps:** Headlines that telegraph the joke ("City Describes Itself as 'Chosen'") let the reader decide it's funny before reading. If they agree, they don't need the article. If they don't, they've been told how to feel. A straight headline + absurd image creates a gap the reader crosses. The crossing is funnier than being handed the destination.
+
+**The GT hero image rule:** One absurd element max. Wire-service composition — Buford needed a photo, not a visual punchline. The moment an image looks staged for comic effect, the mechanic collapses. The photo should look accidental. The absurdity should look normal.
+
+**For TPT:** Same principle. The institutional AP wire register gets even straighter headlines when the image carries the visual absurdity. "Zion Community Church Launches Shepherd App" with a photo of a perfectly normal church exterior is funnier than any headline qualifier.
+
+**Image caption rule:** Buford's captions are descriptive, not editorial. "The Oxford location, seen from the Alabama Highway 21 corridor, Thursday morning" — not "Long lines at the existing location suggest Oxford's appetite for the chain remains unsatisfied."
+
+**Trademark rule:** Any real brand sign in a GT/TPT hero image must be altered. Misspell or modify the logo — "Chick-fil-B," "NASKAR," "Wal-Mart Supercenter" partially obscured. Never render a trademark cleanly. The altered sign is not the joke — it is a legal and aesthetic necessity that happens to be funny if the reader notices it.
 
 ---
 
@@ -268,6 +293,38 @@ BODY (three beats):
 CLOSING: The narrator draws a sincere positive conclusion from everything reported. 
          The conclusion is wrong in a way the reader cannot miss.
 ```
+
+---
+
+## Further Reading
+
+These resources are directly useful for writing in the GT/TPT register. Read them analytically — study the mechanic, not just the jokes.
+
+**Primary models**
+
+**The Onion** (theonion.com) — The source. Focus on the 2000–2012 period for the purest form of the premise-stated-as-fact mechanic. Every headline is a case study in when to confirm vs. when to escalate. Don't read for inspiration — read for structure.
+
+**Our Dumb Century** (The Onion, 1999) — The anthology. Best single resource for studying the confirming-detail technique in isolation. The 1998 section is the model for GT-era form.
+
+**The Beaverton** (thebeaverton.com) — Canadian deadpan local news satire. Closest structural cousin to GT. Study how their headlines handle the non-event form and how their body paragraphs confirm without editorializing.
+
+**McSweeney's Internet Tendency** (mcsweeneys.net) — Formal escalation and institutional voice. The sincere-quote technique is better modeled here than anywhere else. Read the "Open Letters to…" series for pure delayed-reveal examples.
+
+**Clickhole** (clickhole.com) — Onion offshoot. Visual + verbal integration. How image and headline relate when both carry absurdity without one explaining the other.
+
+**Useful contrast**
+
+**The Babylon Bee** (babylonbee.com) — Study as negative space. The Bee telegraphs its punchlines, punches at pre-agreed targets, and relies on audience pre-approval. When a Bee headline lands, the reader already knew the joke. That is the exact opposite of what GT does. Read to understand what telegraphing looks like from the outside.
+
+**Craft references**
+
+**A.J. Liebling**, *The Earl of Louisiana* (1961) — Not satire, but the model for earnest coverage of absurd local politics. Liebling covered Earl Long's political collapse with zero editorializing and maximum specificity. Buford is a direct descendant. Find it at any library.
+
+**Ian Frazier**, New Yorker "Talk of the Town" pieces — Flat voice, maximum specificity, comic observation with no commentary. Frazier can make a hardware store opening worth reading without explaining why. The flat-closing-fact technique in particular.
+
+**Nathan Rabin**, *My Year of Flops* — Not satire, but the best sustained demonstration of the sincere-quote technique: the source says the true thing plainly, and the reader concludes something the source did not intend. The gap between what Rabin reports and what he is documenting is the whole book.
+
+**Roy Peter Clark**, *The Glamour of Grammar* (2010) — The chapter on juxtaposition covers the mechanics of placing two honest things beside each other and letting the reader fill the gap. The GT image + headline technique is applied juxtaposition.
 
 ---
 

@@ -17,6 +17,7 @@ export interface ArticleFrontmatter {
   developing?: boolean;
   heroImage?: string;
   heroAlt?: string;
+  syndicatedFrom?: string; // "thepulpittruth.com/{slug}" — set by syndicate.py
 }
 
 export interface Article {
@@ -68,4 +69,14 @@ export function getLeadArticle(): Article | null {
   const all = getAllArticles();
   if (all.length === 0) return null;
   return all.find((a) => a.frontmatter.featured) ?? all[0];
+}
+
+/** Returns up to `limit` published articles sharing a tag with the given article, excluding itself. */
+export function getRelatedArticles(slug: string, limit = 3): Article[] {
+  const article = getArticleBySlug(slug);
+  if (!article) return [];
+  const tags = new Set(article.frontmatter.tags ?? []);
+  return getAllArticles()
+    .filter((a) => a.slug !== slug && (a.frontmatter.tags ?? []).some((t) => tags.has(t)))
+    .slice(0, limit);
 }

@@ -1,23 +1,22 @@
-# The Pulpit + Green Tomato — Two-Site Strategy
+# The Pulpit Truth + Green Tomato — Two-Site Strategy
 
-*Content moved to the canonical home: `/Volumes/Samsung_T5/webdev/the-pulpit/research/pulpit-and-gt-strategy.md`*
-
-*This stub stays in the GT repo so GT sessions can find it. For the full two-site operational plan, incubation model, sequencing, and identity-protection notes, read the file in the Pulpit repo.*
+*Full strategy doc: `/Volumes/Samsung_T5/webdev/the-pulpit-truth/research/pulpit-and-gt-strategy.md`*
 
 ---
 
-## GT-Side Summary (what this means for GT sessions)
+## Current model (locked 2026-05-01)
 
-The Pulpit launches **inside GT** as a Faith & Religion section during incubation (Phase 1–2), then spins off to its own domain once it has traction.
+**TPT is standalone.** Incubation inside GT is skipped — TPT launched directly at `thepulpittruth.com` with its own chrome (modern Christian newsmagazine register). GT's 1998 aesthetic is wrong for TPT's delayed-reveal satire.
 
-During incubation:
-- Pulpit articles live as MDX in `content/articles/_drafts/` with a `pulpit-` filename prefix
-- Badged as Faith & Religion / The Pulpit
-- Bylines pseudonymous — **never Matt's real name**
-- Wire up the Faith & Religion section into GT site structure when the first articles are ready to promote out of _drafts
+**Syndication direction:** TPT is the source of truth. GT's Faith & Religion section will eventually pull from TPT and display articles with a syndication badge. Build when GT publicly launches.
 
-Cross-pollination to track:
-- GT's `_drafts/chick-fil-a-oxford-chosen.mdx` (Buford covers the Oxford CFA opening) and The Pulpit's Chick-fil-A Baptism draft (national rollout) are the first crossover pair. Do not merge them — two registers, two front doors.
-- `CONCEPT.md` has Pastor Brad Ellison at The Bridge at Oxford (local megachurch character). The Pulpit has the Zion Community Church cast. Keep them separate; local and national versions of the same archetype.
+**Nothing to wire in GT now.** No Faith & Religion section, no Pulpit MDX files in GT's content tree. The GT-side work happens later, pointing at the live TPT site.
 
-Rule of thumb: if it could run in any Bible Belt town, it's The Pulpit. If it requires Calhoun County context to land, it's GT.
+---
+
+## Cross-pollination to track (still active)
+
+- GT's `_drafts/chick-fil-a-oxford-chosen.mdx` (Buford covers Oxford CFA) ↔ TPT's church-plant-chick-fil-a draft (national theological fallout). First crossover pair when both publish.
+- GT has Pastor Brad Ellison at The Bridge at Oxford (local). TPT has Zion Community Church (national). Keep them separate.
+
+Rule of thumb: if it could run in any Bible Belt town → TPT. If it requires Calhoun County context → GT.

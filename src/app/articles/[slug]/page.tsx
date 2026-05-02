@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import { MDXRemote } from "next-mdx-remote/rsc";
-import { getAllArticles, getArticleBySlug } from "@/lib/articles";
+import { getAllArticles, getArticleBySlug, getRelatedArticles } from "@/lib/articles";
 import { Link } from "next-view-transitions";
 import ArticleImage from "@/app/components/ArticleImage";
 import AdSlot from "@/app/components/AdSlot";
@@ -25,6 +25,8 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
   const { slug } = await params;
   const article = getArticleBySlug(slug);
   if (!article || !article.frontmatter.published) notFound();
+
+  const related = getRelatedArticles(slug);
 
   return (
     <>
@@ -54,6 +56,26 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
       </article>
 
       <AdSlot slotKey={`article-bottom-${slug}`} count={2} />
+
+      <hr className="gt-rule" />
+
+      {related.length > 0 && (
+        <div style={{ margin: "16px 0" }}>
+          <p className="gt-section-header">&#9733; More From The Bureau &#9733;</p>
+          <ul style={{ listStyle: "none", padding: 0, margin: 0 }}>
+            {related.map((r) => (
+              <li key={r.slug} style={{ borderBottom: "1px dotted #000080", padding: "6px 0" }}>
+                <Link href={`/articles/${r.slug}`} style={{ fontWeight: "bold" }}>
+                  {r.frontmatter.title}
+                </Link>
+                <span style={{ fontSize: "0.78rem", color: "#555", marginLeft: 8 }}>
+                  {r.frontmatter.tags?.slice(0, 2).join(", ")}
+                </span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
 
       <hr className="gt-rule" />
 

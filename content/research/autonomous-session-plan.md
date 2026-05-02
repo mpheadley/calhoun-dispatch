@@ -18,7 +18,7 @@
 
 - **Image generation** — standing rule: always show prompt, wait for approval before running generate-image.py. Cannot be done unattended unless Matt explicitly unlocks it for the session.
 - **Publish decisions** — flipping an article from draft → live. Can be automated for articles with images on a clear calendar date, but Matt should confirm.
-- **Fictional name decisions** — e.g., what name to use for Jerod's fictional counterpart in the Called Coffee articles.
+- **Fictional name decisions** — Jerod Snider (Called Coffee) uses real name, confirmed 2026-05-01. Shannon Sullivan (UWECA) still uses fictional name Calvin Odom — do not change without Matt.
 - **Tone review** — articles involving personal contacts (Called Coffee, UWECA) before first publish.
 
 ---
@@ -171,7 +171,7 @@ These must be consistent across all articles. Do not invent new names without Ma
 
 | Real person | Fictional GT name | Status |
 |---|---|---|
-| Jerod Snider (Called Coffee) | TBD — Matt cleared use of real name in drafts 2026-04-30; swap before publish | Pending confirmation |
+| Jerod Snider (Called Coffee) | Real name confirmed 2026-05-01 — use as-is | Confirmed |
 | Shannon Jenkins (UWECA) | TBD — Matt cleared use of real name in drafts 2026-04-30; swap before publish | Pending confirmation |
 | Karla Eden (Main Street Anniston) | Dorothy Finch | Already used in live article (anniston-downtown-mural) — effectively locked |
 
